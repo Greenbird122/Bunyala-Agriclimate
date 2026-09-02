@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "home": "Khwa",
+    "about": "Isanhu Iswe",
+    "solutions": "Viyali Vyisu",
+    "impact": "Ikundo Lyisu",
+    "team": "Timu Yisu",
+    "news": "Mashaha ne",
+    "contact": "Tumenyanisi"
+  },
+  "hero": {
+    "headline": "Okukolaga Musala Kuyanga Ekololo Ly'ama Luyia",
+    "subtitle": "Bunyala Agri-Climate Industrial Park Limited likasibwa kha Musumba wa Busia, Western Kenya.",
+    "cta_solutions": "Lola Viyali Vyisu",
+    "cta_partner": "Tumenyanisi Nasi"
+  },
+  "stats": {
+    "waste_recycled": "Toni za Musala Z'okweywa",
+    "green_jobs": "Emisango ya Bulamu ne Vana",
+    "farmers_benefiting": "Abatali Abakololwa",
+    "people_reached": "Abantu Abakololwa",
+    "feed_cost_reduction": "Okutsimila Ibanga lya Feed"
+  },
+  "about": {
+    "title": "Isanhu Iswe",
+    "who_we_are": "Iswe Tubani",
+    "mission_title": "Ikundo Lyisu",
+    "vision_title": "Eliko Lyisu",
+    "bacis_title": "Ikundo ly'Abanhu Iswe"
+  },
+  "cta": {
+    "tagline": "Tuyali Musala Kuyanga Ekololo!"
+  },
+  "common": {
+    "learn_more": "Lola Ngasi",
+    "back_to_top": "Luka Khuswa",
+    "accept_cookies": "Sibila Cookies",
+    "cookie_text": "Tulipha cookies okubutsa bulamu bwo. Nono utumilila ukolaga leshi, ulya kukolaga masibilo ghaiswe.",
+    "language": "Lulimi"
+  },
+  "footer": {
+    "copyright": "© 2026 Bunyala Agri-Climate Industrial Park Limited. Masibilo ghose ghasibwa.",
+    "tagline": "Okukolaga Musala Kuyanga Ekololo ne Bulamu"
+  }
+}

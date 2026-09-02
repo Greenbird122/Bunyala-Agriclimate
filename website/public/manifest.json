@@ -1,0 +1,47 @@
+{
+  "name": "Bunyala Agri-Climate Industrial Park Limited",
+  "short_name": "Bunyala Agri-Climate",
+  "description": "Kenyan social enterprise pioneering Blue Circular Economy and ClimateTech solutions in the Lake Victoria Basin",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E6B3C",
+  "theme_color": "#1E6B3C",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "categories": ["nonprofit", "environment", "education"],
+  "icons": [
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Our Solutions",
+      "url": "/solutions",
+      "description": "Explore our circular economy solutions"
+    },
+    {
+      "name": "Contact Us",
+      "url": "/contact",
+      "description": "Get in touch with our team"
+    },
+    {
+      "name": "Our Impact",
+      "url": "/impact",
+      "description": "See the results of our work"
+    }
+  ],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

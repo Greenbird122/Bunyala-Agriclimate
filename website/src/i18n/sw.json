@@ -1,0 +1,192 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu Sisi",
+    "solutions": "Suluhisho Zetu",
+    "impact": "Athari Zetu",
+    "team": "Timu Yetu",
+    "news": "Habari na Hadithi",
+    "contact": "Wasiliana Nasi",
+    "partners": "Washirika"
+  },
+  "hero": {
+    "headline": "Kubadilisha Taka Kuwa Utajiri kwa Uchumi wa Bluu-Kijani",
+    "subtitle": "Bunyala Agri-Climate Industrial Park Limited ni biashara ya kijamii ya Kenya inayoongoza suluhisho za Uchumi wa Mduara wa Bluu na Teknolojia ya Hali ya Hewa katika Basin ya Ziwa Victoria.",
+    "cta_solutions": "Chunguza Suluhisho Zetu",
+    "cta_partner": "Shirikiana Nasi"
+  },
+  "stats": {
+    "waste_recycled": "Tani za Taka Zilizotumika Upya",
+    "green_jobs": "Nafazi za Kijani kwa Wanawake na Vijana",
+    "farmers_benefiting": "Wakulima Wanaonufaika",
+    "people_reached": "Watu Waliopata Faida",
+    "feed_cost_reduction": "Kupunguza Gharama ya Chakula"
+  },
+  "about": {
+    "title": "Kuhusu Sisi",
+    "who_we_are": "Sisi Nani",
+    "who_we_are_text": "Bunyala Agri-Climate Industrial Park Limited ni biashara ya kijamii ya Kenya iliyo ndani ya Kaunti ya Busia, Magharibi mwa Kenya, inayofanya kazi katika muunganiko wa vitendo dhidi ya mabadiliko ya tabianchi, uchumi wa mduara, kilimo, uvuvi, usimamizi wa taka, na nishati mbadala.",
+    "our_work": "Kazi yetu inajibu changamoto zinazohusiana zinazokabiliana na jamii karibu na Basin ya Ziwa Victoria: ongezeko la taka za kikorganic na baharini, gharama kubwa za pembejeo za kilimo na uvuvi, udhaifu wa hali ya hewa, fursa fini za maisha, na shinikizo kwa mazingira ya maji.",
+    "waste_as_resource": "Badala ya kutazama taka kama tatuo, tunaziona kama rasilimali na fursa ya kiuchumi. kupitia mbinu za kubadilisha taka kuwa thamani, tunabadilisha rasilimali za kikorganic kuwa bidhaa zinazoweza kuunga mkono wakulima, wazalishaji wa samaki na biashara za vijijini huku tukizaja fursa mpya kwa wanawake na vijana.",
+    "mission_title": "Dhamira Yetu",
+    "mission_text": "Kukuza suluhisho za Uchumi wa Mduara wa Bluu-Kijani zinazobadilisha taka kuwa rasilimali za uzalishaji, kuimarisha mifumo ya chakula inayostahimili mabadiliko ya tabianchi, kuunda nafazi za kijani, na kuboresha maisha.",
+    "vision_title": "Maono Yetu",
+    "vision_text": "Kuwa biashara inayoongoza ya uchumi wa mduara barani Afrika inayoonyesha jinsi taka, teknolojia na ubunifu wa jamii vinaweza kuendesha mabadiliko ya kiuchumi na mazingira endelevu.",
+    "bacis_title": "Programu Yetu ya Jamii",
+    "bacis_text": "Bunyala Agri Climate Impact Solutions (BACIS) ni programu yetu ya jamii, inayofanya kazi pamoja na kampuni katika ujuzi wa vijana na wanawake, mafunzo ya ujasiriamali, na miradi ya uwezeshaji wa jamii."
+  },
+  "problem": {
+    "title": "Tatua Tunalotatua",
+    "headline": "Taka za Afrika Zinaweza Kuwa Fursa Yake.",
+    "text": "Jamii karibu na Ziwa Victoria zinakabiliana na changamoto zinazokua kuhusu taka za kikorganic, taka za baharini, uharibifu wa mazingira, mabadiliko ya tabianchi na gharama kubwa za pembejeo za kilimo.",
+    "solution_intro": "Changamoto hizi zinahusiana. Tunaamini suluhisho ni kuunganisha usimamizi wa taka na uzalishaji wa chakula, vitendo dhidi ya mabadiliko ya tabianchi na fursa za kiuchumi."
+  },
+  "model": {
+    "title": "Mfumo wetu wa Uchumi wa Mduara",
+    "headline": "Kutoka Taka hadi Thamani",
+    "text": "Mfumo wetu umejengwa kanuni: Taka → Ubadilishaji wa Kibiolojia → Thamani → Wakulima → Chakula → Maisha"
+  },
+  "solutions": {
+    "title": "Suluhisho Zetu",
+    "subtitle": "Uvuvi Endelevu • Kilimo Chenye Busara ya Tabianchi • Utengenezaji wa Mduara • Nishati Mbadala • Nafazi za Kijani",
+    "view_details": "Jifunze Zaidi",
+    "items": {
+      "bsf": {
+        "title": "Ubadilishaji wa BSF",
+        "short": "Ubadilishaji wa kibiolojia wa nzi wa Majeshi ya Mechi na Teknolojia ya Lysis kubadilisha taka za kikorganic kuwa rasilimali thamani.",
+        "description": "Ubunifu wetu unatumia ubadilishaji wa kibiolojia wa nzi wa Majeshi ya Mechi (BSF), pamoja na Teknolojia ya Lysis, kubadilisha taka za kikorganic zinazofaa kuwa rasilimali za kibiolojia thamani."
+      },
+      "fish_feed": {
+        "title": "Chakula cha Samaki Endelevu",
+        "short": "Suluhisho za chakula endelevu na nafuu kwa protini ya nzi wa BSF kwa uvuvi.",
+        "description": "Uvuvi ni chanzo muhimu cha chakula na maisha karibu na Ziwa Victoria, lakini gharama za chakula bado ni changamoto kubwa kwa wafugaji wa samaki."
+      },
+      "fertilizer": {
+        "title": "Mboji ya Kikorganic",
+        "short": "Frass ya BSF na mboji za kikorganic za udongo zinazosaidia kilimo endelevu.",
+        "description": "Frass ya BSF ni mboji tajiri ya virutubisho inayosaidia afya ya udongo na kilimo endelevu."
+      },
+      "waste": {
+        "title": "Usimamizi wa Taka",
+        "short": "Huduma za ukusanyaji, upangaji, na ubadilishaji wa kibiolojia wa taka za kikorganic.",
+        "description": "Tunatoa huduma kamili za usimamizi wa taka za kikorganic ikiwa ni pamoja na ukusanyaji, urejeshaji, upangaji na ubadilishaji wa kibiolojia."
+      },
+      "energy": {
+        "title": "Nishati Mbadala",
+        "short": "Suluhisho zinazotumia nguvua jua kwa kilimo tija na biashara za vijijini.",
+        "description": "Upatikanaji wa nishati nafuu na ya kuaminika ni muhimu kwa kilimo cha kisasa. Tunapromota suluhisho za nishati mbadala kwa wakulima wadogo na biashara za vijijini."
+      },
+      "agriculture": {
+        "title": "Kilimo Chenye Busara ya Tabianchi",
+        "short": "Mbinu za kilimo endelevu, pembejeo za kikorganic, na mafunzo kwa wakulima kwa mifumo ya chakula inayostahimili.",
+        "description": "Tunasaidia wakulima kubadilika kuelekea mifumo ya uzalishaji endelevu na inayostahimili mabadiliko ya tabianchi."
+      }
+    }
+  },
+  "impact": {
+    "title": "Athari Zetu",
+    "subtitle": "Kufanya Mambo Muhimu",
+    "text": "Tunaunda biashara ambapo mafanikio ya biashara na athari za mazingira zinajiongezea.",
+    "environmental": "Athari za Mazingira",
+    "environmental_items": [
+      "Kupunguza uchafuzi wa taka",
+      "Kuboresha urejeshaji wa rasilimali",
+      "Kupunguza shinikizo kwa rasilimali za asili",
+      "Kusaidia mazingira bora ya baharini"
+    ],
+    "economic": "Athari za Kiuchumi",
+    "economic_items": [
+      "Biashara mpya za mduara",
+      "Gharama chini ya pembejeo",
+      "Masoko mapya",
+      "Thamani iliyongezeka kutoka taka"
+    ],
+    "social": "Athari za Kijamii",
+    "social_items": [
+      "Nafazi za kijani kwa wanawake na vijana",
+      "Ujasiriamali wa vijana",
+      "Ushiriki wa kiuchumi wa wanawake",
+      "Maisha bora ya vijijini"
+    ]
+  },
+  "women_youth": {
+    "title": "Kuunda Nafazi za Kijani za Ushiriki",
+    "text": "Wanawake na vijana ndio kiini cha mfumo wetu wa uchumi wa mduara. Tunalenga kuunda fursa katika mnyororo wa thamani.",
+    "ambition": "Dhamira yetu: nafazi 400 za kijani kwa wanawake na vijana.",
+    "quote": "Tunataka vijana waone vitendo dhidi ya mabadiliko ya tabianchi si jukumu tu la mazingira, bali pia njia ya ujasiriamali, ajira na fursa za kiuchumi."
+  },
+  "team": {
+    "title": "Timu Yetu",
+    "subtitle": "Watu Nyuma ya Ubunifu",
+    "founder": "John Wabwire Shikuku",
+    "founder_role": "Mwanzilishi na Meneja Mkuu",
+    "founder_bio": "John ni mtaalamu wa mazingira na hali ya hewa, mwajasiriamali wa kijamii na kiongozi wa jamii anaefanya kazi katika vitendo dhidi ya mabadiliko ya tabianchi, kilimo endelevu, nishati mbadala na maendeleo ya jamii.",
+    "team_description": "Tunaungwa mkono na timu ya kisekta yenye uwezo katika Uchumi wa Mduara wa Bluu, Kilimo, Mabadiliko ya Tabianchi, Usimamizi wa Mazingira, Maendeleo ya Biashara, Fedha, Uhamasishaji wa Jamii, Teknolojia ya Data na Dijitali, Uvuvi, na Usimamizi wa Taka.",
+    "team_quote": "Pamoja, tunaunganisha ujuzi wa kiufundi na utekelezaji wa ngazi ya jamii kubadilisha mawazo ya ubunifu kuwa suluhisho za vitendo."
+  },
+  "partnerships": {
+    "title": "Ushirikiano",
+    "subtitle": "Hatwezi Kuunda Uchumi wa Mduara Peke Yetu",
+    "text": "Kuongeza suluhisho za mduara inahitaji ushirikiano. Tunaomba ushirikiano na wakulima na vikundi, serikali za kaunti, taasisi za utafiti, vyuo vikuu, wawekezaji, washirika wa maendeleo, fedha za tabianchi, mashirika ya mazingira, na watoa teknolojia.",
+    "cta": "Shirikiana nasi kujenga Basin ya Ziwa Victoria safi zaidi, imara zaidi na ya ushirikiano."
+  },
+  "contact": {
+    "title": "Wasiliana Nasi",
+    "subtitle": "Tujenge Uchumi wa Mduara wa Bluu-Kijani Pamoja.",
+    "location": "Mahali",
+    "location_value": "Kaunti ya Busia, Magharibi mwa Kenya",
+    "region": "Mkoa",
+    "region_value": "Basin ya Ziwa Victoria, Afrika Mashariki",
+    "email": "Barua Pepe",
+    "phone": "Simu",
+    "connect": "Unganisha Nasi",
+    "partnership_areas": "Maeneo ya Ushirikiano",
+    "partnership_list": "Wekeza • Sambaza • Nisha • Shirikiana • Utafiti • Saidia • Nunua"
+  },
+  "sdgs": {
+    "title": "Malengo ya Maendeleo Endelevu",
+    "subtitle": "Kazi yetu inachangia Malengo kadhaa ya Maendeleo Endelevu",
+    "sdg2": "Zero Njaa — kusaidia uzalishaji endelevu wa chakula na uvuvi",
+    "sdg8": "Ajira Bora na Ukuaji wa Kiuchumi — kuunda fursa za ajira za kijani na ujasiriamali",
+    "sdg12": "Matumizi na Uzalishaji wa Kyawavu — kubadilisha taka kuwa rasilimali za uzalishaji",
+    "sdg13": "Vitendo dhidi ya Mabadiliko ya Tabianchi — kujenga mifumo ya kilimo inayostahimili mabadiliko ya tabianchi",
+    "sdg14": "Maisha chini ya Maji — kuchangia kupunguza uchafuzi wa baharini na ulinzi wa Ziwa Victoria"
+  },
+  "cta": {
+    "title": "Kuwa Sehemu ya Mustakabali wa Mduara",
+    "text": "Changamoto zinazokabiliana na jamii zetu ni kubwa — lakini fursa pia ni kubwa.",
+    "partner": "Shirikiana Nasi",
+    "invest": "Wekeza Nasi",
+    "work": "Fanya Kazi Nasi",
+    "contact": "Wasiliana Nasi",
+    "every_tonne": "Kila tani ya taka iliyorejeshwa inaweza kuwa rasilimali.",
+    "every_farmer": "Kila mkulima aliyesaidiwa anaweza kuwa na ustahimilivu zaidi.",
+    "every_youth": "Kila kijana aliyeunganishwa na mnyororo wa kijani anaweza kuwa mjasiriamali.",
+    "every_innovation": "Kila ubunifu wa mduara unaweza kusaidia kujenga sayari yenye afya zaidi.",
+    "tagline": "Tubadilishe Taka Kuwa Utajiri."
+  },
+  "newsletter": {
+    "title": "Kaa Kwenye Majaribio",
+    "subtitle": "Jiandikisha kwa barua pepe yetu kwa habari na sasisho za hivi karibuni.",
+    "placeholder": "Weka anwani yako ya barua pepe",
+    "button": "Jiandikisha",
+    "success": "Asante kwa kujisajili!",
+    "error": "Kuna hitilafu. Tafadhali jaribu tena."
+  },
+  "footer": {
+    "quick_links": "Viungo vya Haraka",
+    "contact_info": "Taarifa za Mawasiliano",
+    "follow_us": "Tufuate",
+    "copyright": "© 2026 Bunyala Agri-Climate Industrial Park Limited. Haki zote zimehifadhiwa.",
+    "tagline": "Kubadilisha Taka Kuwa Utajiri kupitia Ubunifu wa Uchumi wa Mduara wa Bluu-Kijani"
+  },
+  "common": {
+    "learn_more": "Jifunze Zaidi",
+    "read_more": "Soma Zaidi",
+    "back_to_top": "Rudi Juu",
+    "accept_cookies": "Kubali Kuki Zote",
+    "decline_cookies": "Kataa",
+    "cookie_text": "Tunatumia kuki ili kuboresha uzoefu wako. Kwa kuendelea kutumia tovuti hii, unakubaliana na matumizi yetu ya kuki.",
+    "language": "Lugha"
+  }
+}

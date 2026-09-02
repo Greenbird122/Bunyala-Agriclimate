@@ -1,0 +1,42 @@
+# robots.txt for Bunyala Agri-Climate Industrial Park Limited
+# https://bunyalaagriclimate.org
+# Updated: 2026-09-02
+
+User-agent: *
+Allow: /
+
+# Block only truly non-public paths
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_nuxt/
+Disallow: /sanity/
+
+# Prevent crawling of duplicate or low-value pages
+Disallow: /404
+Disallow: /500
+
+# Crawl delay — kind to the server, still allows full indexing
+Crawl-delay: 1
+
+# Sitemap locations
+Sitemap: https://bunyalaagriclimate.org/sitemap.xml
+Sitemap: https://bunyalaagriclimate.org/sitemap-luhya.xml
+Sitemap: https://bunyalaagriclimate.org/sitemap-sw.xml
+
+# Regional variants (hreflang)
+# English
+Allow: /en/
+# Swahili
+Allow: /sw/
+# Luhya
+Allow: /luhya/
+
+# Crawler hints — explicit
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /

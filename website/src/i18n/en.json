@@ -1,0 +1,205 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "solutions": "Our Solutions",
+    "impact": "Our Impact",
+    "team": "Our Team",
+    "news": "News & Stories",
+    "contact": "Contact Us",
+    "partners": "Partners"
+  },
+  "hero": {
+    "headline": "Turning Waste into Wealth for a Resilient Blue-Green Economy",
+    "subtitle": "Bunyala Agri-Climate Industrial Park Limited is a Kenyan social enterprise pioneering Blue Circular Economy and ClimateTech solutions in the Lake Victoria Basin.",
+    "cta_solutions": "Explore Our Solutions",
+    "cta_partner": "Partner With Us"
+  },
+  "stats": {
+    "waste_recycled": "Tonnes Organic Waste Recycled",
+    "green_jobs": "Green Jobs for Women & Youth",
+    "farmers_benefiting": "Farmers Benefiting",
+    "people_reached": "People Reached",
+    "feed_cost_reduction": "Targeted Feed Cost Reduction"
+  },
+  "about": {
+    "title": "About Us",
+    "who_we_are": "Who We Are",
+    "who_we_are_text": "Bunyala Agri-Climate Industrial Park Limited is a Kenyan social enterprise based in Busia County, Western Kenya, working at the intersection of climate action, circular economy, agriculture, aquaculture, waste management, and renewable energy.",
+    "our_work": "Our work responds to interconnected challenges facing communities around the Lake Victoria Basin: increasing organic and marine waste, high costs of agricultural and aquaculture inputs, climate vulnerability, limited livelihood opportunities, and pressure on aquatic ecosystems.",
+    "waste_as_resource": "Rather than treating waste as a problem, we see it as a resource and economic opportunity. Through innovative waste-to-value approaches, we convert organic resources into products that can support farmers, fish producers and rural enterprises while creating new opportunities for women and youth.",
+    "mission_title": "Our Mission",
+    "mission_text": "To develop scalable Blue-Green Circular Economy solutions that transform waste into productive resources, strengthen climate-resilient food systems, create green jobs, and improve livelihoods.",
+    "vision_title": "Our Vision",
+    "vision_text": "To become a leading African circular economy enterprise demonstrating how waste, technology and community innovation can drive sustainable economic and environmental transformation.",
+    "bacis_title": "Our Community Program",
+    "bacis_text": "Bunyala Agri Climate Impact Solutions (BACIS) is our affiliated community-based program, working alongside the company on youth and women's skilling, entrepreneurship training, and community empowerment initiatives."
+  },
+  "problem": {
+    "title": "The Problem We Are Solving",
+    "headline": "Africa's Waste Can Become Its Opportunity.",
+    "text": "Communities around Lake Victoria face growing challenges related to organic waste, marine litter, environmental degradation, climate change and expensive agricultural inputs. At the same time, smallholder farmers and fish farmers face rising production costs and limited access to affordable, sustainable inputs.",
+    "solution_intro": "These challenges are connected. We believe the solution is to connect waste management with food production, climate action and economic opportunity.",
+    "goals": [
+      "Reduce organic and marine waste pollution",
+      "Recover valuable nutrients from waste",
+      "Produce sustainable agricultural and aquaculture inputs",
+      "Reduce dependence on conventional feed and fertilizer inputs",
+      "Support climate-smart farming",
+      "Create opportunities for women and youth",
+      "Strengthen local and regional circular value chains"
+    ]
+  },
+  "model": {
+    "title": "Our Circular Economy Model",
+    "headline": "From Waste to Value",
+    "text": "Our model is built around the principle: Waste → Bioconversion → Value → Farmers → Food → Livelihoods",
+    "description": "Organic waste is collected and processed through Black Soldier Fly (BSF) bioconversion and Lysis Technology, converting suitable organic materials into valuable outputs.",
+    "outputs_title": "Key Outputs"
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "subtitle": "Sustainable Aquaculture • Climate-Smart Agriculture • Circular Manufacturing • Renewable Energy • Green Jobs",
+    "view_details": "Learn More",
+    "items": {
+      "bsf": {
+        "title": "BSF Bioconversion",
+        "short": "Black Soldier Fly bioconversion and Lysis Technology to transform organic waste into valuable resources.",
+        "description": "Our innovation uses Black Soldier Fly (BSF) bioconversion, paired with Lysis Technology, to transform suitable organic waste into valuable biological resources."
+      },
+      "fish_feed": {
+        "title": "Sustainable Fish Feed",
+        "short": "Affordable, sustainable feed solutions using BSF-derived insect protein for aquaculture.",
+        "description": "Aquaculture is an important source of food and livelihoods around Lake Victoria, but feed costs remain a major challenge for fish farmers."
+      },
+      "fertilizer": {
+        "title": "Organic Fertilizer",
+        "short": "BSF frass and circular organic soil amendments supporting regenerative agriculture.",
+        "description": "BSF Frass is a nutrient-rich organic fertilizer supporting soil health and regenerative agriculture."
+      },
+      "waste": {
+        "title": "Waste Management",
+        "short": "Organic waste recovery, collection, sorting and biological conversion services.",
+        "description": "We provide comprehensive organic waste management services including collection, recovery, sorting and biological conversion."
+      },
+      "energy": {
+        "title": "Renewable Energy",
+        "short": "Solar-powered solutions for productive agriculture and rural enterprises.",
+        "description": "Access to affordable and reliable energy is essential for modern agriculture. We promote renewable energy solutions for smallholder farmers and rural enterprises."
+      },
+      "agriculture": {
+        "title": "Climate-Smart Agriculture",
+        "short": "Regenerative farming practices, organic inputs, and farmer training for resilient food systems.",
+        "description": "We support farmers to transition toward more sustainable and climate-resilient production systems."
+      }
+    }
+  },
+  "impact": {
+    "title": "Our Impact",
+    "subtitle": "Measuring What Matters",
+    "text": "We are building a business where commercial success and environmental impact reinforce each other.",
+    "environmental": "Environmental Impact",
+    "environmental_items": [
+      "Reduced waste pollution",
+      "Improved resource recovery",
+      "Reduced pressure on natural resources",
+      "Support for healthier aquatic ecosystems"
+    ],
+    "economic": "Economic Impact",
+    "economic_items": [
+      "New circular businesses",
+      "Lower input costs",
+      "New markets",
+      "Increased value from waste"
+    ],
+    "social": "Social Impact",
+    "social_items": [
+      "Green jobs for women and youth",
+      "Youth entrepreneurship",
+      "Women's economic participation",
+      "Stronger rural livelihoods"
+    ],
+    "circular_title": "Closing the Loop",
+    "circular_text": "Instead of Waste → Pollution → Environmental degradation, we create: Waste → Recovery → Bioconversion → Sustainable Products → Farmers → Food → Income."
+  },
+  "women_youth": {
+    "title": "Creating Inclusive Green Jobs",
+    "text": "Women and young people are central to our circular economy model. We aim to create opportunities across the value chain, including waste collection, BSF production, feed processing, organic fertilizer production, distribution, sales and marketing, farmer extension, renewable energy services, and circular entrepreneurship.",
+    "ambition": "Our ambition: 400 green jobs for women and youth.",
+    "quote": "We want young people to see climate action not only as an environmental responsibility, but also as a pathway to entrepreneurship, employment and economic opportunity."
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "People Behind the Innovation",
+    "founder": "John Wabwire Shikuku",
+    "founder_role": "Founder & Managing Director",
+    "founder_bio": "John is an environmental and climate practitioner, social entrepreneur and community leader with a strong focus on climate action, sustainable agriculture, renewable energy and community development. He currently serves as a Community Health and Climate Change SDGs advocate and is affiliated with the Africa Forward / Catalyst 2030 network.",
+    "team_description": "Supported by a multidisciplinary team with capabilities in Blue Circular Economy, Agriculture, Climate Change, Environmental Management, Business Development, Finance, Community Mobilization, Data & Digital Technologies, Aquaculture, and Waste Management.",
+    "team_quote": "Together, we combine technical knowledge with community-level implementation to turn innovative ideas into practical solutions."
+  },
+  "partnerships": {
+    "title": "Partnerships",
+    "subtitle": "We Cannot Build a Circular Economy Alone",
+    "text": "Scaling circular solutions requires collaboration. We seek partnerships with farmers and cooperatives, county governments, research institutions, universities, investors, development partners, climate funds, environmental organizations, aquaculture companies, renewable energy companies, waste management organizations, and technology providers.",
+    "cta": "Partner with us to build a cleaner, more resilient and inclusive Lake Victoria Basin."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Let's Build the Blue-Green Circular Economy Together.",
+    "location": "Location",
+    "location_value": "Busia County, Western Kenya",
+    "region": "Region",
+    "region_value": "Lake Victoria Basin, East Africa",
+    "email": "Email",
+    "phone": "Phone",
+    "connect": "Connect With Us",
+    "partnership_areas": "Partnership Areas",
+    "partnership_list": "Invest • Distribute • Supply • Partner • Research • Support • Buy"
+  },
+  "sdgs": {
+    "title": "Sustainable Development Goals",
+    "subtitle": "Our work contributes to several Sustainable Development Goals",
+    "sdg2": "Zero Hunger — supporting sustainable food production and aquaculture",
+    "sdg8": "Decent Work and Economic Growth — creating green employment and entrepreneurship opportunities",
+    "sdg12": "Responsible Consumption and Production — transforming waste into productive resources",
+    "sdg13": "Climate Action — building climate-resilient agricultural systems",
+    "sdg14": "Life Below Water — contributing to the reduction of aquatic pollution and protection of Lake Victoria"
+  },
+  "cta": {
+    "title": "Be Part of the Circular Future",
+    "text": "The challenges facing our communities are significant — but so are the opportunities.",
+    "partner": "Partner With Us",
+    "invest": "Invest With Us",
+    "work": "Work With Us",
+    "contact": "Contact Us",
+    "every_tonne": "Every tonne of waste recovered can become a resource.",
+    "every_farmer": "Every farmer supported can become more resilient.",
+    "every_youth": "Every young person connected to a green value chain can become an entrepreneur.",
+    "every_innovation": "Every circular innovation can help build a healthier planet.",
+    "tagline": "Let's Turn Waste into Wealth."
+  },
+  "newsletter": {
+    "title": "Stay Updated",
+    "subtitle": "Subscribe to our newsletter for the latest news and updates.",
+    "placeholder": "Enter your email address",
+    "button": "Subscribe",
+    "success": "Thank you for subscribing!",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "quick_links": "Quick Links",
+    "contact_info": "Contact Info",
+    "follow_us": "Follow Us",
+    "copyright": "© 2026 Bunyala Agri-Climate Industrial Park Limited. All rights reserved.",
+    "tagline": "Turning Waste into Wealth through Blue-Green Circular Economy Innovation"
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "read_more": "Read More",
+    "back_to_top": "Back to top",
+    "accept_cookies": "Accept All Cookies",
+    "decline_cookies": "Decline",
+    "cookie_text": "We use cookies to improve your experience. By continuing to use this site, you agree to our use of cookies.",
+    "language": "Language"
+  }
+}

@@ -1,0 +1,26 @@
+# Images — host on CDN (Cloudinary/S3/etc.), not in git
+images/
+website/src/assets/images/
+website/public/videos/
+website/dist/
+website/dist-ssr/
+
+# Dependencies
+node_modules/
+
+# Build output
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sw?
+*.suo

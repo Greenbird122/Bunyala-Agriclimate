@@ -1,0 +1,245 @@
+@import "tailwindcss";
+
+/* Tell Tailwind v4 to use class-based dark mode (not media query) */
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary: #1E6B3C;
+  --color-primary-dark: #14472A;
+  --color-accent: #B8862B;
+  --color-accent-light: #D4A84B;
+  --color-neutral: #F7F7F5;
+  --color-neutral-dark: #E8E8E5;
+  --color-text-primary: #1a1a1a;
+  --color-text-secondary: #4a4a4a;
+  --color-text-muted: #6b6b6b;
+
+  --color-dark-bg: #0f1a12;
+  --color-dark-surface: #1a2e20;
+  --color-dark-card: #1f3826;
+  --color-dark-text: #e8e8e8;
+  --color-dark-text-secondary: #b0b0b0;
+  --color-dark-border: #2d4a35;
+
+  --font-serif: 'Playfair Display', 'Georgia', serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Base styles */
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.65;
+  letter-spacing: 0.01em;
+  color: var(--color-text-primary);
+  background-color: var(--color-neutral);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Headings — Playfair Display with refined weights */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  color: var(--color-text-primary);
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+/* Body paragraphs */
+p {
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+/* Links */
+a {
+  color: inherit;
+  text-decoration-skip-ink: auto;
+}
+
+/* Lists */
+ul, ol {
+  line-height: 1.7;
+}
+
+/* Dark mode — applied when .dark class is on <html> */
+.dark body {
+  background-color: var(--color-dark-bg);
+  color: var(--color-dark-text);
+}
+
+.dark .bg-white { background-color: var(--color-dark-surface); }
+.dark .bg-neutral { background-color: var(--color-dark-bg); }
+.dark .bg-gray-200 { background-color: #2a3d30; }
+.dark .bg-gray-100 { background-color: #1a2e20; }
+.dark .text-gray-900 { color: var(--color-dark-text); }
+.dark .text-gray-700 { color: var(--color-dark-text-secondary); }
+.dark .text-gray-600 { color: var(--color-dark-text-secondary); }
+.dark .text-gray-500 { color: #8a9a8e; }
+.dark .text-gray-400 { color: #7a8a7e; }
+.dark .border-gray-200 { border-color: var(--color-dark-border); }
+.dark .border-gray-300 { border-color: var(--color-dark-border); }
+.dark .hover\:bg-gray-100:hover { background-color: #243a2a; }
+.dark .hover\:bg-gray-300:hover { background-color: #3a5040; }
+
+/* Ensure h1/h2/h3 keep correct color in hero sections */
+.dark h1, .dark h2, .dark h3, .dark h4 { color: var(--color-dark-text); }
+.dark .text-white { color: white !important; }
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-neutral);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-primary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary-dark);
+}
+
+/* Animation keyframes */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes countUp {
+  from { opacity: 0; transform: scale(0.5); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft 0.6s ease-out forwards;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 0.6s ease-out forwards;
+}
+
+/* Staggered animation delays */
+.delay-100 { animation-delay: 100ms; }
+.delay-200 { animation-delay: 200ms; }
+.delay-300 { animation-delay: 300ms; }
+.delay-400 { animation-delay: 400ms; }
+.delay-500 { animation-delay: 500ms; }
+
+/* Newsletter form styles */
+.newsletter-input:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(30, 107, 60, 0.3);
+}
+
+/* Card hover effects */
+.card-hover {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+}
+
+/* Dark mode card hover */
+.dark .card-hover:hover {
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+}
+
+/* Skip to main content (accessibility) */
+.skip-to-content {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  background: var(--color-primary);
+  color: white;
+  padding: 0.5rem 1rem;
+  z-index: 100;
+  transition: top 0.2s;
+}
+
+.skip-to-content:focus {
+  top: 0;
+}
+
+/* Print styles */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
