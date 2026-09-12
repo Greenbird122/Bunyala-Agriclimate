@@ -1,0 +1,38 @@
+name: Build and Deploy to Truehost
+
+on:
+  push:
+    branches:
+      - main  # Change to 'master' if your default branch is named master
+
+jobs:
+  web-deploy:
+    name: Deploy React App to Truehost
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Project
+        run: npm run build
+
+      - name: Sync Files via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftp
+          port: 21
+          local-dir: ./dist/  # Use ./build/ if your project uses Create React App instead of Vite
+          server-dir: /bunyala-agriclimate.org/  # The target folder path on Truehost cPanel
