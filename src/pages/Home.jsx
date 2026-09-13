@@ -15,10 +15,10 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import useGalleryImages from '../hooks/useGalleryImages';
 
 // Images
-import heroImg from '../assets/images/shared/individual-planting.jpeg';
-import wasteImg from '../assets/images/shared/waste-feedstock.jpeg';
-import communityImg from '../assets/images/shared/community-elders.jpeg';
-import treeImg from '../assets/images/shared/tree-seedlings.jpeg';
+import heroImg from '../assets/images/shared/individual-planting.webp';
+import wasteImg from '../assets/images/shared/waste-feedstock.webp';
+import communityImg from '../assets/images/shared/community-elders.webp';
+import treeImg from '../assets/images/shared/tree-seedlings.webp';
 
 const videos = [
   'https://youtu.be/waCHqaHLxWQ',

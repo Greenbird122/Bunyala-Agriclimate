@@ -5,7 +5,7 @@ import Hero from '../components/ui/Hero';
 import { sanityClient, queries } from '../lib/sanity';
 import { sanityImageUrl, sanityRefToUrl } from '../lib/imageUrl';
 import { Calendar, ArrowLeft, Clock } from 'lucide-react';
-import newsHero from '../assets/images/shared/students-watering-tree.jpeg';
+import newsHero from '../assets/images/shared/students-watering-tree.webp';
 
 const SITE_URL = 'https://bunyala-agriclimate.org';
 

@@ -5,7 +5,7 @@ import { useI18n } from '../i18n';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { Mail, Phone, MapPin, Globe, MessageCircle, ExternalLink } from 'lucide-react';
 import { FacebookIcon, LinkedInIcon, WhatsAppIcon } from '../components/ui/SocialIcons';
-import contactHero from '../assets/images/shared/community-elders.jpeg';
+import contactHero from '../assets/images/shared/community-elders.webp';
 
 const socialLinks = [
   {

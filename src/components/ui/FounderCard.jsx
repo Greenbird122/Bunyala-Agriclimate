@@ -2,7 +2,7 @@ import { Award, ExternalLink } from 'lucide-react';
 import { FacebookIcon, LinkedInIcon } from './SocialIcons';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
 import { useI18n } from '../../i18n';
-import founderImg from '../../assets/images/shared/founder-headshot.jpeg';
+import founderImg from '../../assets/images/shared/founder-headshot.webp';
 
 export default function FounderCard({ member }) {
   const { t } = useI18n();

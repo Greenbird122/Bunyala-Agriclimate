@@ -4,8 +4,8 @@ import CardGrid from '../components/ui/CardGrid';
 import FeatureCallout from '../components/sections/FeatureCallout';
 import { useI18n } from '../i18n';
 import { solutions } from '../data/solutions';
-import solutionsHero from '../assets/images/shared/lysis-technology-banner.jpeg';
-import organicWasteImg from '../assets/images/shared/organic-waste-feedstock.jpeg';
+import solutionsHero from '../assets/images/shared/lysis-technology-banner.webp';
+import organicWasteImg from '../assets/images/shared/organic-waste-feedstock.webp';
 import ImageMasonry from '../components/ui/ImageMasonry';
 import useGalleryImages from '../hooks/useGalleryImages';
 

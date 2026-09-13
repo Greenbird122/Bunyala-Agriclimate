@@ -4,7 +4,7 @@ import ImageMasonry from '../components/ui/ImageMasonry';
 import { useI18n } from '../i18n';
 import useGalleryImages from '../hooks/useGalleryImages';
 import { useState } from 'react';
-import galleryHero from '../assets/images/shared/tree-planting-ceremony.jpeg';
+import galleryHero from '../assets/images/shared/tree-planting-ceremony.webp';
 
 const SITE_URL = 'https://bunyala-agriclimate.org';
 

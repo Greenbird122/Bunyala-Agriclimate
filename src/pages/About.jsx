@@ -9,10 +9,10 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { sdgs } from '../data/sdgs';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Users, Lightbulb, Recycle, Globe } from 'lucide-react';
-import aboutHero from '../assets/images/shared/strategy-workshop.jpeg';
-import workshopImg from '../assets/images/shared/workshop-flipchart.jpeg';
-import planningImg from '../assets/images/shared/planning-meeting-fips.jpeg';
-import groupImg from '../assets/images/shared/group-discussion.jpeg';
+import aboutHero from '../assets/images/shared/strategy-workshop.webp';
+import workshopImg from '../assets/images/shared/workshop-flipchart.webp';
+import planningImg from '../assets/images/shared/planning-meeting-fips.webp';
+import groupImg from '../assets/images/shared/group-discussion.webp';
 import useGalleryImages from '../hooks/useGalleryImages';
 
 export default function About() {

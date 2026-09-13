@@ -9,11 +9,11 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { impactStats, circularImpact } from '../data/impact-stats';
 import { sdgs } from '../data/sdgs';
 import { TreePine, TrendingUp, Heart, ArrowRight } from 'lucide-react';
-import impactHero from '../assets/images/shared/outdoor-community-meeting.jpeg';
-import communityEldersImg from '../assets/images/shared/community-elders.jpeg';
-import treePlantingImg from '../assets/images/shared/tree-planting-ceremony.jpeg';
-import studentsImg from '../assets/images/shared/students-watering-tree.jpeg';
-import planningImg from '../assets/images/shared/planning-meeting-fips.jpeg';
+import impactHero from '../assets/images/shared/outdoor-community-meeting.webp';
+import communityEldersImg from '../assets/images/shared/community-elders.webp';
+import treePlantingImg from '../assets/images/shared/tree-planting-ceremony.webp';
+import studentsImg from '../assets/images/shared/students-watering-tree.webp';
+import planningImg from '../assets/images/shared/planning-meeting-fips.webp';
 import useGalleryImages from '../hooks/useGalleryImages';
 
 const iconMap = {

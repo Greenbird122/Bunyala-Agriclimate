@@ -1,45 +1,45 @@
 // Facility & agriculture images — contextually placed on Solutions page
-import facilityEntrance1 from '../assets/images/solutions/facility-entrance-1.jpg';
-import facilityEntrance2 from '../assets/images/solutions/facility-entrance-2.jpg';
-import facilitySignboard from '../assets/images/solutions/facility-signboard.jpeg';
-import facilityBackAerial from '../assets/images/solutions/industrial-park-back-aerial.png';
-import facilityFrontAerial from '../assets/images/solutions/industrial-park-front-aerial.png';
-import additionalAgri1 from '../assets/images/solutions/additional-agriculture-1.jpeg';
-import additionalAgri2 from '../assets/images/solutions/additional-agriculture-2.jpeg';
-import additionalAgri3 from '../assets/images/solutions/additional-agriculture-3.jpeg';
-import lysateProcessing from '../assets/images/solutions/lysate-processing.jpeg';
-import sugarBeetField from '../assets/images/solutions/sugar-beet-field.jpeg';
+import facilityEntrance1 from '../assets/images/solutions/facility-entrance-1.webp';
+import facilityEntrance2 from '../assets/images/solutions/facility-entrance-2.webp';
+import facilitySignboard from '../assets/images/solutions/facility-signboard.webp';
+import facilityBackAerial from '../assets/images/solutions/industrial-park-back-aerial.webp';
+import facilityFrontAerial from '../assets/images/solutions/industrial-park-front-aerial.webp';
+import additionalAgri1 from '../assets/images/solutions/additional-agriculture-1.webp';
+import additionalAgri2 from '../assets/images/solutions/additional-agriculture-2.webp';
+import additionalAgri3 from '../assets/images/solutions/additional-agriculture-3.webp';
+import lysateProcessing from '../assets/images/solutions/lysate-processing.webp';
+import sugarBeetField from '../assets/images/solutions/sugar-beet-field.webp';
 
 // Community & event images — dated events, community meetings
 // Sourced from images/2023, images/2024, images/2025, images/2026
-import event2023Feb16 from '../assets/images/events/2023-02-16-community-meeting-1.jpg';
-import event2023Mar02 from '../assets/images/events/2023-03-02-workshop-1.jpg';
-import event2023Mar17a from '../assets/images/events/2023-03-17-training-1.jpg';
-import event2023Mar17b from '../assets/images/events/2023-03-17-training-2.jpg';
-import event2023May09a from '../assets/images/events/2023-05-09-planting-1.jpg';
-import event2023May09b from '../assets/images/events/2023-05-09-planting-2.jpg';
-import event2023Oct19a from '../assets/images/events/2023-10-19-planting-1.jpg';
-import event2023Oct19b from '../assets/images/events/2023-10-19-planting-2.jpg';
-import event2024Sep15a from '../assets/images/events/2024-09-15-planting-1.jpg';
-import event2024Sep15b from '../assets/images/events/2024-09-15-planting-2.jpg';
-import event2024Sep15c from '../assets/images/events/2024-09-15-planting-3.jpg';
-import event2024Sep15d from '../assets/images/events/2024-09-15-planting-4.jpg';
-import event2024Oct04a from '../assets/images/events/2024-10-04-event-1.jpg';
-import event2024Oct04b from '../assets/images/events/2024-10-04-event-2.jpg';
-import event2025Mar23a from '../assets/images/events/2025-03-23-planting-1.jpg';
-import event2025Mar23b from '../assets/images/events/2025-03-23-planting-2.jpg';
-import event2025Apr25a from '../assets/images/events/2025-04-25-planting-1.jpg';
-import event2025Apr25b from '../assets/images/events/2025-04-25-planting-2.jpg';
-import event2025Apr25c from '../assets/images/events/2025-04-25-planting-3.jpg';
-import event2026Jul05 from '../assets/images/events/2026-07-05-event-1.jpg';
-import event2026Jul14 from '../assets/images/events/2026-07-14-community-1.jpg';
-import event2026Aug04 from '../assets/images/events/2026-08-04-event-1.jpg';
-import event2026Aug13 from '../assets/images/events/2026-08-13-event-1.jpg';
+import event2023Feb16 from '../assets/images/events/2023-02-16-community-meeting-1.webp';
+import event2023Mar02 from '../assets/images/events/2023-03-02-workshop-1.webp';
+import event2023Mar17a from '../assets/images/events/2023-03-17-training-1.webp';
+import event2023Mar17b from '../assets/images/events/2023-03-17-training-2.webp';
+import event2023May09a from '../assets/images/events/2023-05-09-planting-1.webp';
+import event2023May09b from '../assets/images/events/2023-05-09-planting-2.webp';
+import event2023Oct19a from '../assets/images/events/2023-10-19-planting-1.webp';
+import event2023Oct19b from '../assets/images/events/2023-10-19-planting-2.webp';
+import event2024Sep15a from '../assets/images/events/2024-09-15-planting-1.webp';
+import event2024Sep15b from '../assets/images/events/2024-09-15-planting-2.webp';
+import event2024Sep15c from '../assets/images/events/2024-09-15-planting-3.webp';
+import event2024Sep15d from '../assets/images/events/2024-09-15-planting-4.webp';
+import event2024Oct04a from '../assets/images/events/2024-10-04-event-1.webp';
+import event2024Oct04b from '../assets/images/events/2024-10-04-event-2.webp';
+import event2025Mar23a from '../assets/images/events/2025-03-23-planting-1.webp';
+import event2025Mar23b from '../assets/images/events/2025-03-23-planting-2.webp';
+import event2025Apr25a from '../assets/images/events/2025-04-25-planting-1.webp';
+import event2025Apr25b from '../assets/images/events/2025-04-25-planting-2.webp';
+import event2025Apr25c from '../assets/images/events/2025-04-25-planting-3.webp';
+import event2026Jul05 from '../assets/images/events/2026-07-05-event-1.webp';
+import event2026Jul14 from '../assets/images/events/2026-07-14-community-1.webp';
+import event2026Aug04 from '../assets/images/events/2026-08-04-event-1.webp';
+import event2026Aug13 from '../assets/images/events/2026-08-13-event-1.webp';
 
 // Additional community images
-import communityEldersImg from '../assets/images/shared/community-elders.jpeg';
-import treePlantingImg from '../assets/images/shared/tree-planting-ceremony.jpeg';
-import outdoorMeetingImg from '../assets/images/shared/outdoor-community-meeting.jpeg';
+import communityEldersImg from '../assets/images/shared/community-elders.webp';
+import treePlantingImg from '../assets/images/shared/tree-planting-ceremony.webp';
+import outdoorMeetingImg from '../assets/images/shared/outdoor-community-meeting.webp';
 
 // ─── Facility Gallery (Solutions page) ─────────────────────────────────────────
 export const facilityImages = [

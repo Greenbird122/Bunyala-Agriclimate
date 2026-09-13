@@ -4,7 +4,7 @@ import { useI18n } from '../i18n';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { Link } from 'react-router-dom';
 import { ArrowLeft, Handshake, Building2, GraduationCap, Landmark, Leaf, Users, Sun, Recycle } from 'lucide-react';
-import partnersHero from '../assets/images/shared/group-discussion.jpeg';
+import partnersHero from '../assets/images/shared/group-discussion.webp';
 
 const partnerCategories = [
   {

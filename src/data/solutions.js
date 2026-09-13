@@ -1,12 +1,12 @@
 // Image imports - these resolve to actual image files
-import wasteFeedstockImg from '../assets/images/shared/waste-feedstock.jpeg';
-import treeSeedlingsImg from '../assets/images/shared/tree-seedlings.jpeg';
-import planningMeetingImg from '../assets/images/shared/planning-meeting-fips.jpeg';
-import studentsPlantingImg from '../assets/images/shared/students-watering-tree.jpeg';
-import treePlantingImg from '../assets/images/shared/tree-planting-ceremony.jpeg';
-import communityMeetingImg from '../assets/images/shared/outdoor-community-meeting.jpeg';
-import communityEldersImg from '../assets/images/shared/community-elders.jpeg';
-import organicWasteImg from '../assets/images/shared/organic-waste-feedstock.jpeg';
+import wasteFeedstockImg from '../assets/images/shared/waste-feedstock.webp';
+import treeSeedlingsImg from '../assets/images/shared/tree-seedlings.webp';
+import planningMeetingImg from '../assets/images/shared/planning-meeting-fips.webp';
+import studentsPlantingImg from '../assets/images/shared/students-watering-tree.webp';
+import treePlantingImg from '../assets/images/shared/tree-planting-ceremony.webp';
+import communityMeetingImg from '../assets/images/shared/outdoor-community-meeting.webp';
+import communityEldersImg from '../assets/images/shared/community-elders.webp';
+import organicWasteImg from '../assets/images/shared/organic-waste-feedstock.webp';
 
 export const solutions = [
   {

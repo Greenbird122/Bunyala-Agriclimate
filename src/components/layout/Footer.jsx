@@ -3,7 +3,7 @@ import { Mail, Phone, MapPin, ExternalLink } from 'lucide-react';
 import { FacebookIcon, LinkedInIcon } from '../ui/SocialIcons';
 import { useI18n } from '../../i18n';
 import NewsletterForm from '../ui/NewsletterForm';
-import logoImg from '../../assets/images/logo/primary-logo.jpeg';
+import logoImg from '../../assets/images/logo/primary-logo.webp';
 
 const quickLinks = [
   { path: '/', labelKey: 'nav.home' },

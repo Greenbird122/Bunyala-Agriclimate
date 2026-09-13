@@ -3,7 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, Sun, Moon, Globe, ChevronDown } from 'lucide-react';
 import { useI18n } from '../../i18n';
 import { useDarkMode } from '../../hooks/useDarkMode';
-import logoImg from '../../assets/images/logo/primary-logo.jpeg';
+import logoImg from '../../assets/images/logo/primary-logo.webp';
 
 const navLinks = [
   { path: '/about', labelKey: 'nav.about' },

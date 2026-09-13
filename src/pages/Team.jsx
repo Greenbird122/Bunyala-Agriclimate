@@ -7,7 +7,7 @@ import { useScrollAnimation } from '../hooks/useScrollAnimation';
 import { sanityClient, queries } from '../lib/sanity';
 import { useState, useEffect } from 'react';
 import { team, teamDescription } from '../data/team';
-import teamHero from '../assets/images/shared/planning-meeting-fips.jpeg';
+import teamHero from '../assets/images/shared/planning-meeting-fips.webp';
 
 export default function Team() {
   const { t } = useI18n();
