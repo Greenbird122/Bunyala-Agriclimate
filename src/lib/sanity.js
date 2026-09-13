@@ -4,9 +4,12 @@
 
 import { createClient } from '@sanity/client';
 
+// .trim() guards against trailing spaces/newlines in CI secrets — a stray
+// space here throws "projectId can only contain a-z, 0-9 and dashes" and
+// crashes the entire app at startup
 const sanityConfig = {
-  projectId: import.meta.env.VITE_SANITY_PROJECT_ID || '3r8wb2ev',
-  dataset: import.meta.env.VITE_SANITY_DATASET || 'production',
+  projectId: (import.meta.env.VITE_SANITY_PROJECT_ID || '3r8wb2ev').trim(),
+  dataset: (import.meta.env.VITE_SANITY_DATASET || 'production').trim(),
   apiVersion: '2024-01-01',
   useCdn: false,
   token: import.meta.env.VITE_SANITY_TOKEN || process.env.SANITY_TOKEN,
