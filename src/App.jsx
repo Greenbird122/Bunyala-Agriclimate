@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import { HelmetProvider } from 'react-helmet-async';
 import { I18nProvider } from './i18n';
 import { DarkModeProvider } from './hooks/useDarkMode';
-import { useEffect } from 'react';
+import { lazy, Suspense, useEffect } from 'react';
 
 // Layout Components
 import Header from './components/layout/Header';
@@ -11,19 +11,28 @@ import CookieBanner from './components/layout/CookieBanner';
 import WhatsAppButton from './components/layout/WhatsAppButton';
 import BackToTop from './components/layout/BackToTop';
 
-// Pages
+// Pages — Home stays eager (first paint on landing); the rest are code-split
+// so each page's JS only loads when visited
 import Home from './pages/Home';
-import About from './pages/About';
-import Solutions from './pages/Solutions';
-import SolutionDetail from './pages/SolutionDetail';
-import Impact from './pages/Impact';
-import Team from './pages/Team';
-import TeamMemberDetail from './pages/TeamMemberDetail';
-import Contact from './pages/Contact';
-import Partners from './pages/Partners';
-import News from './pages/News';
-import ArticleDetail from './pages/ArticleDetail';
-import Gallery from './pages/Gallery';
+const About = lazy(() => import('./pages/About'));
+const Solutions = lazy(() => import('./pages/Solutions'));
+const SolutionDetail = lazy(() => import('./pages/SolutionDetail'));
+const Impact = lazy(() => import('./pages/Impact'));
+const Team = lazy(() => import('./pages/Team'));
+const TeamMemberDetail = lazy(() => import('./pages/TeamMemberDetail'));
+const Contact = lazy(() => import('./pages/Contact'));
+const Partners = lazy(() => import('./pages/Partners'));
+const News = lazy(() => import('./pages/News'));
+const ArticleDetail = lazy(() => import('./pages/ArticleDetail'));
+const Gallery = lazy(() => import('./pages/Gallery'));
+
+function PageLoader() {
+  return (
+    <div className="min-h-[60vh] flex items-center justify-center">
+      <div className="w-12 h-12 border-4 border-primary border-t-transparent rounded-full animate-spin" />
+    </div>
+  );
+}
 
 // Scroll to top on route change
 function ScrollToTop() {
@@ -66,6 +75,7 @@ function App() {
           <Router>
             <ScrollToTop />
             <Layout>
+              <Suspense fallback={<PageLoader />}>
               <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/about" element={<About />} />
@@ -82,6 +92,7 @@ function App() {
                 {/* 404 Route */}
                 <Route path="*" element={<NotFound />} />
               </Routes>
+              </Suspense>
             </Layout>
           </Router>
         </DarkModeProvider>
