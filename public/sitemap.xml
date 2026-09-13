@@ -5,177 +5,177 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <!-- Home -->
   <url>
-    <loc>https://bunyalaagriclimate.org/</loc>
+    <loc>https://bunyala-agriclimate.org/</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/" />
     <image:image>
-      <image:loc>https://bunyalaagriclimate.org/og-image.png</image:loc>
+      <image:loc>https://bunyala-agriclimate.org/og-image.png</image:loc>
       <image:caption>Bunyala Agri-Climate Industrial Park — turning waste into wealth</image:caption>
     </image:image>
   </url>
 
   <!-- About -->
   <url>
-    <loc>https://bunyalaagriclimate.org/about</loc>
+    <loc>https://bunyala-agriclimate.org/about</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/about" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/about?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/about?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/about" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/about?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/about?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/about" />
   </url>
 
   <!-- Partners -->
   <url>
-    <loc>https://bunyalaagriclimate.org/about/partners</loc>
+    <loc>https://bunyala-agriclimate.org/about/partners</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/about/partners" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/about/partners?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/about/partners?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/about/partners" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/about/partners" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/about/partners?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/about/partners?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/about/partners" />
   </url>
 
   <!-- Solutions Landing -->
   <url>
-    <loc>https://bunyalaagriclimate.org/solutions</loc>
+    <loc>https://bunyala-agriclimate.org/solutions</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/solutions" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/solutions?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/solutions?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/solutions" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/solutions" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/solutions?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/solutions?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/solutions" />
   </url>
 
   <!-- Solution: BSF Bioconversion -->
   <url>
-    <loc>https://bunyalaagriclimate.org/solutions/bsf-bioconversion</loc>
+    <loc>https://bunyala-agriclimate.org/solutions/bsf-bioconversion</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/solutions/bsf-bioconversion" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/solutions/bsf-bioconversion?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/solutions/bsf-bioconversion?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/solutions/bsf-bioconversion" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/solutions/bsf-bioconversion" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/solutions/bsf-bioconversion?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/solutions/bsf-bioconversion?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/solutions/bsf-bioconversion" />
     <image:image>
-      <image:loc>https://bunyalaagriclimate.org/images/solutions/bsf-bioconversion.jpg</image:loc>
+      <image:loc>https://bunyala-agriclimate.org/images/solutions/bsf-bioconversion.jpg</image:loc>
       <image:caption>Black Soldier Fly bioconversion — organic waste to protein and fertilizer</image:caption>
     </image:image>
   </url>
 
   <!-- Solution: Sustainable Fish Feed -->
   <url>
-    <loc>https://bunyalaagriclimate.org/solutions/sustainable-fish-feed</loc>
+    <loc>https://bunyala-agriclimate.org/solutions/sustainable-fish-feed</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/solutions/sustainable-fish-feed" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/solutions/sustainable-fish-feed?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/solutions/sustainable-fish-feed?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/solutions/sustainable-fish-feed" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/solutions/sustainable-fish-feed" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/solutions/sustainable-fish-feed?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/solutions/sustainable-fish-feed?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/solutions/sustainable-fish-feed" />
   </url>
 
   <!-- Solution: Organic Fertilizer -->
   <url>
-    <loc>https://bunyalaagriclimate.org/solutions/organic-fertilizer</loc>
+    <loc>https://bunyala-agriclimate.org/solutions/organic-fertilizer</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/solutions/organic-fertilizer" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/solutions/organic-fertilizer?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/solutions/organic-fertilizer?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/solutions/organic-fertilizer" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/solutions/organic-fertilizer" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/solutions/organic-fertilizer?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/solutions/organic-fertilizer?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/solutions/organic-fertilizer" />
   </url>
 
   <!-- Solution: Waste Management -->
   <url>
-    <loc>https://bunyalaagriclimate.org/solutions/waste-management</loc>
+    <loc>https://bunyala-agriclimate.org/solutions/waste-management</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/solutions/waste-management" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/solutions/waste-management?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/solutions/waste-management?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/solutions/waste-management" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/solutions/waste-management" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/solutions/waste-management?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/solutions/waste-management?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/solutions/waste-management" />
   </url>
 
   <!-- Solution: Renewable Energy -->
   <url>
-    <loc>https://bunyalaagriclimate.org/solutions/renewable-energy</loc>
+    <loc>https://bunyala-agriclimate.org/solutions/renewable-energy</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/solutions/renewable-energy" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/solutions/renewable-energy?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/solutions/renewable-energy?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/solutions/renewable-energy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/solutions/renewable-energy" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/solutions/renewable-energy?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/solutions/renewable-energy?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/solutions/renewable-energy" />
   </url>
 
   <!-- Solution: Climate Smart Agriculture -->
   <url>
-    <loc>https://bunyalaagriclimate.org/solutions/climate-smart-agriculture</loc>
+    <loc>https://bunyala-agriclimate.org/solutions/climate-smart-agriculture</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/solutions/climate-smart-agriculture" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/solutions/climate-smart-agriculture?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/solutions/climate-smart-agriculture?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/solutions/climate-smart-agriculture" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/solutions/climate-smart-agriculture" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/solutions/climate-smart-agriculture?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/solutions/climate-smart-agriculture?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/solutions/climate-smart-agriculture" />
   </url>
 
   <!-- Impact -->
   <url>
-    <loc>https://bunyalaagriclimate.org/impact</loc>
+    <loc>https://bunyala-agriclimate.org/impact</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/impact" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/impact?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/impact?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/impact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/impact" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/impact?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/impact?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/impact" />
   </url>
 
   <!-- Team -->
   <url>
-    <loc>https://bunyalaagriclimate.org/team</loc>
+    <loc>https://bunyala-agriclimate.org/team</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/team" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/team?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/team?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/team" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/team" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/team?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/team?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/team" />
   </url>
 
   <!-- News -->
   <url>
-    <loc>https://bunyalaagriclimate.org/news</loc>
+    <loc>https://bunyala-agriclimate.org/news</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/news" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/news?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/news?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/news" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/news" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/news?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/news?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/news" />
   </url>
 
   <!-- Contact -->
   <url>
-    <loc>https://bunyalaagriclimate.org/contact</loc>
+    <loc>https://bunyala-agriclimate.org/contact</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/contact" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/contact?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/contact?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/contact" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/contact?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/contact?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/contact" />
   </url>
 </urlset>

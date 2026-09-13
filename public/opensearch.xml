@@ -2,8 +2,8 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
   <ShortName>Bunyala Agri-Climate</ShortName>
   <Description>Search Bunyala Agri-Climate Industrial Park — circular economy and climate solutions in Kenya</Description>
-  <Url type="text/html" template="https://bunyalaagriclimate.org/?q={searchTerms}" />
-  <Url type="application/x-suggestions+json" template="https://bunyalaagriclimate.org/api/suggestions?q={searchTerms}" />
+  <Url type="text/html" template="https://bunyala-agriclimate.org/?q={searchTerms}" />
+  <Url type="application/x-suggestions+json" template="https://bunyala-agriclimate.org/api/suggestions?q={searchTerms}" />
   <Contact>shikukuwabwire30@gmail.com</Contact>
   <Developer>Bunyala Agri-Climate Industrial Park Limited</Developer>
   <Attribution>Powered by Blue-Green Circular Economy Innovation</Attribution>

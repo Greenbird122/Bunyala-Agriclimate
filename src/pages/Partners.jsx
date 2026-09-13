@@ -61,7 +61,7 @@ export default function Partners() {
         <meta name="description" content="Partner with Bunyala Agri-Climate Industrial Park Limited to build a cleaner, more resilient and inclusive Lake Victoria Basin." />
         <meta property="og:title" content="Partnerships | Bunyala Agri-Climate Industrial Park Limited" />
         <meta property="og:description" content="We Cannot Build a Circular Economy Alone. Join us in scaling circular solutions." />
-        <link rel="canonical" href="https://bunyalaagriclimate.org/about/partners" />
+        <link rel="canonical" href="https://bunyala-agriclimate.org/about/partners" />
       </Helmet>
 
       <main id="main-content">

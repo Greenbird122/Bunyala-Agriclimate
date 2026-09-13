@@ -7,10 +7,11 @@ import { solutions } from '../data/solutions';
 import solutionsHero from '../assets/images/shared/lysis-technology-banner.jpeg';
 import organicWasteImg from '../assets/images/shared/organic-waste-feedstock.jpeg';
 import ImageMasonry from '../components/ui/ImageMasonry';
-import { facilityImages } from '../data/gallery';
+import useGalleryImages from '../hooks/useGalleryImages';
 
 export default function Solutions() {
   const { t } = useI18n();
+  const { images: facilityImages, loading: galleryLoading } = useGalleryImages('solutions');
 
   return (
     <>
@@ -19,7 +20,7 @@ export default function Solutions() {
         <meta name="description" content="Explore our sustainable solutions: BSF Bioconversion, Sustainable Fish Feed, Organic Fertilizer, Waste Management, Renewable Energy, and Climate-Smart Agriculture." />
         <meta property="og:title" content="Our Solutions | Bunyala Agri-Climate Industrial Park Limited" />
         <meta property="og:description" content="Sustainable Aquaculture, Climate-Smart Agriculture, Circular Manufacturing, Renewable Energy, and Green Jobs." />
-        <link rel="canonical" href="https://bunyalaagriclimate.org/solutions" />
+        <link rel="canonical" href="https://bunyala-agriclimate.org/solutions" />
         
         <script type="application/ld+json">
           {JSON.stringify({
@@ -27,13 +28,13 @@ export default function Solutions() {
             "@type": "CollectionPage",
             "name": "Our Solutions",
             "description": "Sustainable solutions for circular economy, aquaculture, and climate-smart agriculture.",
-            "url": "https://bunyalaagriclimate.org/solutions",
+            "url": "https://bunyala-agriclimate.org/solutions",
             "mainEntity": {
               "@type": "ItemList",
               "itemListElement": solutions.map((s, i) => ({
                 "@type": "ListItem",
                 "position": i + 1,
-                "url": `https://bunyalaagriclimate.org/solutions/${s.slug}`
+                "url": `https://bunyala-agriclimate.org/solutions/${s.slug}`
               }))
             }
           })}
@@ -119,7 +120,13 @@ export default function Solutions() {
                 The Bunyala Agri-Climate Industrial Park — home to our bioconversion operations, processing lines, and climate-smart agriculture demonstrations.
               </p>
             </div>
-            <ImageMasonry images={facilityImages} title="Industrial Park" />
+            {galleryLoading ? (
+              <div className="text-center py-12 text-gray-500 dark:text-gray-400">
+                Loading gallery...
+              </div>
+            ) : (
+              <ImageMasonry images={facilityImages} title="Industrial Park" />
+            )}
           </div>
         </section>
       </main>

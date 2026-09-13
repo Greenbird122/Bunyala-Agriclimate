@@ -1,14 +1,13 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
 import { useScrollAnimation } from '../../hooks/useScrollAnimation';
+import { sanityImageUrl, sanityImageSrcSet } from '../../lib/imageUrl';
 
 export default function ImageMasonry({ images, title = 'Gallery' }) {
   const [lightboxIndex, setLightboxIndex] = useState(null);
   const { ref, isVisible } = useScrollAnimation();
   const closeButtonRef = useRef(null);
   const dialogRef = useRef(null);
-
-  if (!images || images.length === 0) return null;
 
   const openLightbox = (index) => {
     setLightboxIndex(index);
@@ -58,6 +57,8 @@ export default function ImageMasonry({ images, title = 'Gallery' }) {
     };
   }, [lightboxIndex, goNext, goPrev]);
 
+  if (!images || images.length === 0) return null;
+
   // Split into columns for masonry effect
   const columns = 3;
   const columnImages = Array.from({ length: columns }, (_, i) =>
@@ -95,7 +96,9 @@ export default function ImageMasonry({ images, title = 'Gallery' }) {
                   aria-label={`View image${img.caption ? `: ${img.caption}` : ''} ${actualIndex + 1} of ${images.length}`}
                 >
                   <img
-                    src={img.src}
+                    src={sanityImageUrl(img.src, { width: 800, quality: 70 })}
+                    srcSet={sanityImageSrcSet(img.src, { widths: [400, 800, 1200], quality: 70 })}
+                    sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
                     alt={img.alt || `${title} ${actualIndex + 1}`}
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                     loading="lazy"
@@ -153,7 +156,9 @@ export default function ImageMasonry({ images, title = 'Gallery' }) {
             onClick={(e) => e.stopPropagation()}
           >
             <img
-              src={lightboxImage.src}
+              src={sanityImageUrl(lightboxImage.src, { width: 1600, quality: 80 })}
+              srcSet={sanityImageSrcSet(lightboxImage.src, { widths: [800, 1600], quality: 80 })}
+              sizes="(max-width: 1024px) 100vw, 80vw"
               alt={lightboxImage.alt || `${title} ${lightboxIndex + 1}`}
               className="max-w-full max-h-[80vh] object-contain rounded-lg"
             />

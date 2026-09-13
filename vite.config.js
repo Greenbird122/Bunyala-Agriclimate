@@ -7,5 +7,17 @@ export default defineConfig({
   server: {
     host: true,
     port: 5173,
+    proxy: {
+      '^/v[0-9]+.*': {
+        target: 'https://3r8wb2ev.api.sanity.io',
+        changeOrigin: true,
+        secure: false,
+      },
+      '/apicdn.sanity.io': {
+        target: 'https://3r8wb2ev.apicdn.sanity.io',
+        changeOrigin: true,
+        secure: false,
+      },
+    },
   },
 })

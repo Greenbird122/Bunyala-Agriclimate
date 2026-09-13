@@ -14,7 +14,7 @@ import communityEldersImg from '../assets/images/shared/community-elders.jpeg';
 import treePlantingImg from '../assets/images/shared/tree-planting-ceremony.jpeg';
 import studentsImg from '../assets/images/shared/students-watering-tree.jpeg';
 import planningImg from '../assets/images/shared/planning-meeting-fips.jpeg';
-import { impactGalleryImages as baseImpactGallery } from '../data/gallery';
+import useGalleryImages from '../hooks/useGalleryImages';
 
 const iconMap = {
   TreePine,
@@ -22,26 +22,11 @@ const iconMap = {
   Heart,
 };
 
-const impactGalleryImages = [
-  { src: communityEldersImg, alt: 'Community elders engaged in programs', caption: 'Community Engagement' },
-  { src: treePlantingImg, alt: 'Tree planting ceremony', caption: 'Environmental Action' },
-  { src: studentsImg, alt: 'Youth participation', caption: 'Youth Empowerment' },
-  { src: planningImg, alt: 'Planning session with partners', caption: 'Strategic Partnerships' },
-];
-
-// Full gallery — combines existing + new event images from gallery.js
-const expandedImpactGallery = [
-  ...impactGalleryImages,
-  baseImpactGallery[4],
-  baseImpactGallery[5],
-  baseImpactGallery[6],
-  baseImpactGallery[7],
-].filter(img => img?.src);
-
 export default function Impact() {
   const { t } = useI18n();
   const { ref: circularRef, isVisible: circularVisible } = useScrollAnimation();
   const { ref: womenRef, isVisible: womenVisible } = useScrollAnimation();
+  const { images: impactGalleryImages, loading: galleryLoading } = useGalleryImages('impact');
 
   return (
     <>
@@ -50,7 +35,7 @@ export default function Impact() {
         <meta name="description" content="See our impact: 15+ tonnes of organic waste recycled, 400 green jobs, 500+ farmers benefiting, and 10,000 people reached through circular economy initiatives." />
         <meta property="og:title" content="Our Impact | Bunyala Agri-Climate Industrial Park Limited" />
         <meta property="og:description" content="Measuring what matters — where commercial success and environmental impact reinforce each other." />
-        <link rel="canonical" href="https://bunyalaagriclimate.org/impact" />
+        <link rel="canonical" href="https://bunyala-agriclimate.org/impact" />
       </Helmet>
 
       <main id="main-content">
@@ -139,7 +124,13 @@ export default function Impact() {
                 See how we're making a difference in communities across Western Kenya.
               </p>
             </div>
-            <ImageMasonry images={expandedImpactGallery} title="Our Impact" />
+            {galleryLoading ? (
+              <div className="text-center py-12 text-gray-500 dark:text-gray-400">
+                Loading gallery...
+              </div>
+            ) : (
+              <ImageMasonry images={impactGalleryImages} title="Our Impact" />
+            )}
           </div>
         </section>
 

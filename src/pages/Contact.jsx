@@ -40,14 +40,14 @@ export default function Contact() {
         <meta name="description" content="Contact Bunyala Agri-Climate Industrial Park Limited. Located in Busia County, Western Kenya. Email: shikukuwabwire30@gmail.com, Phone: 0720060431" />
         <meta property="og:title" content="Contact Us | Bunyala Agri-Climate Industrial Park Limited" />
         <meta property="og:description" content="Let's Build the Blue-Green Circular Economy Together. Get in touch with us." />
-        <link rel="canonical" href="https://bunyalaagriclimate.org/contact" />
+        <link rel="canonical" href="https://bunyala-agriclimate.org/contact" />
         
         <script type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",
             "@type": "ContactPage",
             "name": "Contact Bunyala Agri-Climate Industrial Park Limited",
-            "url": "https://bunyalaagriclimate.org/contact",
+            "url": "https://bunyala-agriclimate.org/contact",
             "mainEntity": {
               "@type": "Organization",
               "name": "Bunyala Agri-Climate Industrial Park Limited",

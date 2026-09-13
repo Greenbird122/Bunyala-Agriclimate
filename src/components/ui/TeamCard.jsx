@@ -1,88 +1,53 @@
-import { Award } from 'lucide-react';
-import { FacebookIcon, LinkedInIcon } from './SocialIcons';
-import { useScrollAnimation } from '../../hooks/useScrollAnimation';
-import { useI18n } from '../../i18n';
-import founderImg from '../../assets/images/shared/founder-headshot.jpeg';
+import { Link } from 'react-router-dom';
+import { ArrowRight } from 'lucide-react';
+import { sanityImageUrl } from '../../lib/imageUrl';
 
-export default function TeamCard({ member, isVisible, index = 0 }) {
-  const { t } = useI18n();
-
+export default function TeamCard({ member, index, isVisible }) {
   return (
-    <div
-      className={`bg-white dark:bg-dark-card rounded-xl shadow-sm border border-gray-200 dark:border-dark-border overflow-hidden card-hover ${
+    <Link
+      to={`/team/${member.slug.current}`}
+      className={`group bg-white dark:bg-dark-card rounded-xl shadow-sm hover:shadow-xl border border-gray-200 dark:border-dark-border overflow-hidden card-hover ${
         isVisible ? 'animate-fade-in-up' : 'opacity-0'
       }`}
-      style={{ animationDelay: `${index * 150}ms` }}
+      style={{ animationDelay: `${index * 100}ms` }}
+      aria-label={`View profile of ${member.name}`}
     >
-      {/* Photo */}
-      <div className="h-64 bg-gradient-to-br from-primary to-primary-dark dark:from-dark-surface dark:to-dark-bg relative overflow-hidden">
-        <img
-          src={founderImg}
-          alt={member.name}
-          className="w-full h-full object-cover object-center"
-        />
-        {/* Decorative elements */}
-        <div className="absolute -bottom-4 -right-4 w-32 h-32 bg-white/5 rounded-full" />
-        <div className="absolute -top-4 -left-4 w-24 h-24 bg-white/5 rounded-full" />
+      {/* Headshot */}
+      <div className="relative h-64 overflow-hidden bg-gray-200 dark:bg-dark-surface">
+        {member.headshot ? (
+          <img
+            src={sanityImageUrl(member.headshot, { width: 600, quality: 75 })}
+            srcSet={`${sanityImageUrl(member.headshot, { width: 300, quality: 75 })} 300w, ${sanityImageUrl(member.headshot, { width: 600, quality: 75 })} 600w`}
+            sizes="(max-width: 768px) 100vw, 33vw"
+            alt={member.name}
+            className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
+            loading="lazy"
+          />
+        ) : (
+          <div className="w-full h-full flex items-center justify-center text-4xl font-bold text-primary dark:text-green-400">
+            {member.name.charAt(0)}
+          </div>
+        )}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity" />
+        <div className="absolute bottom-4 left-4 right-4 translate-y-2 group-hover:translate-y-0 transition-transform">
+          <h3 className="text-lg font-bold text-white drop-shadow">
+            {member.name}
+          </h3>
+          <p className="text-sm text-white/80 drop-shadow">
+            {member.role}
+          </p>
+        </div>
       </div>
 
       {/* Content */}
-      <div className="p-6">
-        <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-1 leading-snug">
-          {member.name}
-        </h3>
-        <p className="text-primary dark:text-green-400 font-medium mb-3 text-[0.9375rem]">
-          {t(member.roleKey)}
-        </p>
-        <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 line-clamp-4 leading-relaxed">
-          {t(member.bioKey)}
-        </p>
-
-        {/* Credentials */}
-        {member.credentials && (
-          <div className="mb-4">
-            <div className="flex flex-wrap gap-2">
-              {member.credentials.slice(0, 3).map((cred, i) => (
-                <span
-                  key={i}
-                  className="inline-flex items-center px-2.5 py-1 bg-primary/10 dark:bg-green-400/10 text-primary dark:text-green-400 text-xs font-medium rounded-full"
-                >
-                  <Award className="w-3 h-3 mr-1" />
-                  {cred}
-                </span>
-              ))}
-            </div>
-          </div>
-        )}
-
-        {/* Social Links */}
-        {member.social && (
-          <div className="flex space-x-3 pt-4 border-t border-gray-200 dark:border-dark-border">
-            {member.social.linkedin && (
-              <a
-                href={member.social.linkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 bg-gray-100 dark:bg-dark-surface hover:bg-primary hover:text-white rounded-full flex items-center justify-center transition-colors"
-                aria-label={`${member.name} on LinkedIn`}
-              >
-                <LinkedInIcon className="w-5 h-5" />
-              </a>
-            )}
-            {member.social.facebook && (
-              <a
-                href={member.social.facebook}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-10 h-10 bg-gray-100 dark:bg-dark-surface hover:bg-primary hover:text-white rounded-full flex items-center justify-center transition-colors"
-                aria-label={`${member.name} on Facebook`}
-              >
-                <FacebookIcon className="w-5 h-5" />
-              </a>
-            )}
-          </div>
-        )}
+      <div className="p-5">
+        <div className="flex items-center justify-between">
+          <span className="inline-block px-3 py-1 bg-primary/10 dark:bg-green-400/10 text-primary dark:text-green-400 text-xs font-medium rounded-full">
+            {member.credentials?.length || 0} Credentials
+          </span>
+          <ArrowRight className="w-4 h-4 text-gray-400 group-hover:text-primary dark:group-hover:text-green-400 group-hover:translate-x-1 transition-all" />
+        </div>
       </div>
-    </div>
+    </Link>
   );
 }

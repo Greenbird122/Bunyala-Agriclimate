@@ -25,7 +25,7 @@ Build a modern, professional, multilingual website for **Bunyala Agri-Climate In
 | **Email/Newsletter** | Mailchimp (newsletter signup integration) |
 | **Analytics** | Google Analytics |
 | **Deployment** | GitHub (static deployment via GitHub Pages or similar) |
-| **Domain** | `bunyalaagriclimate.org` (typo confirmed — original brief said `bunyalaagrinduclimate.org` but client confirmed it's likely a spelling error) |
+| **Domain** | `bunyala-agriclimate.org` (typo confirmed — original brief said `bunyalaagrinduclimate.org` but client confirmed it's likely a spelling error) |
 
 ---
 
@@ -364,7 +364,7 @@ These items need client confirmation before final launch:
 
 | Item | Status |
 |------|--------|
-| Domain spelling | Confirmed typo — use `bunyalaagriclimate.org` |
+| Domain spelling | Confirmed typo — use `bunyala-agriclimate.org` |
 | Two-brand structure (Ltd + BACIS) | Assumed one company site with BACIS on About page |
 | Video links placement | Embed on relevant pages (Home, About, Technology) |
 | Sugar-beet field photo | Hold — appears to be stock, not client's own |
@@ -395,7 +395,7 @@ These items need client confirmation before final launch:
 ### 16.2 Deployment
 - GitHub repository
 - Deployed to GitHub Pages (or similar static hosting)
-- Custom domain: `bunyalaagriclimate.org`
+- Custom domain: `bunyala-agriclimate.org`
 - Automatic deployment on push to main branch
 
 ### 16.3 Environment Variables

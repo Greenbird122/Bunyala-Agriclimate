@@ -39,7 +39,7 @@ export default function SolutionDetail() {
         <meta name="description" content={t(solution.shortKey)} />
         <meta property="og:title" content={`${t(solution.titleKey)} | Bunyala Agri-Climate`} />
         <meta property="og:description" content={t(solution.shortKey)} />
-        <link rel="canonical" href={`https://bunyalaagriclimate.org/solutions/${slug}`} />
+        <link rel="canonical" href={`https://bunyala-agriclimate.org/solutions/${slug}`} />
         
         <script type="application/ld+json">
           {JSON.stringify({
@@ -51,7 +51,7 @@ export default function SolutionDetail() {
               "@type": "Organization",
               "name": "Bunyala Agri-Climate Industrial Park Limited"
             },
-            "url": `https://bunyalaagriclimate.org/solutions/${slug}`
+            "url": `https://bunyala-agriclimate.org/solutions/${slug}`
           })}
         </script>
       </Helmet>

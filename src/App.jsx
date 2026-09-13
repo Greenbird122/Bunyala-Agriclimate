@@ -18,9 +18,11 @@ import Solutions from './pages/Solutions';
 import SolutionDetail from './pages/SolutionDetail';
 import Impact from './pages/Impact';
 import Team from './pages/Team';
+import TeamMemberDetail from './pages/TeamMemberDetail';
 import Contact from './pages/Contact';
 import Partners from './pages/Partners';
 import News from './pages/News';
+import ArticleDetail from './pages/ArticleDetail';
 
 // Scroll to top on route change
 function ScrollToTop() {
@@ -71,8 +73,10 @@ function App() {
                 <Route path="/solutions/:slug" element={<SolutionDetail />} />
                 <Route path="/impact" element={<Impact />} />
                 <Route path="/team" element={<Team />} />
+                <Route path="/team/:slug" element={<TeamMemberDetail />} />
                 <Route path="/contact" element={<Contact />} />
                 <Route path="/news" element={<News />} />
+                <Route path="/news/:slug" element={<ArticleDetail />} />
                 {/* 404 Route */}
                 <Route path="*" element={<NotFound />} />
               </Routes>

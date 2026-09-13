@@ -13,26 +13,13 @@ import aboutHero from '../assets/images/shared/strategy-workshop.jpeg';
 import workshopImg from '../assets/images/shared/workshop-flipchart.jpeg';
 import planningImg from '../assets/images/shared/planning-meeting-fips.jpeg';
 import groupImg from '../assets/images/shared/group-discussion.jpeg';
-import { aboutGalleryImages as baseAboutGallery } from '../data/gallery';
-
-const aboutGalleryImages = [
-  { src: workshopImg, alt: 'Workshop session with flipchart', caption: 'Strategic Planning' },
-  { src: planningImg, alt: 'Meeting with partners', caption: 'Partner Engagement' },
-  { src: groupImg, alt: 'Group discussion', caption: 'Team Collaboration' },
-];
-
-const expandedAboutGallery = [
-  ...aboutGalleryImages,
-  baseAboutGallery[0],
-  baseAboutGallery[1],
-  baseAboutGallery[2],
-  baseAboutGallery[3],
-].filter(img => img?.src);
+import useGalleryImages from '../hooks/useGalleryImages';
 
 export default function About() {
   const { t } = useI18n();
   const { ref: contentRef, isVisible: contentVisible } = useScrollAnimation();
   const { ref: bacisRef, isVisible: bacisVisible } = useScrollAnimation();
+  const { images: aboutGalleryImages, loading: galleryLoading } = useGalleryImages('about');
 
   return (
     <>
@@ -41,7 +28,7 @@ export default function About() {
         <meta name="description" content="Learn about Bunyala Agri-Climate Industrial Park Limited - a Kenyan social enterprise working at the intersection of climate action, circular economy, agriculture, aquaculture, waste management, and renewable energy." />
         <meta property="og:title" content="About Us | Bunyala Agri-Climate Industrial Park Limited" />
         <meta property="og:description" content="A Kenyan social enterprise based in Busia County, Western Kenya, pioneering Blue Circular Economy solutions." />
-        <link rel="canonical" href="https://bunyalaagriclimate.org/about" />
+        <link rel="canonical" href="https://bunyala-agriclimate.org/about" />
         
         <script type="application/ld+json">
           {JSON.stringify({
@@ -49,7 +36,7 @@ export default function About() {
             "@type": "AboutPage",
             "name": "About Bunyala Agri-Climate Industrial Park Limited",
             "description": "Learn about our mission, vision, and work in circular economy and climate action.",
-            "url": "https://bunyalaagriclimate.org/about"
+            "url": "https://bunyala-agriclimate.org/about"
           })}
         </script>
       </Helmet>
@@ -190,7 +177,13 @@ export default function About() {
                 From workshops to community meetings, see how we work with partners and communities.
               </p>
             </div>
-            <ImageMasonry images={expandedAboutGallery} title="Team Activities" />
+            {galleryLoading ? (
+              <div className="text-center py-12 text-gray-500 dark:text-gray-400">
+                Loading gallery...
+              </div>
+            ) : (
+              <ImageMasonry images={aboutGalleryImages} title="Team Activities" />
+            )}
           </div>
         </section>
 

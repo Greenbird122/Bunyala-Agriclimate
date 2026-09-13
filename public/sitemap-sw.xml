@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bunyalaagriclimate.org/?lang=sw</loc>
+    <loc>https://bunyala-agriclimate.org/?lang=sw</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bunyalaagriclimate.org/" />
-    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyalaagriclimate.org/?lang=sw" />
-    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyalaagriclimate.org/?lang=luhya" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyalaagriclimate.org/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://bunyala-agriclimate.org/" />
+    <xhtml:link rel="alternate" hreflang="sw" href="https://bunyala-agriclimate.org/?lang=sw" />
+    <xhtml:link rel="alternate" hreflang="luy" href="https://bunyala-agriclimate.org/?lang=luhya" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bunyala-agriclimate.org/" />
   </url>
   <url>
-    <loc>https://bunyalaagriclimate.org/about?lang=sw</loc>
+    <loc>https://bunyala-agriclimate.org/about?lang=sw</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://bunyalaagriclimate.org/solutions?lang=sw</loc>
+    <loc>https://bunyala-agriclimate.org/solutions?lang=sw</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://bunyalaagriclimate.org/impact?lang=sw</loc>
+    <loc>https://bunyala-agriclimate.org/impact?lang=sw</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://bunyalaagriclimate.org/team?lang=sw</loc>
+    <loc>https://bunyala-agriclimate.org/team?lang=sw</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://bunyalaagriclimate.org/news?lang=sw</loc>
+    <loc>https://bunyala-agriclimate.org/news?lang=sw</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bunyalaagriclimate.org/contact?lang=sw</loc>
+    <loc>https://bunyala-agriclimate.org/contact?lang=sw</loc>
     <lastmod>2026-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

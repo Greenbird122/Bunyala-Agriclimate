@@ -1,0 +1,17 @@
+# Bunyala Agri-Climate — SPA fallback for Apache (Truehost cPanel)
+# Serves index.html for any URL that isn't a real file or directory,
+# so React Router handles deep links like /news/my-article,
+# /team/jane-doe and /solutions/bsf-bioconversion on refresh or direct visit.
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Serve existing files (assets/, robots.txt, sitemaps, .htaccess'd files) as-is
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Everything else goes through the SPA
+  RewriteRule ^ /index.html [L]
+</IfModule>

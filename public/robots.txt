@@ -1,5 +1,5 @@
 # robots.txt for Bunyala Agri-Climate Industrial Park Limited
-# https://bunyalaagriclimate.org
+# https://bunyala-agriclimate.org
 # Updated: 2026-09-02
 
 User-agent: *
@@ -19,9 +19,9 @@ Disallow: /500
 Crawl-delay: 1
 
 # Sitemap locations
-Sitemap: https://bunyalaagriclimate.org/sitemap.xml
-Sitemap: https://bunyalaagriclimate.org/sitemap-luhya.xml
-Sitemap: https://bunyalaagriclimate.org/sitemap-sw.xml
+Sitemap: https://bunyala-agriclimate.org/sitemap.xml
+Sitemap: https://bunyala-agriclimate.org/sitemap-luhya.xml
+Sitemap: https://bunyala-agriclimate.org/sitemap-sw.xml
 
 # Regional variants (hreflang)
 # English

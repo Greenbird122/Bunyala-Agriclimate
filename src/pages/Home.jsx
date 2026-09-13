@@ -12,6 +12,7 @@ import { useI18n } from '../i18n';
 import { impactStats } from '../data/impact-stats';
 import { solutions } from '../data/solutions';
 import { useScrollAnimation } from '../hooks/useScrollAnimation';
+import useGalleryImages from '../hooks/useGalleryImages';
 
 // Images
 import heroImg from '../assets/images/shared/individual-planting.jpeg';
@@ -24,15 +25,10 @@ const videos = [
   'https://youtu.be/Ttu9zkmtlts',
 ];
 
-const homeGalleryImages = [
-  { src: wasteImg, alt: 'Organic waste being converted into valuable resources', caption: 'Waste as feedstock' },
-  { src: treeImg, alt: 'Tree seedlings nursery', caption: 'Climate-smart agriculture' },
-  { src: communityImg, alt: 'Community engagement', caption: 'Building together' },
-];
-
 export default function Home() {
   const { t } = useI18n();
   const { ref: videoRef, isVisible: videoVisible } = useScrollAnimation();
+  const { images: homeGalleryImages, loading: galleryLoading } = useGalleryImages('home');
 
   return (
     <>
@@ -43,7 +39,7 @@ export default function Home() {
         <meta property="og:description" content="Turning Waste into Wealth through Blue-Green Circular Economy Innovation" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
-        <link rel="canonical" href="https://bunyalaagriclimate.org/" />
+        <link rel="canonical" href="https://bunyala-agriclimate.org/" />
         
         {/* Structured Data */}
         <script type="application/ld+json">
@@ -52,8 +48,8 @@ export default function Home() {
             "@type": "Organization",
             "name": "Bunyala Agri-Climate Industrial Park Limited",
             "description": "Kenyan social enterprise pioneering Blue Circular Economy and ClimateTech solutions in the Lake Victoria Basin",
-            "url": "https://bunyalaagriclimate.org",
-            "logo": "https://bunyalaagriclimate.org/logo.png",
+            "url": "https://bunyala-agriclimate.org",
+            "logo": "https://bunyala-agriclimate.org/logo.png",
             "address": {
               "@type": "PostalAddress",
               "addressLocality": "Busia",
@@ -139,7 +135,13 @@ export default function Home() {
                 See our circular economy solutions in action across Western Kenya.
               </p>
             </div>
-            <ImageMasonry images={homeGalleryImages} title="Our Solutions" />
+            {galleryLoading ? (
+              <div className="text-center py-12 text-gray-500 dark:text-gray-400">
+                Loading gallery...
+              </div>
+            ) : (
+              <ImageMasonry images={homeGalleryImages} title="Our Solutions" />
+            )}
           </div>
         </section>
 
