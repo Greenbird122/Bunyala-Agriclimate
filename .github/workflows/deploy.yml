@@ -37,5 +37,5 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftp
           port: 21
-          local-dir: ./dist/  # Use ./build/ if your project uses Create React App instead of Vite
-          server-dir: /bunyala-agriclimate.org/  # The target folder path on Truehost cPanel
+          local-dir: ./dist/  # Vite build output
+          server-dir: /public_html/  # Truehost cPanel web root (confirmed via File Manager)
