@@ -6,27 +6,29 @@ import { useDarkMode } from '../../hooks/useDarkMode';
 import logoImg from '../../assets/images/logo/primary-logo.jpeg';
 
 const navLinks = [
-  { path: '/', labelKey: 'nav.home' },
   { path: '/about', labelKey: 'nav.about' },
-  { path: '/about/partners', labelKey: 'nav.partners' },
   { path: '/solutions', labelKey: 'nav.solutions' },
   { path: '/impact', labelKey: 'nav.impact' },
+  { path: '/gallery', labelKey: 'nav.gallery' },
   { path: '/team', labelKey: 'nav.team' },
   { path: '/news', labelKey: 'nav.news' },
-  { path: '/contact', labelKey: 'nav.contact' },
 ];
 
-// Mobile menu has room for one more item than the desktop bar
+const aboutDropdown = [{ path: '/about/partners', labelKey: 'nav.partners' }];
+
+// Mobile menu: flat full list (including Home + Partners)
 const mobileNavLinks = [
-  ...navLinks.slice(0, -1),
-  { path: '/gallery', labelKey: 'nav.gallery' },
-  navLinks[navLinks.length - 1],
+  { path: '/', labelKey: 'nav.home' },
+  ...navLinks,
+  ...aboutDropdown,
+  { path: '/contact', labelKey: 'nav.contact' },
 ];
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [langOpen, setLangOpen] = useState(false);
+  const [aboutOpen, setAboutOpen] = useState(false);
   const location = useLocation();
   const { t, language, setLanguage, languages } = useI18n();
   const { isDark, toggleDark } = useDarkMode();
@@ -35,6 +37,8 @@ export default function Header() {
   const langMenuRef = useRef(null);
   const menuButtonRef = useRef(null);
   const langButtonRef = useRef(null);
+  const aboutMenuRef = useRef(null);
+  const aboutButtonRef = useRef(null);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -47,6 +51,7 @@ export default function Header() {
   useEffect(() => {
     setIsMenuOpen(false);
     setLangOpen(false);
+    setAboutOpen(false);
   }, [location]);
 
   // Close language menu on outside click
@@ -64,6 +69,22 @@ export default function Header() {
     document.addEventListener('mousedown', handleClickOutside);
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, [langOpen]);
+
+  // Close About dropdown on outside click
+  useEffect(() => {
+    const handleAboutOutside = (e) => {
+      if (
+        aboutOpen &&
+        aboutMenuRef.current &&
+        !aboutMenuRef.current.contains(e.target) &&
+        !aboutButtonRef.current.contains(e.target)
+      ) {
+        setAboutOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handleAboutOutside);
+    return () => document.removeEventListener('mousedown', handleAboutOutside);
+  }, [aboutOpen]);
 
   // Keyboard trap and handling for mobile menu
   useEffect(() => {
@@ -143,7 +164,55 @@ export default function Header() {
 
           {/* Desktop Navigation */}
           <nav className="hidden lg:flex items-center space-x-1" role="navigation" aria-label="Main navigation">
-            {navLinks.map((link) => (
+            {/* About with dropdown (Partners lives under it) */}
+            <div className="relative" ref={aboutMenuRef}>
+              <button
+                ref={aboutButtonRef}
+                onClick={() => setAboutOpen(!aboutOpen)}
+                className={`flex items-center px-3 py-2 text-[0.8125rem] font-medium rounded-md transition-colors tracking-wide ${
+                  isActive('/about') || aboutOpen
+                    ? 'text-primary dark:text-green-400 bg-primary/10 dark:bg-green-400/10'
+                    : 'text-gray-700 dark:text-gray-300 hover:text-primary dark:hover:text-green-400 hover:bg-gray-100 dark:hover:bg-dark-card'
+                }`}
+                aria-expanded={aboutOpen}
+                aria-haspopup="true"
+              >
+                {t('nav.about')}
+                <ChevronDown className={`w-3 h-3 ml-1 transition-transform ${aboutOpen ? 'rotate-180' : ''}`} aria-hidden="true" />
+              </button>
+              {aboutOpen && (
+                <ul
+                  className="absolute top-full left-0 mt-1 bg-white dark:bg-dark-card rounded-lg shadow-lg border border-gray-200 dark:border-dark-border py-1 min-w-[160px] animate-fade-in z-50"
+                  role="menu"
+                  aria-label="About submenu"
+                >
+                  <li role="none">
+                    <Link
+                      to="/about"
+                      role="menuitem"
+                      className="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-dark-surface hover:text-primary dark:hover:text-green-400 transition-colors"
+                      onClick={() => setAboutOpen(false)}
+                    >
+                      {t('nav.about')}
+                    </Link>
+                  </li>
+                  {aboutDropdown.map((link) => (
+                    <li key={link.path} role="none">
+                      <Link
+                        to={link.path}
+                        role="menuitem"
+                        className="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-dark-surface hover:text-primary dark:hover:text-green-400 transition-colors"
+                        onClick={() => setAboutOpen(false)}
+                      >
+                        {t(link.labelKey)}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+
+            {navLinks.slice(1).map((link) => (
               <Link
                 key={link.path}
                 to={link.path}
@@ -157,6 +226,19 @@ export default function Header() {
                 {t(link.labelKey)}
               </Link>
             ))}
+
+            {/* Contact as CTA */}
+            <Link
+              to="/contact"
+              className={`ml-2 px-4 py-2 text-[0.8125rem] font-semibold rounded-md transition-colors tracking-wide ${
+                isActive('/contact')
+                  ? 'bg-primary-dark text-white'
+                  : 'bg-primary hover:bg-primary-dark text-white'
+              }`}
+              aria-current={isActive('/contact') ? 'page' : undefined}
+            >
+              {t('nav.contact')}
+            </Link>
           </nav>
 
           {/* Right side controls */}
