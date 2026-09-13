@@ -1,0 +1,4193 @@
+{
+  "exportedAt": "2026-09-13T16:45:53.593Z",
+  "projectId": "3r8wb2ev",
+  "dataset": "production",
+  "count": 279,
+  "documents": [
+    {
+      "_createdAt": "2026-09-13T11:36:14Z",
+      "_id": "7BFJOwll8u80YQvAa21T40",
+      "_rev": "7BFJOwll8u80YQvAa21SzF",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:36:14Z",
+      "alt": "Document Review",
+      "caption": "Document Review",
+      "category": "about",
+      "image": {
+        "_ref": "image-883b732beeab89283447a473a5619b3e02496d76-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 1
+    },
+    {
+      "_createdAt": "2026-09-13T11:36:19Z",
+      "_id": "7BFJOwll8u80YQvAa21TRn",
+      "_rev": "7BFJOwll8u80YQvAa21TN2",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:36:19Z",
+      "alt": "Strategy Workshop",
+      "caption": "Strategy Workshop",
+      "category": "about",
+      "image": {
+        "_ref": "image-39555b99add35d7078402a58bed4e0f2eeaad63f-899x1599-jpg",
+        "_type": "reference"
+      },
+      "order": 2
+    },
+    {
+      "_createdAt": "2026-09-13T11:36:34Z",
+      "_id": "7BFJOwll8u80YQvAa21WHq",
+      "_rev": "7BFJOwll8u80YQvAa21WD5",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:36:34Z",
+      "alt": "2023 02 16 Community Meeting 1",
+      "caption": "2023 02 16 Community Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-baa11a4d62bb61c759aef0854a3ca3c2fad36198-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 3
+    },
+    {
+      "_createdAt": "2026-09-13T11:36:47Z",
+      "_id": "7BFJOwll8u80YQvAa21Y3H",
+      "_rev": "7BFJOwll8u80YQvAa21XyW",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:36:47Z",
+      "alt": "2023 02 23 Community Meeting 2",
+      "caption": "2023 02 23 Community Meeting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-564b1e016818e125fe4fb2b664853856e65c6483-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 4
+    },
+    {
+      "_createdAt": "2026-09-13T11:37:03Z",
+      "_id": "7BFJOwll8u80YQvAa21b2q",
+      "_rev": "7BFJOwll8u80YQvAa21ay5",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:37:03Z",
+      "alt": "2023 03 02 Workshop 1",
+      "caption": "2023 03 02 Workshop 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-efaf3c59048684b2716e2eb16e745b9f62a48a90-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 5
+    },
+    {
+      "_createdAt": "2026-09-13T11:37:14Z",
+      "_id": "7BFJOwll8u80YQvAa21ca0",
+      "_rev": "7BFJOwll8u80YQvAa21cVF",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:37:14Z",
+      "alt": "2023 03 17 Training 1",
+      "caption": "2023 03 17 Training 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3b556e87dd5a764ca2e8fde5e33b6a1870c81abf-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 6
+    },
+    {
+      "_createdAt": "2026-09-13T11:37:22Z",
+      "_id": "7BFJOwll8u80YQvAa21eBv",
+      "_rev": "7BFJOwll8u80YQvAa21e7A",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:37:22Z",
+      "alt": "2023 03 23 Facebook 1",
+      "caption": "2023 03 23 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-09cad81f768d847489707bc59972992646ac9992-720x956-jpg",
+        "_type": "reference"
+      },
+      "order": 8
+    },
+    {
+      "_createdAt": "2026-09-13T11:38:36Z",
+      "_id": "7BFJOwll8u80YQvAa21rEn",
+      "_rev": "7BFJOwll8u80YQvAa21rA2",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:38:36Z",
+      "alt": "2023 05 09 Planting 2",
+      "caption": "2023 05 09 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-10f293f2ca786e1c9a1ebf58078cfda664c72d33-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 14
+    },
+    {
+      "_createdAt": "2026-09-13T11:38:45Z",
+      "_id": "7BFJOwll8u80YQvAa21tJG",
+      "_rev": "7BFJOwll8u80YQvAa21tEV",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:38:45Z",
+      "alt": "2023 05 23 Event 1",
+      "caption": "2023 05 23 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-a1c4d1b01157cee90c093334079c05e74a216a65-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 15
+    },
+    {
+      "_createdAt": "2026-09-13T11:39:29Z",
+      "_id": "7BFJOwll8u80YQvAa221Mr",
+      "_rev": "7BFJOwll8u80YQvAa221I6",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:39:29Z",
+      "alt": "2023 07 25 Community 2",
+      "caption": "2023 07 25 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-041dbe74bee5f838d254cdbb4244b3caa84b4628-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 19
+    },
+    {
+      "_createdAt": "2026-09-13T11:39:43Z",
+      "_id": "7BFJOwll8u80YQvAa225yL",
+      "_rev": "7BFJOwll8u80YQvAa225ta",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:39:43Z",
+      "alt": "2023 09 05 Training 1",
+      "caption": "2023 09 05 Training 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-553d47244413ac70d598797c2a498f2170beb422-3264x1456-jpg",
+        "_type": "reference"
+      },
+      "order": 21
+    },
+    {
+      "_createdAt": "2026-09-13T11:40:48Z",
+      "_id": "7BFJOwll8u80YQvAa22Imw",
+      "_rev": "7BFJOwll8u80YQvAa22IiB",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:40:48Z",
+      "alt": "2023 10 19 Planting 2",
+      "caption": "2023 10 19 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-edb6d15cc68e8be1d7155cb0c5d35c7bbcf6389e-3072x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 26
+    },
+    {
+      "_createdAt": "2026-09-13T11:41:40Z",
+      "_id": "7BFJOwll8u80YQvAa23EjH",
+      "_rev": "7BFJOwll8u80YQvAa23EeW",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:41:40Z",
+      "alt": "2023 10 20 Community 2",
+      "caption": "2023 10 20 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-86cc6c3ea082901c7f4661ef73c7c3a8147309ab-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 28
+    },
+    {
+      "_createdAt": "2026-09-13T11:42:15Z",
+      "_id": "7BFJOwll8u80YQvAa23ti5",
+      "_rev": "7BFJOwll8u80YQvAa23tdK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:42:15Z",
+      "alt": "2023 11 13 Workshop 1",
+      "caption": "2023 11 13 Workshop 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-e0745a81db0ae9e8374eaec6f3c982b1a18176ad-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 31
+    },
+    {
+      "_createdAt": "2026-09-13T11:42:38Z",
+      "_id": "7BFJOwll8u80YQvAa24JUn",
+      "_rev": "7BFJOwll8u80YQvAa24JQ2",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:42:38Z",
+      "alt": "2023 12 10 Event 1",
+      "caption": "2023 12 10 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-96bae1d39574c875e597900206ecc78c3dfde553-1824x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 33
+    },
+    {
+      "_createdAt": "2026-09-13T11:43:03Z",
+      "_id": "7BFJOwll8u80YQvAa24ma6",
+      "_rev": "7BFJOwll8u80YQvAa24mVL",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:43:03Z",
+      "alt": "2024 02 01 Facebook 2",
+      "caption": "2024 02 01 Facebook 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-eea740f9766adc1005affce6fee3d03d966cef45-720x956-jpg",
+        "_type": "reference"
+      },
+      "order": 38
+    },
+    {
+      "_createdAt": "2026-09-13T11:43:53Z",
+      "_id": "7BFJOwll8u80YQvAa25F3L",
+      "_rev": "7BFJOwll8u80YQvAa25Eya",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:43:53Z",
+      "alt": "2024 09 15 Planting 1",
+      "caption": "2024 09 15 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-1794e472ccece725b6ac70d10ac364312f7d7ef7-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 42
+    },
+    {
+      "_createdAt": "2026-09-13T11:43:58Z",
+      "_id": "7BFJOwll8u80YQvAa25HM5",
+      "_rev": "7BFJOwll8u80YQvAa25HHK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:43:58Z",
+      "alt": "2024 09 15 Planting 2",
+      "caption": "2024 09 15 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-8e73f57c2f0c9e50fa407fad0c78231c8d5e9a0b-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 43
+    },
+    {
+      "_createdAt": "2026-09-13T11:44:09Z",
+      "_id": "7BFJOwll8u80YQvAa25L7E",
+      "_rev": "7BFJOwll8u80YQvAa25L2T",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:44:09Z",
+      "alt": "2024 09 15 Planting 4",
+      "caption": "2024 09 15 Planting 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-a47697630dde6a48e47b2ac4293457cd38f899c8-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 45
+    },
+    {
+      "_createdAt": "2026-09-13T11:44:37Z",
+      "_id": "7BFJOwll8u80YQvAa25Srn",
+      "_rev": "7BFJOwll8u80YQvAa25Sn2",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:44:37Z",
+      "alt": "2024 10 04 Event 2",
+      "caption": "2024 10 04 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-da5432e15aa26d9c558e162c50fc43f8edef1a2c-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 48
+    },
+    {
+      "_createdAt": "2026-09-13T11:44:47Z",
+      "_id": "7BFJOwll8u80YQvAa25UFR",
+      "_rev": "7BFJOwll8u80YQvAa25UAg",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:44:47Z",
+      "alt": "2024 10 04 Event 3",
+      "caption": "2024 10 04 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-d92528a42e926d23008fc770fc996b0ee032530f-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 49
+    },
+    {
+      "_createdAt": "2026-09-13T11:45:05Z",
+      "_id": "7BFJOwll8u80YQvAa25XOW",
+      "_rev": "7BFJOwll8u80YQvAa25XJl",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:45:05Z",
+      "alt": "2024 10 07 Community 1",
+      "caption": "2024 10 07 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-64aa2335f39b013c401cf608239a5e8eaa37ca68-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 51
+    },
+    {
+      "_createdAt": "2026-09-13T11:46:41Z",
+      "_id": "7BFJOwll8u80YQvAa26TPc",
+      "_rev": "7BFJOwll8u80YQvAa26TKr",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:46:41Z",
+      "alt": "Document Review",
+      "caption": "Document Review",
+      "category": "about",
+      "image": {
+        "_ref": "image-883b732beeab89283447a473a5619b3e02496d76-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 1
+    },
+    {
+      "_createdAt": "2026-09-13T11:47:44Z",
+      "_id": "7BFJOwll8u80YQvAa26eSm",
+      "_rev": "7BFJOwll8u80YQvAa26eO1",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:47:44Z",
+      "alt": "2023 03 17 Training 2",
+      "caption": "2023 03 17 Training 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-ba5d04bc0067b27b5e1e1254d9ae34d3f56379d7-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 7
+    },
+    {
+      "_createdAt": "2026-09-13T11:50:24Z",
+      "_id": "7BFJOwll8u80YQvAa27Dzl",
+      "_rev": "7BFJOwll8u80YQvAa27Dv0",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:50:24Z",
+      "alt": "2023 10 13 Event 1",
+      "caption": "2023 10 13 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-f34dbaec09c9aebfa7adbc7882beda63e0f6524d-4609x3470-jpg",
+        "_type": "reference"
+      },
+      "order": 24
+    },
+    {
+      "_createdAt": "2026-09-13T11:51:30Z",
+      "_id": "7BFJOwll8u80YQvAa27TZe",
+      "_rev": "7BFJOwll8u80YQvAa27TUt",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:51:30Z",
+      "alt": "2023 11 11 Event 1",
+      "caption": "2023 11 11 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-433074a2ebe209dc80ddbcd3820624ebefc94de6-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 29
+    },
+    {
+      "_createdAt": "2026-09-13T11:51:41Z",
+      "_id": "7BFJOwll8u80YQvAa27V23",
+      "_rev": "7BFJOwll8u80YQvAa27UxI",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:51:41Z",
+      "alt": "2023 11 11 Event 2",
+      "caption": "2023 11 11 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-318542f81bcef0f39dedf8ba697bdcaed61393d7-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 30
+    },
+    {
+      "_createdAt": "2026-09-13T11:51:57Z",
+      "_id": "7BFJOwll8u80YQvAa27Wx0",
+      "_rev": "7BFJOwll8u80YQvAa27WsF",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:51:57Z",
+      "alt": "2023 11 13 Workshop 1",
+      "caption": "2023 11 13 Workshop 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-e0745a81db0ae9e8374eaec6f3c982b1a18176ad-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 31
+    },
+    {
+      "_createdAt": "2026-09-13T11:52:12Z",
+      "_id": "7BFJOwll8u80YQvAa27YPP",
+      "_rev": "7BFJOwll8u80YQvAa27YKe",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:52:12Z",
+      "alt": "2023 11 13 Workshop 2",
+      "caption": "2023 11 13 Workshop 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-5a45543d5a61f343b0a07f2bcd2ffd91d7bd624a-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 32
+    },
+    {
+      "_createdAt": "2026-09-13T11:52:21Z",
+      "_id": "7BFJOwll8u80YQvAa27a65",
+      "_rev": "7BFJOwll8u80YQvAa27a1K",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:52:21Z",
+      "alt": "2023 12 10 Event 1",
+      "caption": "2023 12 10 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-96bae1d39574c875e597900206ecc78c3dfde553-1824x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 33
+    },
+    {
+      "_createdAt": "2026-09-13T11:52:34Z",
+      "_id": "7BFJOwll8u80YQvAa27c12",
+      "_rev": "7BFJOwll8u80YQvAa27bwH",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:52:34Z",
+      "alt": "2023 12 10 Event 3",
+      "caption": "2023 12 10 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-bc1335a3cf12fb45e55f4f5f6038108710eb5a1a-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 35
+    },
+    {
+      "_createdAt": "2026-09-13T11:52:41Z",
+      "_id": "7BFJOwll8u80YQvAa27cYL",
+      "_rev": "7BFJOwll8u80YQvAa27cTa",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:52:41Z",
+      "alt": "2024 01 24 Facebook 1",
+      "caption": "2024 01 24 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-16ec7931c03d8e3af34e99268cb5e6e25fa65609-720x721-jpg",
+        "_type": "reference"
+      },
+      "order": 36
+    },
+    {
+      "_createdAt": "2026-09-13T11:52:45Z",
+      "_id": "7BFJOwll8u80YQvAa27dJv",
+      "_rev": "7BFJOwll8u80YQvAa27dFA",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:52:45Z",
+      "alt": "2024 02 01 Facebook 1",
+      "caption": "2024 02 01 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-7e025ae8a5bd1f9c0420cebf0867c35b45c4a661-540x372-jpg",
+        "_type": "reference"
+      },
+      "order": 37
+    },
+    {
+      "_createdAt": "2026-09-13T11:52:50Z",
+      "_id": "7BFJOwll8u80YQvAa27gXl",
+      "_rev": "7BFJOwll8u80YQvAa27gT0",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:52:50Z",
+      "alt": "2024 02 01 Facebook 2",
+      "caption": "2024 02 01 Facebook 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-eea740f9766adc1005affce6fee3d03d966cef45-720x956-jpg",
+        "_type": "reference"
+      },
+      "order": 38
+    },
+    {
+      "_createdAt": "2026-09-13T11:53:19Z",
+      "_id": "7BFJOwll8u80YQvAa27jgq",
+      "_rev": "7BFJOwll8u80YQvAa27jc5",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:53:19Z",
+      "alt": "2024 04 10 Event 1",
+      "caption": "2024 04 10 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-4cfab3bd335fcd4502e2c870591f43d4d3667b41-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 40
+    },
+    {
+      "_createdAt": "2026-09-13T11:55:33Z",
+      "_id": "7BFJOwll8u80YQvAa28AAN",
+      "_rev": "7BFJOwll8u80YQvAa28A5c",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:55:33Z",
+      "alt": "2024 12 03 Event 1",
+      "caption": "2024 12 03 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-81f2c5a1ce3397a7e2d69520ce0a88c0703f9f3e-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 54
+    },
+    {
+      "_createdAt": "2026-09-13T11:55:49Z",
+      "_id": "7BFJOwll8u80YQvAa28DSy",
+      "_rev": "7BFJOwll8u80YQvAa28DOD",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:55:49Z",
+      "alt": "2025 02 07 Community 1",
+      "caption": "2025 02 07 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-1b093a1d833b70b62c5e214d21471560b58077fb-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 55
+    },
+    {
+      "_createdAt": "2026-09-13T11:56:51Z",
+      "_id": "7BFJOwll8u80YQvAa28Lg5",
+      "_rev": "7BFJOwll8u80YQvAa28LbK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:56:51Z",
+      "alt": "Community Meeting Indoor",
+      "caption": "Community Meeting Indoor",
+      "category": "about",
+      "image": {
+        "_ref": "image-c830816f1be3fc735f44e4d4ddb78b273fe9d44f-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 0
+    },
+    {
+      "_createdAt": "2026-09-13T11:56:56Z",
+      "_id": "7BFJOwll8u80YQvAa28MI9",
+      "_rev": "7BFJOwll8u80YQvAa28MDO",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:56:56Z",
+      "alt": "Document Review",
+      "caption": "Document Review",
+      "category": "about",
+      "image": {
+        "_ref": "image-883b732beeab89283447a473a5619b3e02496d76-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 1
+    },
+    {
+      "_createdAt": "2026-09-13T11:57:30Z",
+      "_id": "7BFJOwll8u80YQvAa28RVh",
+      "_rev": "7BFJOwll8u80YQvAa28RQw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:57:30Z",
+      "alt": "2023 02 23 Community Meeting 2",
+      "caption": "2023 02 23 Community Meeting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-564b1e016818e125fe4fb2b664853856e65c6483-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 4
+    },
+    {
+      "_createdAt": "2026-09-13T12:08:23Z",
+      "_id": "7BFJOwll8u80YQvAa2GDq8",
+      "_rev": "7BFJOwll8u80YQvAa2GDlN",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:08:23Z",
+      "alt": "2023 02 23 Community Meeting 2",
+      "caption": "2023 02 23 Community Meeting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-564b1e016818e125fe4fb2b664853856e65c6483-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 4
+    },
+    {
+      "_createdAt": "2026-09-13T12:08:53Z",
+      "_id": "7BFJOwll8u80YQvAa2GaYW",
+      "_rev": "7BFJOwll8u80YQvAa2GaTl",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:08:53Z",
+      "alt": "2023 03 02 Workshop 1",
+      "caption": "2023 03 02 Workshop 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-efaf3c59048684b2716e2eb16e745b9f62a48a90-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 5
+    },
+    {
+      "_createdAt": "2026-09-13T12:09:07Z",
+      "_id": "7BFJOwll8u80YQvAa2GmuZ",
+      "_rev": "7BFJOwll8u80YQvAa2Gmpo",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:09:07Z",
+      "alt": "2023 03 23 Facebook 1",
+      "caption": "2023 03 23 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-09cad81f768d847489707bc59972992646ac9992-720x956-jpg",
+        "_type": "reference"
+      },
+      "order": 8
+    },
+    {
+      "_createdAt": "2026-09-13T12:09:40Z",
+      "_id": "7BFJOwll8u80YQvAa2HF4m",
+      "_rev": "7BFJOwll8u80YQvAa2HF01",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:09:40Z",
+      "alt": "2023 05 03 Community 2",
+      "caption": "2023 05 03 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-32b967b930213141e8630b67c2e765637157c52f-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 11
+    },
+    {
+      "_createdAt": "2026-09-13T12:09:57Z",
+      "_id": "7BFJOwll8u80YQvAa2HToK",
+      "_rev": "7BFJOwll8u80YQvAa2HTjZ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:09:57Z",
+      "alt": "2023 05 09 Planting 1",
+      "caption": "2023 05 09 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-0d394be448ad6b5b15fa1630c91f415ec96a0f29-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 13
+    },
+    {
+      "_createdAt": "2026-09-13T12:11:12Z",
+      "_id": "7BFJOwll8u80YQvAa2JBKf",
+      "_rev": "7BFJOwll8u80YQvAa2JBFu",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:11:12Z",
+      "alt": "2023 09 01 Event 1",
+      "caption": "2023 09 01 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-f8a4919795f47b0fc8e8b110ad98ed6d561bf4b1-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 20
+    },
+    {
+      "_createdAt": "2026-09-13T12:11:34Z",
+      "_id": "7BFJOwll8u80YQvAa2Jfx8",
+      "_rev": "7BFJOwll8u80YQvAa2JfsN",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:11:34Z",
+      "alt": "2023 09 18 Meeting 1",
+      "caption": "2023 09 18 Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-7efcaff48b24bdfdaa9bd48c4c35f9d1b0f27a11-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 23
+    },
+    {
+      "_createdAt": "2026-09-13T12:12:21Z",
+      "_id": "7BFJOwll8u80YQvAa2Kfst",
+      "_rev": "7BFJOwll8u80YQvAa2Kfo8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:12:21Z",
+      "alt": "2023 10 20 Community 1",
+      "caption": "2023 10 20 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-66ff7c7eefd54d28d42ffadfcb5c3ab4dd643ea1-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 27
+    },
+    {
+      "_createdAt": "2026-09-13T12:12:46Z",
+      "_id": "7BFJOwll8u80YQvAa2L92x",
+      "_rev": "7BFJOwll8u80YQvAa2L8yC",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:12:46Z",
+      "alt": "2023 11 11 Event 1",
+      "caption": "2023 11 11 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-433074a2ebe209dc80ddbcd3820624ebefc94de6-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 29
+    },
+    {
+      "_createdAt": "2026-09-13T12:12:54Z",
+      "_id": "7BFJOwll8u80YQvAa2LHPa",
+      "_rev": "7BFJOwll8u80YQvAa2LHKp",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:12:54Z",
+      "alt": "2023 11 11 Event 2",
+      "caption": "2023 11 11 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-318542f81bcef0f39dedf8ba697bdcaed61393d7-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 30
+    },
+    {
+      "_createdAt": "2026-09-13T12:13:37Z",
+      "_id": "7BFJOwll8u80YQvAa2Lyh8",
+      "_rev": "7BFJOwll8u80YQvAa2LycN",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:13:37Z",
+      "alt": "2023 12 10 Event 2",
+      "caption": "2023 12 10 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-968ce8309483a19fac720e6d8897387a897f8f3a-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 34
+    },
+    {
+      "_createdAt": "2026-09-13T12:13:45Z",
+      "_id": "7BFJOwll8u80YQvAa2M3pv",
+      "_rev": "7BFJOwll8u80YQvAa2M3lA",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:13:45Z",
+      "alt": "2024 01 24 Facebook 1",
+      "caption": "2024 01 24 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-16ec7931c03d8e3af34e99268cb5e6e25fa65609-720x721-jpg",
+        "_type": "reference"
+      },
+      "order": 36
+    },
+    {
+      "_createdAt": "2026-09-13T12:14:07Z",
+      "_id": "7BFJOwll8u80YQvAa2MH74",
+      "_rev": "7BFJOwll8u80YQvAa2MH2J",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:14:07Z",
+      "alt": "2024 03 05 Community 1",
+      "caption": "2024 03 05 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-0169710921b871ed91693b77daeb2017d4d2edb3-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 39
+    },
+    {
+      "_createdAt": "2026-09-13T12:14:20Z",
+      "_id": "7BFJOwll8u80YQvAa2MQOn",
+      "_rev": "7BFJOwll8u80YQvAa2MQK2",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:14:20Z",
+      "alt": "2024 04 10 Event 1",
+      "caption": "2024 04 10 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-4cfab3bd335fcd4502e2c870591f43d4d3667b41-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 40
+    },
+    {
+      "_createdAt": "2026-09-13T12:14:45Z",
+      "_id": "7BFJOwll8u80YQvAa2NHVN",
+      "_rev": "7BFJOwll8u80YQvAa2NHQc",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:14:45Z",
+      "alt": "2024 09 15 Planting 2",
+      "caption": "2024 09 15 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-8e73f57c2f0c9e50fa407fad0c78231c8d5e9a0b-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 43
+    },
+    {
+      "_createdAt": "2026-09-13T12:15:38Z",
+      "_id": "7BFJOwll8u80YQvAa2Nux1",
+      "_rev": "7BFJOwll8u80YQvAa2NusG",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:15:38Z",
+      "alt": "2024 10 04 Event 4",
+      "caption": "2024 10 04 Event 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-9bf717bd54a7ed3e39aebef83272d820a6bc4950-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 50
+    },
+    {
+      "_createdAt": "2026-09-13T12:15:56Z",
+      "_id": "7BFJOwll8u80YQvAa2OFWB",
+      "_rev": "7BFJOwll8u80YQvAa2OFRQ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:15:56Z",
+      "alt": "2024 10 07 Community 2",
+      "caption": "2024 10 07 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-8fa6acddea4397b70705d75fb5cce0016a5dd956-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 52
+    },
+    {
+      "_createdAt": "2026-09-13T12:17:19Z",
+      "_id": "7BFJOwll8u80YQvAa2Ph4q",
+      "_rev": "7BFJOwll8u80YQvAa2Ph05",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:17:19Z",
+      "alt": "2025 03 23 Planting 1",
+      "caption": "2025 03 23 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-397fab14f79a36466ea81f65adb07dab8c951fac-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 58
+    },
+    {
+      "_createdAt": "2026-09-13T12:17:57Z",
+      "_id": "7BFJOwll8u80YQvAa2QCXe",
+      "_rev": "7BFJOwll8u80YQvAa2QCSt",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:17:57Z",
+      "alt": "2025 04 24 Event 1",
+      "caption": "2025 04 24 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-433980d8ba5d09cf843cf68207a3842353dd5044-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 61
+    },
+    {
+      "_createdAt": "2026-09-13T12:18:04Z",
+      "_id": "7BFJOwll8u80YQvAa2QHzT",
+      "_rev": "7BFJOwll8u80YQvAa2QHui",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:18:04Z",
+      "alt": "2025 04 24 Event 2",
+      "caption": "2025 04 24 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-b65f3f97a9740bb3a9addc3dcbb74416eeb5a8e4-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 62
+    },
+    {
+      "_createdAt": "2026-09-13T12:18:17Z",
+      "_id": "7BFJOwll8u80YQvAa2QQM6",
+      "_rev": "7BFJOwll8u80YQvAa2QQHL",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:18:17Z",
+      "alt": "2025 04 25 Planting 1",
+      "caption": "2025 04 25 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-1cce5ccd275b77f7d3ca6b4d6db8b68570e44ca2-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 63
+    },
+    {
+      "_createdAt": "2026-09-13T12:18:32Z",
+      "_id": "7BFJOwll8u80YQvAa2QXL5",
+      "_rev": "7BFJOwll8u80YQvAa2QXGK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:18:32Z",
+      "alt": "2025 04 25 Planting 2",
+      "caption": "2025 04 25 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-158389fc97d3f60c66693d96218d541c4fc2b286-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 64
+    },
+    {
+      "_createdAt": "2026-09-13T12:18:48Z",
+      "_id": "7BFJOwll8u80YQvAa2Qj54",
+      "_rev": "7BFJOwll8u80YQvAa2Qj0J",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:18:48Z",
+      "alt": "2025 04 25 Planting 3",
+      "caption": "2025 04 25 Planting 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-d7367a6855e5b7feef399c3734a23273e9660b5f-2448x3264-jpg",
+        "_type": "reference"
+      },
+      "order": 65
+    },
+    {
+      "_createdAt": "2026-09-13T12:21:09Z",
+      "_id": "7BFJOwll8u80YQvAa2S4QK",
+      "_rev": "7BFJOwll8u80YQvAa2S4LZ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:21:09Z",
+      "alt": "2026 05 25 Event 1",
+      "caption": "2026 05 25 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-a8525adf703b23e26d130a9fb440f4e9e416b39b-3060x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 74
+    },
+    {
+      "_createdAt": "2026-09-13T12:21:35Z",
+      "_id": "7BFJOwll8u80YQvAa2SaLg",
+      "_rev": "7BFJOwll8u80YQvAa2SaGv",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:21:35Z",
+      "alt": "2026 05 30 Community 2",
+      "caption": "2026 05 30 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-8bfc4b3eb14d047d1fa36153cc2e0581a2b69afb-4080x3060-jpg",
+        "_type": "reference"
+      },
+      "order": 76
+    },
+    {
+      "_createdAt": "2026-09-13T12:21:59Z",
+      "_id": "7BFJOwll8u80YQvAa2SnF2",
+      "_rev": "7BFJOwll8u80YQvAa2SnAH",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:21:59Z",
+      "alt": "2026 05 30 Event 1",
+      "caption": "2026 05 30 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3c8dedfddbbfd8edc31cac85ef2f86b1b3c122cc-4080x3060-jpg",
+        "_type": "reference"
+      },
+      "order": 78
+    },
+    {
+      "_createdAt": "2026-09-13T12:22:28Z",
+      "_id": "7BFJOwll8u80YQvAa2SvDs",
+      "_rev": "7BFJOwll8u80YQvAa2Sv97",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:22:28Z",
+      "alt": "2026 06 11 Event 1",
+      "caption": "2026 06 11 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-7cd18674e0fd6d6cfb6b9d27e77f37404a9a3b0d-4080x3060-jpg",
+        "_type": "reference"
+      },
+      "order": 80
+    },
+    {
+      "_createdAt": "2026-09-13T12:22:44Z",
+      "_id": "7BFJOwll8u80YQvAa2SxzA",
+      "_rev": "7BFJOwll8u80YQvAa2SxuP",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:22:44Z",
+      "alt": "2026 07 07 Community 1",
+      "caption": "2026 07 07 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-a1a9bf94dab134f40c774c3e83cebc8e9a568c27-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 82
+    },
+    {
+      "_createdAt": "2026-09-13T12:22:57Z",
+      "_id": "7BFJOwll8u80YQvAa2T3k1",
+      "_rev": "7BFJOwll8u80YQvAa2T3fG",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:22:57Z",
+      "alt": "2026 07 07 Community 2",
+      "caption": "2026 07 07 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-ea2529b2a47a58bfb8c5d5347fd7d43b8e736502-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 83
+    },
+    {
+      "_createdAt": "2026-09-13T12:23:07Z",
+      "_id": "7BFJOwll8u80YQvAa2T5tF",
+      "_rev": "7BFJOwll8u80YQvAa2T5oU",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:23:07Z",
+      "alt": "2026 07 12 Event 1",
+      "caption": "2026 07 12 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-5fd997e1f7d7c196671a5190885c0826cacbfa3d-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 84
+    },
+    {
+      "_createdAt": "2026-09-13T12:24:19Z",
+      "_id": "7BFJOwll8u80YQvAa2TI5m",
+      "_rev": "7BFJOwll8u80YQvAa2TI11",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:24:19Z",
+      "alt": "2026 07 18 Event 1",
+      "caption": "2026 07 18 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-9b36f10be7566bc7d98a1e68e1eb5ae9bc324a56-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 88
+    },
+    {
+      "_createdAt": "2026-09-13T12:25:43Z",
+      "_id": "7BFJOwll8u80YQvAa2TWI1",
+      "_rev": "7BFJOwll8u80YQvAa2TWDG",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:25:43Z",
+      "alt": "2026 07 24 Event 1",
+      "caption": "2026 07 24 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-9d46fc510d76feaf7a1727fc548ea6e8153fd9e1-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 93
+    },
+    {
+      "_createdAt": "2026-09-13T12:25:53Z",
+      "_id": "7BFJOwll8u80YQvAa2TX3b",
+      "_rev": "7BFJOwll8u80YQvAa2TWyq",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:25:53Z",
+      "alt": "2026 07 25 Event 1",
+      "caption": "2026 07 25 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-c1e71701034a850c1766655f71e9e6b6f05c99ea-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 94
+    },
+    {
+      "_createdAt": "2026-09-13T12:27:14Z",
+      "_id": "7BFJOwll8u80YQvAa2U2Mt",
+      "_rev": "7BFJOwll8u80YQvAa2U2I8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:27:14Z",
+      "alt": "2026 07 30 Community 1",
+      "caption": "2026 07 30 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-bc42adc9d6cd1827124b2da2ecfb06a560e63030-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 98
+    },
+    {
+      "_createdAt": "2026-09-13T12:30:59Z",
+      "_id": "7BFJOwll8u80YQvAa2V0by",
+      "_rev": "7BFJOwll8u80YQvAa2V0XD",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:30:59Z",
+      "alt": "2026 08 04 Event 6",
+      "caption": "2026 08 04 Event 6",
+      "category": "events",
+      "image": {
+        "_ref": "image-89011f8c9ba47a84f98de1a3a7ab5235ece1e4d6-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 107
+    },
+    {
+      "_createdAt": "2026-09-13T12:31:33Z",
+      "_id": "7BFJOwll8u80YQvAa2VN1K",
+      "_rev": "7BFJOwll8u80YQvAa2VMwZ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:31:33Z",
+      "alt": "2026 08 04 Event 8",
+      "caption": "2026 08 04 Event 8",
+      "category": "events",
+      "image": {
+        "_ref": "image-971a14ce017dd21880796dc1afdfe5f0dd32e2d3-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 109
+    },
+    {
+      "_createdAt": "2026-09-13T12:32:17Z",
+      "_id": "7BFJOwll8u80YQvAa2XHVm",
+      "_rev": "7BFJOwll8u80YQvAa2XHR1",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:32:17Z",
+      "alt": "2026 08 06 Event 3",
+      "caption": "2026 08 06 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-2ab2be19e162d56624e60e9a6ebc675e5132af56-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 112
+    },
+    {
+      "_createdAt": "2026-09-13T12:33:40Z",
+      "_id": "7BFJOwll8u80YQvAa2XPit",
+      "_rev": "7BFJOwll8u80YQvAa2XPe8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:33:40Z",
+      "alt": "2026 08 07 Event 2",
+      "caption": "2026 08 07 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-c6406c4c0d9e22e0ff5206e53d45ee189a12be33-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 117
+    },
+    {
+      "_createdAt": "2026-09-13T12:33:54Z",
+      "_id": "7BFJOwll8u80YQvAa2XQnV",
+      "_rev": "7BFJOwll8u80YQvAa2XQik",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:33:54Z",
+      "alt": "2026 08 13 Event 1",
+      "caption": "2026 08 13 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-0732d7795ac975172dedf926fc380151dc359ee9-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 118
+    },
+    {
+      "_createdAt": "2026-09-13T12:34:25Z",
+      "_id": "7BFJOwll8u80YQvAa2XTdY",
+      "_rev": "7BFJOwll8u80YQvAa2XTYn",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:34:25Z",
+      "alt": "2026 08 13 Event 4",
+      "caption": "2026 08 13 Event 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-5abdded0a3aefaad11bceead014f9b8a542c6a7a-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 121
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:10Z",
+      "_id": "7BFJOwll8u80YQvAa2YQ2R",
+      "_rev": "7BFJOwll8u80YQvAa2YPxg",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:10Z",
+      "alt": "2026 08 19 Community 2",
+      "caption": "2026 08 19 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-a0c22ac41f842459c7f845a2665ba9b2d9d4196b-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 124
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:35Z",
+      "_id": "7BFJOwll8u80YQvAa2YVPV",
+      "_rev": "7BFJOwll8u80YQvAa2YVKk",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:35Z",
+      "alt": "Additional Agriculture 2",
+      "caption": "Additional Agriculture 2",
+      "category": "home",
+      "image": {
+        "_ref": "image-2e464dc33ce72a16957a967db46db55441792d21-1204x1600-jpg",
+        "_type": "reference"
+      },
+      "order": 130
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:49Z",
+      "_id": "7BFJOwll8u80YQvAa2YZTg",
+      "_rev": "7BFJOwll8u80YQvAa2YZOv",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:49Z",
+      "alt": "Additional Image 1",
+      "caption": "Additional Image 1",
+      "category": "home",
+      "image": {
+        "_ref": "image-883b732beeab89283447a473a5619b3e02496d76-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 133
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:01Z",
+      "_id": "7BFJOwll8u80YQvAa2YbAM",
+      "_rev": "7BFJOwll8u80YQvAa2Yb5b",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:01Z",
+      "alt": "Additional Image 3",
+      "caption": "Additional Image 3",
+      "category": "home",
+      "image": {
+        "_ref": "image-6b664791fd2f1cf52a0e78a5b1e16aaf1f086a57-1600x1200-jpg",
+        "_type": "reference"
+      },
+      "order": 135
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:37Z",
+      "_id": "7BFJOwll8u80YQvAa2YgcB",
+      "_rev": "7BFJOwll8u80YQvAa2YgXQ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:37Z",
+      "alt": "Founder Headshot",
+      "caption": "Founder Headshot",
+      "category": "home",
+      "image": {
+        "_ref": "image-9418b0d0d404f6f121c782727677719cacd0d3c8-640x640-jpg",
+        "_type": "reference"
+      },
+      "order": 142
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:47Z",
+      "_id": "7BFJOwll8u80YQvAa2Yiuv",
+      "_rev": "7BFJOwll8u80YQvAa2YiqA",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:47Z",
+      "alt": "Individual Planting",
+      "caption": "Individual Planting",
+      "category": "home",
+      "image": {
+        "_ref": "image-bd1c927eecd0255d4c9bc6733cc9a81f92ae7da4-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 144
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:26Z",
+      "_id": "7BFJOwll8u80YQvAa2YoDE",
+      "_rev": "7BFJOwll8u80YQvAa2Yo8T",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:26Z",
+      "alt": "Sugar Beet Field",
+      "caption": "Sugar Beet Field",
+      "category": "home",
+      "image": {
+        "_ref": "image-b6cbfa9709e4868ca6f527fd4fabf18b6fa2252c-1034x827-jpg",
+        "_type": "reference"
+      },
+      "order": 153
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:04Z",
+      "_id": "7BFJOwll8u80YQvAa2YwLa",
+      "_rev": "7BFJOwll8u80YQvAa2YwGp",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:04Z",
+      "alt": "Additional Agriculture 2",
+      "caption": "Additional Agriculture 2",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-2e464dc33ce72a16957a967db46db55441792d21-1204x1600-jpg",
+        "_type": "reference"
+      },
+      "order": 159
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:13Z",
+      "_id": "7BFJOwll8u80YQvAa2YxeT",
+      "_rev": "7BFJOwll8u80YQvAa2YxZi",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:13Z",
+      "alt": "Facility Entrance 1",
+      "caption": "Facility Entrance 1",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-35907bf92759d53913325c249f73e18dbb66198b-1280x901-jpg",
+        "_type": "reference"
+      },
+      "order": 161
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:17Z",
+      "_id": "7BFJOwll8u80YQvAa2Z1UN",
+      "_rev": "7BFJOwll8u80YQvAa2Z1Pc",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:17Z",
+      "alt": "Facility Entrance 2",
+      "caption": "Facility Entrance 2",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-03e57bdcae456af9c380589ed27fc0af03f01fb9-543x1280-jpg",
+        "_type": "reference"
+      },
+      "order": 162
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:21Z",
+      "_id": "7BFJOwll8u80YQvAa2Z2Ki",
+      "_rev": "7BFJOwll8u80YQvAa2Z2Fx",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:21Z",
+      "alt": "Facility Signboard",
+      "caption": "Facility Signboard",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-faf23a512427c99b5300d2a3220dbc73c0560b33-1004x650-jpg",
+        "_type": "reference"
+      },
+      "order": 163
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:26Z",
+      "_id": "7BFJOwll8u80YQvAa2Z36I",
+      "_rev": "7BFJOwll8u80YQvAa2Z31X",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:26Z",
+      "alt": "Industrial Park Back Aerial",
+      "caption": "Industrial Park Back Aerial",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-1fc04ba22f8520fa1783886a28386aca1c56ae28-3508x2480-jpg",
+        "_type": "reference"
+      },
+      "order": 164
+    },
+    {
+      "_createdAt": "2026-09-13T11:36:07Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Ofks",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Ofjt",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:36:07Z",
+      "alt": "Community Meeting Indoor",
+      "caption": "Community Meeting Indoor",
+      "category": "about",
+      "image": {
+        "_ref": "image-c830816f1be3fc735f44e4d4ddb78b273fe9d44f-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 0
+    },
+    {
+      "_createdAt": "2026-09-13T11:37:31Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0OiS8",
+      "_rev": "Tr0DIJLi2qOh7HoSu0OiR9",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:37:31Z",
+      "alt": "2023 03 24 Event 1",
+      "caption": "2023 03 24 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-cd8cc6655b7cc6ab54527002b8e7f1f51575403f-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 9
+    },
+    {
+      "_createdAt": "2026-09-13T11:38:09Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0OkQ8",
+      "_rev": "Tr0DIJLi2qOh7HoSu0OkP9",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:38:09Z",
+      "alt": "2023 05 08 Facebook 1",
+      "caption": "2023 05 08 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-bc8f7c2ba2189fa6ea24d1fcf694300fb12d6faa-720x960-jpg",
+        "_type": "reference"
+      },
+      "order": 12
+    },
+    {
+      "_createdAt": "2026-09-13T11:38:24Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Okte",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Oksf",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:38:24Z",
+      "alt": "2023 05 09 Planting 1",
+      "caption": "2023 05 09 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-0d394be448ad6b5b15fa1630c91f415ec96a0f29-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 13
+    },
+    {
+      "_createdAt": "2026-09-13T11:39:03Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Oltd",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Olse",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:39:03Z",
+      "alt": "2023 05 26 Meeting 2",
+      "caption": "2023 05 26 Meeting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-dee5f40bf241e1ecfc181fce6b5430f29821f163-2296x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 17
+    },
+    {
+      "_createdAt": "2026-09-13T11:40:15Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0OoYv",
+      "_rev": "Tr0DIJLi2qOh7HoSu0OoXw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:40:15Z",
+      "alt": "2023 10 13 Event 1",
+      "caption": "2023 10 13 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-f34dbaec09c9aebfa7adbc7882beda63e0f6524d-4609x3470-jpg",
+        "_type": "reference"
+      },
+      "order": 24
+    },
+    {
+      "_createdAt": "2026-09-13T11:41:18Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Ouna",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Oumb",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:41:18Z",
+      "alt": "2023 10 20 Community 1",
+      "caption": "2023 10 20 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-66ff7c7eefd54d28d42ffadfcb5c3ab4dd643ea1-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 27
+    },
+    {
+      "_createdAt": "2026-09-13T11:42:45Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PEfO",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PEeP",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:42:45Z",
+      "alt": "2023 12 10 Event 2",
+      "caption": "2023 12 10 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-968ce8309483a19fac720e6d8897387a897f8f3a-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 34
+    },
+    {
+      "_createdAt": "2026-09-13T11:42:50Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PFEo",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PFDp",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:42:50Z",
+      "alt": "2023 12 10 Event 3",
+      "caption": "2023 12 10 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-bc1335a3cf12fb45e55f4f5f6038108710eb5a1a-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 35
+    },
+    {
+      "_createdAt": "2026-09-13T11:43:17Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PM9m",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PM8n",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:43:17Z",
+      "alt": "2024 03 05 Community 1",
+      "caption": "2024 03 05 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-0169710921b871ed91693b77daeb2017d4d2edb3-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 39
+    },
+    {
+      "_createdAt": "2026-09-13T11:43:32Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PNhD",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PNgE",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:43:32Z",
+      "alt": "2024 04 10 Event 1",
+      "caption": "2024 04 10 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-4cfab3bd335fcd4502e2c870591f43d4d3667b41-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 40
+    },
+    {
+      "_createdAt": "2026-09-13T11:44:18Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PRIY",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PRHZ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:44:18Z",
+      "alt": "2024 09 21 Community 1",
+      "caption": "2024 09 21 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-66b3d7af2786f14f42251dd6564f5b259aa352de-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 46
+    },
+    {
+      "_createdAt": "2026-09-13T11:44:26Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PRSO",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PRRP",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:44:26Z",
+      "alt": "2024 10 04 Event 1",
+      "caption": "2024 10 04 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3c6ad14d135cc5c5daa0af69cd016070b35a8e24-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 47
+    },
+    {
+      "_createdAt": "2026-09-13T11:44:56Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PTIW",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PTHX",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:44:56Z",
+      "alt": "2024 10 04 Event 4",
+      "caption": "2024 10 04 Event 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-9bf717bd54a7ed3e39aebef83272d820a6bc4950-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 50
+    },
+    {
+      "_createdAt": "2026-09-13T11:45:13Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PTn1",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PTm2",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:45:13Z",
+      "alt": "2024 10 07 Community 2",
+      "caption": "2024 10 07 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-8fa6acddea4397b70705d75fb5cce0016a5dd956-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 52
+    },
+    {
+      "_createdAt": "2026-09-13T11:45:24Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PUBc",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PUAd",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:45:24Z",
+      "alt": "2024 10 07 Community 3",
+      "caption": "2024 10 07 Community 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-279b7dff789a908d5953e33eab3dd9c40e3c1359-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 53
+    },
+    {
+      "_createdAt": "2026-09-13T11:45:35Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PUg7",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PUf8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:45:35Z",
+      "alt": "2024 12 03 Event 1",
+      "caption": "2024 12 03 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-81f2c5a1ce3397a7e2d69520ce0a88c0703f9f3e-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 54
+    },
+    {
+      "_createdAt": "2026-09-13T11:45:47Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PVcA",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PVbB",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:45:47Z",
+      "alt": "2025 02 07 Community 1",
+      "caption": "2025 02 07 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-1b093a1d833b70b62c5e214d21471560b58077fb-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 55
+    },
+    {
+      "_createdAt": "2026-09-13T11:46:59Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Pcpp",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pcoq",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:46:59Z",
+      "alt": "2023 02 16 Community Meeting 1",
+      "caption": "2023 02 16 Community Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-baa11a4d62bb61c759aef0854a3ca3c2fad36198-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 3
+    },
+    {
+      "_createdAt": "2026-09-13T11:47:27Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Pdls",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pdkt",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:47:27Z",
+      "alt": "2023 03 02 Workshop 1",
+      "caption": "2023 03 02 Workshop 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-efaf3c59048684b2716e2eb16e745b9f62a48a90-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 5
+    },
+    {
+      "_createdAt": "2026-09-13T11:47:38Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PeAT",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pe9U",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:47:38Z",
+      "alt": "2023 03 17 Training 1",
+      "caption": "2023 03 17 Training 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3b556e87dd5a764ca2e8fde5e33b6a1870c81abf-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 6
+    },
+    {
+      "_createdAt": "2026-09-13T11:47:51Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Peqm",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pepn",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:47:51Z",
+      "alt": "2023 03 23 Facebook 1",
+      "caption": "2023 03 23 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-09cad81f768d847489707bc59972992646ac9992-720x956-jpg",
+        "_type": "reference"
+      },
+      "order": 8
+    },
+    {
+      "_createdAt": "2026-09-13T11:48:10Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PfKI",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PfJJ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:48:10Z",
+      "alt": "2023 05 03 Community 1",
+      "caption": "2023 05 03 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-292872bebe9540253a3e11c74e4aebbf0c8475ff-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 10
+    },
+    {
+      "_createdAt": "2026-09-13T11:48:25Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PgIJ",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PgHK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:48:25Z",
+      "alt": "2023 05 03 Community 2",
+      "caption": "2023 05 03 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-32b967b930213141e8630b67c2e765637157c52f-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 11
+    },
+    {
+      "_createdAt": "2026-09-13T11:48:55Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PhME",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PhLF",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:48:55Z",
+      "alt": "2023 05 09 Planting 2",
+      "caption": "2023 05 09 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-10f293f2ca786e1c9a1ebf58078cfda664c72d33-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 14
+    },
+    {
+      "_createdAt": "2026-09-13T11:49:22Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PiGJ",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PiFK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:49:22Z",
+      "alt": "2023 05 26 Meeting 2",
+      "caption": "2023 05 26 Meeting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-dee5f40bf241e1ecfc181fce6b5430f29821f163-2296x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 17
+    },
+    {
+      "_createdAt": "2026-09-13T11:49:53Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Pjet",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pjdu",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:49:53Z",
+      "alt": "2023 09 01 Event 1",
+      "caption": "2023 09 01 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-f8a4919795f47b0fc8e8b110ad98ed6d561bf4b1-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 20
+    },
+    {
+      "_createdAt": "2026-09-13T11:50:09Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PkYy",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PkXz",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:50:09Z",
+      "alt": "2023 09 05 Training 2",
+      "caption": "2023 09 05 Training 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-84d14b1431e19fb8d44a0bfb9f12c3bb6e237a93-1824x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 22
+    },
+    {
+      "_createdAt": "2026-09-13T11:50:18Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Pl9N",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pl8O",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:50:18Z",
+      "alt": "2023 09 18 Meeting 1",
+      "caption": "2023 09 18 Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-7efcaff48b24bdfdaa9bd48c4c35f9d1b0f27a11-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 23
+    },
+    {
+      "_createdAt": "2026-09-13T11:50:37Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Plav",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PlZw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:50:37Z",
+      "alt": "2023 10 19 Planting 1",
+      "caption": "2023 10 19 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3421b46f75fe901f000bc3ad4595440ddfa6df61-4609x3470-jpg",
+        "_type": "reference"
+      },
+      "order": 25
+    },
+    {
+      "_createdAt": "2026-09-13T11:51:22Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PnwX",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PnvY",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:51:22Z",
+      "alt": "2023 10 20 Community 2",
+      "caption": "2023 10 20 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-86cc6c3ea082901c7f4661ef73c7c3a8147309ab-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 28
+    },
+    {
+      "_createdAt": "2026-09-13T11:52:28Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Ppmf",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pplg",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:52:28Z",
+      "alt": "2023 12 10 Event 2",
+      "caption": "2023 12 10 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-968ce8309483a19fac720e6d8897387a897f8f3a-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 34
+    },
+    {
+      "_createdAt": "2026-09-13T11:53:43Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PsCD",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PsBE",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:53:43Z",
+      "alt": "2024 04 10 Event 2",
+      "caption": "2024 04 10 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-7a9c9b9f8d6eac4abbf159ce4c9a01678fc57ef9-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 41
+    },
+    {
+      "_createdAt": "2026-09-13T11:53:55Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Pshh",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Psgi",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:53:55Z",
+      "alt": "2024 09 15 Planting 2",
+      "caption": "2024 09 15 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-8e73f57c2f0c9e50fa407fad0c78231c8d5e9a0b-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 43
+    },
+    {
+      "_createdAt": "2026-09-13T11:54:00Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PswS",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PsvT",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:54:00Z",
+      "alt": "2024 09 15 Planting 3",
+      "caption": "2024 09 15 Planting 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-819e06455290ebab79c08af226a217fc235e3e05-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 44
+    },
+    {
+      "_createdAt": "2026-09-13T11:54:05Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Pt9F",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pt8G",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:54:05Z",
+      "alt": "2024 09 15 Planting 4",
+      "caption": "2024 09 15 Planting 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-a47697630dde6a48e47b2ac4293457cd38f899c8-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 45
+    },
+    {
+      "_createdAt": "2026-09-13T11:54:20Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Ptna",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Ptmb",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:54:20Z",
+      "alt": "2024 10 04 Event 1",
+      "caption": "2024 10 04 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3c6ad14d135cc5c5daa0af69cd016070b35a8e24-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 47
+    },
+    {
+      "_createdAt": "2026-09-13T11:55:05Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PwAB",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Pw9C",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:55:05Z",
+      "alt": "2024 10 07 Community 1",
+      "caption": "2024 10 07 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-64aa2335f39b013c401cf608239a5e8eaa37ca68-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 51
+    },
+    {
+      "_createdAt": "2026-09-13T11:55:24Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0PwoW",
+      "_rev": "Tr0DIJLi2qOh7HoSu0PwnX",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:55:24Z",
+      "alt": "2024 10 07 Community 3",
+      "caption": "2024 10 07 Community 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-279b7dff789a908d5953e33eab3dd9c40e3c1359-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 53
+    },
+    {
+      "_createdAt": "2026-09-13T12:07:28Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0RQ2n",
+      "_rev": "Tr0DIJLi2qOh7HoSu0RQ1o",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:07:28Z",
+      "alt": "Community Meeting Indoor",
+      "caption": "Community Meeting Indoor",
+      "category": "about",
+      "image": {
+        "_ref": "image-c830816f1be3fc735f44e4d4ddb78b273fe9d44f-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 0
+    },
+    {
+      "_createdAt": "2026-09-13T12:07:34Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0RRf9",
+      "_rev": "Tr0DIJLi2qOh7HoSu0RReA",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:07:34Z",
+      "alt": "Document Review",
+      "caption": "Document Review",
+      "category": "about",
+      "image": {
+        "_ref": "image-883b732beeab89283447a473a5619b3e02496d76-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 1
+    },
+    {
+      "_createdAt": "2026-09-13T12:07:38Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0RSsu",
+      "_rev": "Tr0DIJLi2qOh7HoSu0RSrv",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:07:38Z",
+      "alt": "Strategy Workshop",
+      "caption": "Strategy Workshop",
+      "category": "about",
+      "image": {
+        "_ref": "image-39555b99add35d7078402a58bed4e0f2eeaad63f-899x1599-jpg",
+        "_type": "reference"
+      },
+      "order": 2
+    },
+    {
+      "_createdAt": "2026-09-13T12:07:59Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0RXf3",
+      "_rev": "Tr0DIJLi2qOh7HoSu0RXe4",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:07:59Z",
+      "alt": "2023 02 16 Community Meeting 1",
+      "caption": "2023 02 16 Community Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-baa11a4d62bb61c759aef0854a3ca3c2fad36198-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 3
+    },
+    {
+      "_createdAt": "2026-09-13T12:09:02Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0RhY0",
+      "_rev": "Tr0DIJLi2qOh7HoSu0RhX1",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:09:02Z",
+      "alt": "2023 03 17 Training 2",
+      "caption": "2023 03 17 Training 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-ba5d04bc0067b27b5e1e1254d9ae34d3f56379d7-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 7
+    },
+    {
+      "_createdAt": "2026-09-13T12:09:16Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0RjR5",
+      "_rev": "Tr0DIJLi2qOh7HoSu0RjQ6",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:09:16Z",
+      "alt": "2023 03 24 Event 1",
+      "caption": "2023 03 24 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-cd8cc6655b7cc6ab54527002b8e7f1f51575403f-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 9
+    },
+    {
+      "_createdAt": "2026-09-13T12:09:26Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Rkbt",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Rkau",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:09:26Z",
+      "alt": "2023 05 03 Community 1",
+      "caption": "2023 05 03 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-292872bebe9540253a3e11c74e4aebbf0c8475ff-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 10
+    },
+    {
+      "_createdAt": "2026-09-13T12:10:09Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Rr7H",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Rr6I",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:10:09Z",
+      "alt": "2023 05 09 Planting 2",
+      "caption": "2023 05 09 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-10f293f2ca786e1c9a1ebf58078cfda664c72d33-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 14
+    },
+    {
+      "_createdAt": "2026-09-13T12:11:39Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0SGJf",
+      "_rev": "Tr0DIJLi2qOh7HoSu0SGIg",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:11:39Z",
+      "alt": "2023 10 13 Event 1",
+      "caption": "2023 10 13 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-f34dbaec09c9aebfa7adbc7882beda63e0f6524d-4609x3470-jpg",
+        "_type": "reference"
+      },
+      "order": 24
+    },
+    {
+      "_createdAt": "2026-09-13T12:13:09Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0SbDQ",
+      "_rev": "Tr0DIJLi2qOh7HoSu0SbCR",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:13:09Z",
+      "alt": "2023 11 13 Workshop 1",
+      "caption": "2023 11 13 Workshop 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-e0745a81db0ae9e8374eaec6f3c982b1a18176ad-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 31
+    },
+    {
+      "_createdAt": "2026-09-13T12:13:22Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0SeDN",
+      "_rev": "Tr0DIJLi2qOh7HoSu0SeCO",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:13:22Z",
+      "alt": "2023 11 13 Workshop 2",
+      "caption": "2023 11 13 Workshop 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-5a45543d5a61f343b0a07f2bcd2ffd91d7bd624a-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 32
+    },
+    {
+      "_createdAt": "2026-09-13T12:13:42Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Slik",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Slhl",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:13:42Z",
+      "alt": "2023 12 10 Event 3",
+      "caption": "2023 12 10 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-bc1335a3cf12fb45e55f4f5f6038108710eb5a1a-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 35
+    },
+    {
+      "_createdAt": "2026-09-13T12:13:56Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Soap",
+      "_rev": "Tr0DIJLi2qOh7HoSu0SoZq",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:13:56Z",
+      "alt": "2024 02 01 Facebook 2",
+      "caption": "2024 02 01 Facebook 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-eea740f9766adc1005affce6fee3d03d966cef45-720x956-jpg",
+        "_type": "reference"
+      },
+      "order": 38
+    },
+    {
+      "_createdAt": "2026-09-13T12:14:39Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0T1fX",
+      "_rev": "Tr0DIJLi2qOh7HoSu0T1eY",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:14:39Z",
+      "alt": "2024 09 15 Planting 1",
+      "caption": "2024 09 15 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-1794e472ccece725b6ac70d10ac364312f7d7ef7-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 42
+    },
+    {
+      "_createdAt": "2026-09-13T12:14:50Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0T347",
+      "_rev": "Tr0DIJLi2qOh7HoSu0T338",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:14:50Z",
+      "alt": "2024 09 15 Planting 3",
+      "caption": "2024 09 15 Planting 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-819e06455290ebab79c08af226a217fc235e3e05-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 44
+    },
+    {
+      "_createdAt": "2026-09-13T12:14:54Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0T3gU",
+      "_rev": "Tr0DIJLi2qOh7HoSu0T3fV",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:14:54Z",
+      "alt": "2024 09 15 Planting 4",
+      "caption": "2024 09 15 Planting 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-a47697630dde6a48e47b2ac4293457cd38f899c8-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 45
+    },
+    {
+      "_createdAt": "2026-09-13T12:15:02Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0T4eV",
+      "_rev": "Tr0DIJLi2qOh7HoSu0T4dW",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:15:02Z",
+      "alt": "2024 09 21 Community 1",
+      "caption": "2024 09 21 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-66b3d7af2786f14f42251dd6564f5b259aa352de-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 46
+    },
+    {
+      "_createdAt": "2026-09-13T12:15:12Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0T5nL",
+      "_rev": "Tr0DIJLi2qOh7HoSu0T5mM",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:15:12Z",
+      "alt": "2024 10 04 Event 1",
+      "caption": "2024 10 04 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3c6ad14d135cc5c5daa0af69cd016070b35a8e24-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 47
+    },
+    {
+      "_createdAt": "2026-09-13T12:15:21Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0T7Ph",
+      "_rev": "Tr0DIJLi2qOh7HoSu0T7Oi",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:15:21Z",
+      "alt": "2024 10 04 Event 2",
+      "caption": "2024 10 04 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-da5432e15aa26d9c558e162c50fc43f8edef1a2c-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 48
+    },
+    {
+      "_createdAt": "2026-09-13T12:15:31Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0TAPe",
+      "_rev": "Tr0DIJLi2qOh7HoSu0TAOf",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:15:31Z",
+      "alt": "2024 10 04 Event 3",
+      "caption": "2024 10 04 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-d92528a42e926d23008fc770fc996b0ee032530f-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 49
+    },
+    {
+      "_createdAt": "2026-09-13T12:16:14Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0TJLZ",
+      "_rev": "Tr0DIJLi2qOh7HoSu0TJKa",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:16:14Z",
+      "alt": "2024 12 03 Event 1",
+      "caption": "2024 12 03 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-81f2c5a1ce3397a7e2d69520ce0a88c0703f9f3e-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 54
+    },
+    {
+      "_createdAt": "2026-09-13T12:16:28Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0TNcE",
+      "_rev": "Tr0DIJLi2qOh7HoSu0TNbF",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:16:28Z",
+      "alt": "2025 02 07 Community 1",
+      "caption": "2025 02 07 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-1b093a1d833b70b62c5e214d21471560b58077fb-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 55
+    },
+    {
+      "_createdAt": "2026-09-13T12:17:03Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0TTzk",
+      "_rev": "Tr0DIJLi2qOh7HoSu0TTyl",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:17:03Z",
+      "alt": "2025 03 14 Event 1",
+      "caption": "2025 03 14 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-f71d2d0fdfde58f73d90afed422f03faee6857a7-3264x2448-jpg",
+        "_type": "reference"
+      },
+      "order": 57
+    },
+    {
+      "_createdAt": "2026-09-13T12:17:31Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0TZju",
+      "_rev": "Tr0DIJLi2qOh7HoSu0TZiv",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:17:31Z",
+      "alt": "2025 03 23 Planting 2",
+      "caption": "2025 03 23 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-8bed8d90d94caf97c4d5e07c0e4d3484214d9d96-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 59
+    },
+    {
+      "_createdAt": "2026-09-13T12:19:11Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0ToM3",
+      "_rev": "Tr0DIJLi2qOh7HoSu0ToL4",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:19:11Z",
+      "alt": "2025 04 26 Event 1",
+      "caption": "2025 04 26 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-236549fd5e424c5b288b2cd06181fb52e4f5cd0d-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 66
+    },
+    {
+      "_createdAt": "2026-09-13T12:19:29Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0TqG7",
+      "_rev": "Tr0DIJLi2qOh7HoSu0TqF8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:19:29Z",
+      "alt": "2025 04 26 Event 2",
+      "caption": "2025 04 26 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-672b513fd013e0812f027cf46d8c4cac1d74d1b8-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 67
+    },
+    {
+      "_createdAt": "2026-09-13T12:19:47Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Ts8D",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Ts7E",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:19:47Z",
+      "alt": "2025 04 26 Event 3",
+      "caption": "2025 04 26 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-c78c937dbab6871426affd993a1a104d2759cbf2-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 68
+    },
+    {
+      "_createdAt": "2026-09-13T12:20:04Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0TttQ",
+      "_rev": "Tr0DIJLi2qOh7HoSu0TtsR",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:20:04Z",
+      "alt": "2025 05 14 Community 1",
+      "caption": "2025 05 14 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-ae566eaf979b1f9495180a5317c809aca1ed112f-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 69
+    },
+    {
+      "_createdAt": "2026-09-13T12:20:16Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Tw6B",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Tw5C",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:20:16Z",
+      "alt": "2025 05 26 Event 1",
+      "caption": "2025 05 26 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-0b1e7413fb3565804666c2f390937b3ca37b74d3-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 70
+    },
+    {
+      "_createdAt": "2026-09-13T12:20:29Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0TxxI",
+      "_rev": "Tr0DIJLi2qOh7HoSu0TxwJ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:20:29Z",
+      "alt": "2025 05 26 Event 2",
+      "caption": "2025 05 26 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-c8829585737235921714f7dde91f22b88126f285-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 71
+    },
+    {
+      "_createdAt": "2026-09-13T12:20:45Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0U0Oo",
+      "_rev": "Tr0DIJLi2qOh7HoSu0U0Np",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:20:45Z",
+      "alt": "2025 05 26 Event 3",
+      "caption": "2025 05 26 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-a58c6753074b7471ec40a85a81f3a569253c553d-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 72
+    },
+    {
+      "_createdAt": "2026-09-13T12:20:56Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0U1Gv",
+      "_rev": "Tr0DIJLi2qOh7HoSu0U1Fw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:20:56Z",
+      "alt": "2025 06 21 Event 1",
+      "caption": "2025 06 21 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-4c89d948c33b1237c8f0dc9867c4e8617f2db6a6-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 73
+    },
+    {
+      "_createdAt": "2026-09-13T12:23:23Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UJWN",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UJVO",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:23:23Z",
+      "alt": "2026 07 14 Community 1",
+      "caption": "2026 07 14 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-8a5e1b89f7ba47f8b6e44e0a2d155d97ebe977c2-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 85
+    },
+    {
+      "_createdAt": "2026-09-13T12:24:40Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UMGa",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UMFb",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:24:40Z",
+      "alt": "2026 07 21 Event 1",
+      "caption": "2026 07 21 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-cce6d57dc7f73b5715a721ce9cdd06f348022d7d-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 89
+    },
+    {
+      "_createdAt": "2026-09-13T12:24:55Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UN2n",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UN1o",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:24:55Z",
+      "alt": "2026 07 21 Event 2",
+      "caption": "2026 07 21 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-e633f2c510876f44b7af3c184ca35f1b0f3e5ed4-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 90
+    },
+    {
+      "_createdAt": "2026-09-13T12:25:17Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UNXI",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UNWJ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:25:17Z",
+      "alt": "2026 07 21 Event 3",
+      "caption": "2026 07 21 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-4ae7dfeabf74d472b18c4aca15f347b27cb15e30-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 91
+    },
+    {
+      "_createdAt": "2026-09-13T12:26:30Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Uecv",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Uebw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:26:30Z",
+      "alt": "2026 07 26 Event 1",
+      "caption": "2026 07 26 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-258ab37ae1a6a092f110809ad9ee81adb5268124-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 96
+    },
+    {
+      "_createdAt": "2026-09-13T12:26:59Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UfR6",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UfQ7",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:26:59Z",
+      "alt": "2026 07 26 Event 2",
+      "caption": "2026 07 26 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-f9ac2a047a99aa1ea26efe75c977561e5f8cd120-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 97
+    },
+    {
+      "_createdAt": "2026-09-13T12:27:28Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UgAM",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Ug9N",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:27:28Z",
+      "alt": "2026 07 30 Community 2",
+      "caption": "2026 07 30 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-c9dff5471e7b6fd3600adb1703f7e1c204a3fbab-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 99
+    },
+    {
+      "_createdAt": "2026-09-13T12:28:19Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UhyW",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UhxX",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:28:19Z",
+      "alt": "2026 08 02 Event 1",
+      "caption": "2026 08 02 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-832006776c1b764fc582d746ee6b86190ab94af1-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 101
+    },
+    {
+      "_createdAt": "2026-09-13T12:30:22Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Un7I",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Un6J",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:30:22Z",
+      "alt": "2026 08 04 Event 4",
+      "caption": "2026 08 04 Event 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-2759f019173d59f99bad8b512fc793d26632079a-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 105
+    },
+    {
+      "_createdAt": "2026-09-13T12:30:39Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UoF9",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UoEA",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:30:39Z",
+      "alt": "2026 08 04 Event 5",
+      "caption": "2026 08 04 Event 5",
+      "category": "events",
+      "image": {
+        "_ref": "image-ae1aa7547a6bf53a3349c8603e7cb212dc1a90bc-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 106
+    },
+    {
+      "_createdAt": "2026-09-13T12:31:15Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UpSu",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UpRv",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:31:15Z",
+      "alt": "2026 08 04 Event 7",
+      "caption": "2026 08 04 Event 7",
+      "category": "events",
+      "image": {
+        "_ref": "image-8f9374eb5837aade32847ce5256c424e0a46fb0f-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 108
+    },
+    {
+      "_createdAt": "2026-09-13T12:31:49Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UqtS",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UqsT",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:31:49Z",
+      "alt": "2026 08 06 Event 1",
+      "caption": "2026 08 06 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-43f4a460da70ba8470a32ca9350a42715180b9b3-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 110
+    },
+    {
+      "_createdAt": "2026-09-13T12:32:03Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UrE7",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UrD8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:32:03Z",
+      "alt": "2026 08 06 Event 2",
+      "caption": "2026 08 06 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-febd079fd6d92fde82575a36a1d09d42e182e3f9-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 111
+    },
+    {
+      "_createdAt": "2026-09-13T12:32:31Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UruQ",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UrtR",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:32:31Z",
+      "alt": "2026 08 06 Event 4",
+      "caption": "2026 08 06 Event 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-f1572c9ea556c0db784a888b1cfc3b9fc81bf8ad-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 113
+    },
+    {
+      "_createdAt": "2026-09-13T12:33:25Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0Uu8A",
+      "_rev": "Tr0DIJLi2qOh7HoSu0Uu7B",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:33:25Z",
+      "alt": "2026 08 07 Event 1",
+      "caption": "2026 08 07 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-5e60c933810b2adc9aef063aa654a2a1405f9a0d-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 116
+    },
+    {
+      "_createdAt": "2026-09-13T12:34:11Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0UvXj",
+      "_rev": "Tr0DIJLi2qOh7HoSu0UvWk",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:34:11Z",
+      "alt": "2026 08 13 Event 2",
+      "caption": "2026 08 13 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-4cd83aeddf0a7cb35e27268f958ec8cfdbe99445-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 119
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:14Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V1zB",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V1yC",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:14Z",
+      "alt": "Image 001",
+      "caption": "Image 001",
+      "category": "events",
+      "image": {
+        "_ref": "image-5092b1e41c5cbf79aaf395a49e20db3888f28f2e-627x400-jpg",
+        "_type": "reference"
+      },
+      "order": 125
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:20Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V2Ev",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V2Dw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:20Z",
+      "alt": "Image 004",
+      "caption": "Image 004",
+      "category": "events",
+      "image": {
+        "_ref": "image-eaa4709bf0e05d467071ec8d9b6d8c7720a82176-701x438-jpg",
+        "_type": "reference"
+      },
+      "order": 128
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:55Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V3Ue",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V3Tf",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:55Z",
+      "alt": "Additional Image 2",
+      "caption": "Additional Image 2",
+      "category": "home",
+      "image": {
+        "_ref": "image-115d9ac78bbe0adf7f7405cdbb2326016974a4f9-1600x1200-jpg",
+        "_type": "reference"
+      },
+      "order": 134
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:14Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V4Rg",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V4Qh",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:14Z",
+      "alt": "Additional Image 5",
+      "caption": "Additional Image 5",
+      "category": "home",
+      "image": {
+        "_ref": "image-c1cc3106dc15b11f2e1810d92ed6b23589274895-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 137
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:23Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V4kN",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V4jO",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:23Z",
+      "alt": "Community Elders",
+      "caption": "Community Elders",
+      "category": "home",
+      "image": {
+        "_ref": "image-9f9adfedb6a2a5b74f55a3f2683cf7b83bb76c38-963x1280-jpg",
+        "_type": "reference"
+      },
+      "order": 139
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:28Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V4tE",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V4sF",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:28Z",
+      "alt": "Community Meeting Indoor",
+      "caption": "Community Meeting Indoor",
+      "category": "home",
+      "image": {
+        "_ref": "image-c830816f1be3fc735f44e4d4ddb78b273fe9d44f-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 140
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:32Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V57z",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V570",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:32Z",
+      "alt": "Document Review",
+      "caption": "Document Review",
+      "category": "home",
+      "image": {
+        "_ref": "image-18f974683e4f7671732a6e227c6b14844d614c9a-963x1280-jpg",
+        "_type": "reference"
+      },
+      "order": 141
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:42Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V5Ph",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V5Oi",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:42Z",
+      "alt": "Group Discussion",
+      "caption": "Group Discussion",
+      "category": "home",
+      "image": {
+        "_ref": "image-115d9ac78bbe0adf7f7405cdbb2326016974a4f9-1600x1200-jpg",
+        "_type": "reference"
+      },
+      "order": 143
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:51Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V5dT",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V5cU",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:51Z",
+      "alt": "Lysate Processing",
+      "caption": "Lysate Processing",
+      "category": "home",
+      "image": {
+        "_ref": "image-4983bf952f1ef0d656aa807adba54607daf0a651-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 145
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:06Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V6Gp",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V6Fq",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:06Z",
+      "alt": "Planning Meeting Fips",
+      "caption": "Planning Meeting Fips",
+      "category": "home",
+      "image": {
+        "_ref": "image-7382b6fe64f06db765b3a849448d5fdd8b38bc9f-963x1280-jpg",
+        "_type": "reference"
+      },
+      "order": 149
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:31Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0V7VZ",
+      "_rev": "Tr0DIJLi2qOh7HoSu0V7Ua",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:31Z",
+      "alt": "Tree Planting Ceremony",
+      "caption": "Tree Planting Ceremony",
+      "category": "home",
+      "image": {
+        "_ref": "image-6b664791fd2f1cf52a0e78a5b1e16aaf1f086a57-1600x1200-jpg",
+        "_type": "reference"
+      },
+      "order": 154
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:36Z",
+      "_id": "Tr0DIJLi2qOh7HoSu0VAKh",
+      "_rev": "Tr0DIJLi2qOh7HoSu0VAJi",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:36Z",
+      "alt": "Lysate Processing",
+      "caption": "Lysate Processing",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-4983bf952f1ef0d656aa807adba54607daf0a651-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 166
+    },
+    {
+      "_createdAt": "2026-09-13T11:37:42Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4RgrQ",
+      "_rev": "ZQPEjdn9eR0GJkTFB4Rgms",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:37:42Z",
+      "alt": "2023 05 03 Community 1",
+      "caption": "2023 05 03 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-292872bebe9540253a3e11c74e4aebbf0c8475ff-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 10
+    },
+    {
+      "_createdAt": "2026-09-13T11:38:01Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4RlmA",
+      "_rev": "ZQPEjdn9eR0GJkTFB4Rlhc",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:38:01Z",
+      "alt": "2023 05 03 Community 2",
+      "caption": "2023 05 03 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-32b967b930213141e8630b67c2e765637157c52f-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 11
+    },
+    {
+      "_createdAt": "2026-09-13T11:38:57Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4RwPg",
+      "_rev": "ZQPEjdn9eR0GJkTFB4RwL8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:38:57Z",
+      "alt": "2023 05 26 Meeting 1",
+      "caption": "2023 05 26 Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-4d91c443f32f83761df1dc522b5c8e0edbf73dda-2296x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 16
+    },
+    {
+      "_createdAt": "2026-09-13T11:39:16Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4RzH4",
+      "_rev": "ZQPEjdn9eR0GJkTFB4RzCW",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:39:16Z",
+      "alt": "2023 07 25 Community 1",
+      "caption": "2023 07 25 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-5bc4edc86e7f066f6af7d109bec59129ea7d2867-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 18
+    },
+    {
+      "_createdAt": "2026-09-13T11:39:38Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4S28S",
+      "_rev": "ZQPEjdn9eR0GJkTFB4S23u",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:39:38Z",
+      "alt": "2023 09 01 Event 1",
+      "caption": "2023 09 01 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-f8a4919795f47b0fc8e8b110ad98ed6d561bf4b1-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 20
+    },
+    {
+      "_createdAt": "2026-09-13T11:39:52Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4S4PS",
+      "_rev": "ZQPEjdn9eR0GJkTFB4S4Ku",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:39:52Z",
+      "alt": "2023 09 05 Training 2",
+      "caption": "2023 09 05 Training 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-84d14b1431e19fb8d44a0bfb9f12c3bb6e237a93-1824x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 22
+    },
+    {
+      "_createdAt": "2026-09-13T11:40:01Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4S61W",
+      "_rev": "ZQPEjdn9eR0GJkTFB4S5wy",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:40:01Z",
+      "alt": "2023 09 18 Meeting 1",
+      "caption": "2023 09 18 Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-7efcaff48b24bdfdaa9bd48c4c35f9d1b0f27a11-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 23
+    },
+    {
+      "_createdAt": "2026-09-13T11:40:33Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4SAHK",
+      "_rev": "ZQPEjdn9eR0GJkTFB4SACm",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:40:33Z",
+      "alt": "2023 10 19 Planting 1",
+      "caption": "2023 10 19 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3421b46f75fe901f000bc3ad4595440ddfa6df61-4609x3470-jpg",
+        "_type": "reference"
+      },
+      "order": 25
+    },
+    {
+      "_createdAt": "2026-09-13T11:41:49Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4T5eA",
+      "_rev": "ZQPEjdn9eR0GJkTFB4T5Zc",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:41:49Z",
+      "alt": "2023 11 11 Event 1",
+      "caption": "2023 11 11 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-433074a2ebe209dc80ddbcd3820624ebefc94de6-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 29
+    },
+    {
+      "_createdAt": "2026-09-13T11:41:56Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4TDiU",
+      "_rev": "ZQPEjdn9eR0GJkTFB4TDdw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:41:56Z",
+      "alt": "2023 11 11 Event 2",
+      "caption": "2023 11 11 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-318542f81bcef0f39dedf8ba697bdcaed61393d7-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 30
+    },
+    {
+      "_createdAt": "2026-09-13T11:42:28Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4TxUg",
+      "_rev": "ZQPEjdn9eR0GJkTFB4TxQ8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:42:28Z",
+      "alt": "2023 11 13 Workshop 2",
+      "caption": "2023 11 13 Workshop 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-5a45543d5a61f343b0a07f2bcd2ffd91d7bd624a-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 32
+    },
+    {
+      "_createdAt": "2026-09-13T11:42:54Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4UQXq",
+      "_rev": "ZQPEjdn9eR0GJkTFB4UQTI",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:42:54Z",
+      "alt": "2024 01 24 Facebook 1",
+      "caption": "2024 01 24 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-16ec7931c03d8e3af34e99268cb5e6e25fa65609-720x721-jpg",
+        "_type": "reference"
+      },
+      "order": 36
+    },
+    {
+      "_createdAt": "2026-09-13T11:42:58Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4UWYo",
+      "_rev": "ZQPEjdn9eR0GJkTFB4UWUG",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:42:58Z",
+      "alt": "2024 02 01 Facebook 1",
+      "caption": "2024 02 01 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-7e025ae8a5bd1f9c0420cebf0867c35b45c4a661-540x372-jpg",
+        "_type": "reference"
+      },
+      "order": 37
+    },
+    {
+      "_createdAt": "2026-09-13T11:43:47Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4V64E",
+      "_rev": "ZQPEjdn9eR0GJkTFB4V5zg",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:43:47Z",
+      "alt": "2024 04 10 Event 2",
+      "caption": "2024 04 10 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-7a9c9b9f8d6eac4abbf159ce4c9a01678fc57ef9-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 41
+    },
+    {
+      "_createdAt": "2026-09-13T11:44:04Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4VBw6",
+      "_rev": "ZQPEjdn9eR0GJkTFB4VBrY",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:44:04Z",
+      "alt": "2024 09 15 Planting 3",
+      "caption": "2024 09 15 Planting 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-819e06455290ebab79c08af226a217fc235e3e05-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 44
+    },
+    {
+      "_createdAt": "2026-09-13T11:46:35Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4VzJA",
+      "_rev": "ZQPEjdn9eR0GJkTFB4VzEc",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:46:35Z",
+      "alt": "Community Meeting Indoor",
+      "caption": "Community Meeting Indoor",
+      "category": "about",
+      "image": {
+        "_ref": "image-c830816f1be3fc735f44e4d4ddb78b273fe9d44f-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 0
+    },
+    {
+      "_createdAt": "2026-09-13T11:46:45Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4W0ha",
+      "_rev": "ZQPEjdn9eR0GJkTFB4W0d2",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:46:45Z",
+      "alt": "Strategy Workshop",
+      "caption": "Strategy Workshop",
+      "category": "about",
+      "image": {
+        "_ref": "image-39555b99add35d7078402a58bed4e0f2eeaad63f-899x1599-jpg",
+        "_type": "reference"
+      },
+      "order": 2
+    },
+    {
+      "_createdAt": "2026-09-13T11:47:11Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4W3LK",
+      "_rev": "ZQPEjdn9eR0GJkTFB4W3Gm",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:47:11Z",
+      "alt": "2023 02 23 Community Meeting 2",
+      "caption": "2023 02 23 Community Meeting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-564b1e016818e125fe4fb2b664853856e65c6483-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 4
+    },
+    {
+      "_createdAt": "2026-09-13T11:48:00Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WEms",
+      "_rev": "ZQPEjdn9eR0GJkTFB4WEiK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:48:00Z",
+      "alt": "2023 03 24 Event 1",
+      "caption": "2023 03 24 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-cd8cc6655b7cc6ab54527002b8e7f1f51575403f-4080x1824-jpg",
+        "_type": "reference"
+      },
+      "order": 9
+    },
+    {
+      "_createdAt": "2026-09-13T11:48:29Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WIy8",
+      "_rev": "ZQPEjdn9eR0GJkTFB4WIta",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:48:29Z",
+      "alt": "2023 05 08 Facebook 1",
+      "caption": "2023 05 08 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-bc8f7c2ba2189fa6ea24d1fcf694300fb12d6faa-720x960-jpg",
+        "_type": "reference"
+      },
+      "order": 12
+    },
+    {
+      "_createdAt": "2026-09-13T11:48:42Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WKjI",
+      "_rev": "ZQPEjdn9eR0GJkTFB4WKek",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:48:42Z",
+      "alt": "2023 05 09 Planting 1",
+      "caption": "2023 05 09 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-0d394be448ad6b5b15fa1630c91f415ec96a0f29-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 13
+    },
+    {
+      "_createdAt": "2026-09-13T11:49:04Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WNss",
+      "_rev": "ZQPEjdn9eR0GJkTFB4WNoK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:49:04Z",
+      "alt": "2023 05 23 Event 1",
+      "caption": "2023 05 23 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-a1c4d1b01157cee90c093334079c05e74a216a65-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 15
+    },
+    {
+      "_createdAt": "2026-09-13T11:49:14Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WQfi",
+      "_rev": "ZQPEjdn9eR0GJkTFB4WQbA",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:49:14Z",
+      "alt": "2023 05 26 Meeting 1",
+      "caption": "2023 05 26 Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-4d91c443f32f83761df1dc522b5c8e0edbf73dda-2296x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 16
+    },
+    {
+      "_createdAt": "2026-09-13T11:49:33Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WTbe",
+      "_rev": "ZQPEjdn9eR0GJkTFB4WTX6",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:49:33Z",
+      "alt": "2023 07 25 Community 1",
+      "caption": "2023 07 25 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-5bc4edc86e7f066f6af7d109bec59129ea7d2867-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 18
+    },
+    {
+      "_createdAt": "2026-09-13T11:49:44Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WUmQ",
+      "_rev": "ZQPEjdn9eR0GJkTFB4WUhs",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:49:44Z",
+      "alt": "2023 07 25 Community 2",
+      "caption": "2023 07 25 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-041dbe74bee5f838d254cdbb4244b3caa84b4628-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 19
+    },
+    {
+      "_createdAt": "2026-09-13T11:49:58Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WXQA",
+      "_rev": "ZQPEjdn9eR0GJkTFB4WXLc",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:49:58Z",
+      "alt": "2023 09 05 Training 1",
+      "caption": "2023 09 05 Training 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-553d47244413ac70d598797c2a498f2170beb422-3264x1456-jpg",
+        "_type": "reference"
+      },
+      "order": 21
+    },
+    {
+      "_createdAt": "2026-09-13T11:50:50Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4WegS",
+      "_rev": "ZQPEjdn9eR0GJkTFB4Webu",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:50:50Z",
+      "alt": "2023 10 19 Planting 2",
+      "caption": "2023 10 19 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-edb6d15cc68e8be1d7155cb0c5d35c7bbcf6389e-3072x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 26
+    },
+    {
+      "_createdAt": "2026-09-13T11:51:07Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4Wk2U",
+      "_rev": "ZQPEjdn9eR0GJkTFB4Wjxw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:51:07Z",
+      "alt": "2023 10 20 Community 1",
+      "caption": "2023 10 20 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-66ff7c7eefd54d28d42ffadfcb5c3ab4dd643ea1-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 27
+    },
+    {
+      "_createdAt": "2026-09-13T11:53:02Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4X0KE",
+      "_rev": "ZQPEjdn9eR0GJkTFB4X0Fg",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:53:02Z",
+      "alt": "2024 03 05 Community 1",
+      "caption": "2024 03 05 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-0169710921b871ed91693b77daeb2017d4d2edb3-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 39
+    },
+    {
+      "_createdAt": "2026-09-13T11:53:50Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4XAWS",
+      "_rev": "ZQPEjdn9eR0GJkTFB4XARu",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:53:50Z",
+      "alt": "2024 09 15 Planting 1",
+      "caption": "2024 09 15 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-1794e472ccece725b6ac70d10ac364312f7d7ef7-1920x1080-jpg",
+        "_type": "reference"
+      },
+      "order": 42
+    },
+    {
+      "_createdAt": "2026-09-13T11:54:12Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4XF4S",
+      "_rev": "ZQPEjdn9eR0GJkTFB4XEzu",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:54:12Z",
+      "alt": "2024 09 21 Community 1",
+      "caption": "2024 09 21 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-66b3d7af2786f14f42251dd6564f5b259aa352de-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 46
+    },
+    {
+      "_createdAt": "2026-09-13T11:54:33Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4YaYW",
+      "_rev": "ZQPEjdn9eR0GJkTFB4YaTy",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:54:33Z",
+      "alt": "2024 10 04 Event 2",
+      "caption": "2024 10 04 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-da5432e15aa26d9c558e162c50fc43f8edef1a2c-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 48
+    },
+    {
+      "_createdAt": "2026-09-13T11:54:48Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4YcpW",
+      "_rev": "ZQPEjdn9eR0GJkTFB4Ycky",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:54:48Z",
+      "alt": "2024 10 04 Event 3",
+      "caption": "2024 10 04 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-d92528a42e926d23008fc770fc996b0ee032530f-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 49
+    },
+    {
+      "_createdAt": "2026-09-13T11:54:56Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4Ye4q",
+      "_rev": "ZQPEjdn9eR0GJkTFB4Ye0I",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:54:56Z",
+      "alt": "2024 10 04 Event 4",
+      "caption": "2024 10 04 Event 4",
+      "category": "events",
+      "image": {
+        "_ref": "image-9bf717bd54a7ed3e39aebef83272d820a6bc4950-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 50
+    },
+    {
+      "_createdAt": "2026-09-13T11:55:13Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4YhbA",
+      "_rev": "ZQPEjdn9eR0GJkTFB4YhWc",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:55:13Z",
+      "alt": "2024 10 07 Community 2",
+      "caption": "2024 10 07 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-8fa6acddea4397b70705d75fb5cce0016a5dd956-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 52
+    },
+    {
+      "_createdAt": "2026-09-13T11:56:20Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4YrVC",
+      "_rev": "ZQPEjdn9eR0GJkTFB4YrQe",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:56:20Z",
+      "alt": "2025 03 13 Event 1",
+      "caption": "2025 03 13 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-a859e5026c8b419ced20e3d16b8c089984e81acc-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 56
+    },
+    {
+      "_createdAt": "2026-09-13T11:57:12Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4YylU",
+      "_rev": "ZQPEjdn9eR0GJkTFB4Yygw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T11:57:12Z",
+      "alt": "2023 02 16 Community Meeting 1",
+      "caption": "2023 02 16 Community Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-baa11a4d62bb61c759aef0854a3ca3c2fad36198-3470x4609-jpg",
+        "_type": "reference"
+      },
+      "order": 3
+    },
+    {
+      "_createdAt": "2026-09-13T12:09:45Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4jaIg",
+      "_rev": "ZQPEjdn9eR0GJkTFB4jaE8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:09:45Z",
+      "alt": "2023 05 08 Facebook 1",
+      "caption": "2023 05 08 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-bc8f7c2ba2189fa6ea24d1fcf694300fb12d6faa-720x960-jpg",
+        "_type": "reference"
+      },
+      "order": 12
+    },
+    {
+      "_createdAt": "2026-09-13T12:10:18Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4jz62",
+      "_rev": "ZQPEjdn9eR0GJkTFB4jz1U",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:10:18Z",
+      "alt": "2023 05 23 Event 1",
+      "caption": "2023 05 23 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-a1c4d1b01157cee90c093334079c05e74a216a65-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 15
+    },
+    {
+      "_createdAt": "2026-09-13T12:10:30Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4k7AM",
+      "_rev": "ZQPEjdn9eR0GJkTFB4k75o",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:10:30Z",
+      "alt": "2023 05 26 Meeting 1",
+      "caption": "2023 05 26 Meeting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-4d91c443f32f83761df1dc522b5c8e0edbf73dda-2296x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 16
+    },
+    {
+      "_createdAt": "2026-09-13T12:10:37Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4kBLc",
+      "_rev": "ZQPEjdn9eR0GJkTFB4kBH4",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:10:37Z",
+      "alt": "2023 05 26 Meeting 2",
+      "caption": "2023 05 26 Meeting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-dee5f40bf241e1ecfc181fce6b5430f29821f163-2296x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 17
+    },
+    {
+      "_createdAt": "2026-09-13T12:10:50Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4kSII",
+      "_rev": "ZQPEjdn9eR0GJkTFB4kSDk",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:10:50Z",
+      "alt": "2023 07 25 Community 1",
+      "caption": "2023 07 25 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-5bc4edc86e7f066f6af7d109bec59129ea7d2867-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 18
+    },
+    {
+      "_createdAt": "2026-09-13T12:11:03Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4kxzC",
+      "_rev": "ZQPEjdn9eR0GJkTFB4kxue",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:11:03Z",
+      "alt": "2023 07 25 Community 2",
+      "caption": "2023 07 25 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-041dbe74bee5f838d254cdbb4244b3caa84b4628-4080x2296-jpg",
+        "_type": "reference"
+      },
+      "order": 19
+    },
+    {
+      "_createdAt": "2026-09-13T12:11:18Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4lVjS",
+      "_rev": "ZQPEjdn9eR0GJkTFB4lVeu",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:11:18Z",
+      "alt": "2023 09 05 Training 1",
+      "caption": "2023 09 05 Training 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-553d47244413ac70d598797c2a498f2170beb422-3264x1456-jpg",
+        "_type": "reference"
+      },
+      "order": 21
+    },
+    {
+      "_createdAt": "2026-09-13T12:11:25Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4lf36",
+      "_rev": "ZQPEjdn9eR0GJkTFB4leyY",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:11:25Z",
+      "alt": "2023 09 05 Training 2",
+      "caption": "2023 09 05 Training 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-84d14b1431e19fb8d44a0bfb9f12c3bb6e237a93-1824x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 22
+    },
+    {
+      "_createdAt": "2026-09-13T12:11:52Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4m4na",
+      "_rev": "ZQPEjdn9eR0GJkTFB4m4j2",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:11:52Z",
+      "alt": "2023 10 19 Planting 1",
+      "caption": "2023 10 19 Planting 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-3421b46f75fe901f000bc3ad4595440ddfa6df61-4609x3470-jpg",
+        "_type": "reference"
+      },
+      "order": 25
+    },
+    {
+      "_createdAt": "2026-09-13T12:12:05Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4mMG6",
+      "_rev": "ZQPEjdn9eR0GJkTFB4mMBY",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:12:05Z",
+      "alt": "2023 10 19 Planting 2",
+      "caption": "2023 10 19 Planting 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-edb6d15cc68e8be1d7155cb0c5d35c7bbcf6389e-3072x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 26
+    },
+    {
+      "_createdAt": "2026-09-13T12:12:38Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4myKi",
+      "_rev": "ZQPEjdn9eR0GJkTFB4myGA",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:12:38Z",
+      "alt": "2023 10 20 Community 2",
+      "caption": "2023 10 20 Community 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-86cc6c3ea082901c7f4661ef73c7c3a8147309ab-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 28
+    },
+    {
+      "_createdAt": "2026-09-13T12:13:31Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4nmaM",
+      "_rev": "ZQPEjdn9eR0GJkTFB4nmVo",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:13:31Z",
+      "alt": "2023 12 10 Event 1",
+      "caption": "2023 12 10 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-96bae1d39574c875e597900206ecc78c3dfde553-1824x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 33
+    },
+    {
+      "_createdAt": "2026-09-13T12:13:49Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4o1ls",
+      "_rev": "ZQPEjdn9eR0GJkTFB4o1hK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:13:49Z",
+      "alt": "2024 02 01 Facebook 1",
+      "caption": "2024 02 01 Facebook 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-7e025ae8a5bd1f9c0420cebf0867c35b45c4a661-540x372-jpg",
+        "_type": "reference"
+      },
+      "order": 37
+    },
+    {
+      "_createdAt": "2026-09-13T12:14:32Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4pM0c",
+      "_rev": "ZQPEjdn9eR0GJkTFB4pLw4",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:14:32Z",
+      "alt": "2024 04 10 Event 2",
+      "caption": "2024 04 10 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-7a9c9b9f8d6eac4abbf159ce4c9a01678fc57ef9-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 41
+    },
+    {
+      "_createdAt": "2026-09-13T12:15:48Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4qg1i",
+      "_rev": "ZQPEjdn9eR0GJkTFB4qfxA",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:15:48Z",
+      "alt": "2024 10 07 Community 1",
+      "caption": "2024 10 07 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-64aa2335f39b013c401cf608239a5e8eaa37ca68-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 51
+    },
+    {
+      "_createdAt": "2026-09-13T12:16:05Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4qwAM",
+      "_rev": "ZQPEjdn9eR0GJkTFB4qw5o",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:16:05Z",
+      "alt": "2024 10 07 Community 3",
+      "caption": "2024 10 07 Community 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-279b7dff789a908d5953e33eab3dd9c40e3c1359-3200x1440-jpg",
+        "_type": "reference"
+      },
+      "order": 53
+    },
+    {
+      "_createdAt": "2026-09-13T12:16:48Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4rWm0",
+      "_rev": "ZQPEjdn9eR0GJkTFB4rWhS",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:16:48Z",
+      "alt": "2025 03 13 Event 1",
+      "caption": "2025 03 13 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-a859e5026c8b419ced20e3d16b8c089984e81acc-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 56
+    },
+    {
+      "_createdAt": "2026-09-13T12:17:46Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4sFRy",
+      "_rev": "ZQPEjdn9eR0GJkTFB4sFNQ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:17:46Z",
+      "alt": "2025 04 24 Community 1",
+      "caption": "2025 04 24 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-ed73a2b94b07753125d646536e8fdb78422896c1-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 60
+    },
+    {
+      "_createdAt": "2026-09-13T12:21:20Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4v1Tw",
+      "_rev": "ZQPEjdn9eR0GJkTFB4v1PO",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:21:20Z",
+      "alt": "2026 05 30 Community 1",
+      "caption": "2026 05 30 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-67c6a2d8a1fae5be0b02c035578730cd64dc6045-4080x3060-jpg",
+        "_type": "reference"
+      },
+      "order": 75
+    },
+    {
+      "_createdAt": "2026-09-13T12:21:46Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4vFms",
+      "_rev": "ZQPEjdn9eR0GJkTFB4vFiK",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:21:46Z",
+      "alt": "2026 05 30 Community 3",
+      "caption": "2026 05 30 Community 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-5abba37817c24594f1c9b3a66f283d110b2e2aad-4080x3060-jpg",
+        "_type": "reference"
+      },
+      "order": 77
+    },
+    {
+      "_createdAt": "2026-09-13T12:22:10Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4vVC2",
+      "_rev": "ZQPEjdn9eR0GJkTFB4vV7U",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:22:10Z",
+      "alt": "2026 05 30 Event 2",
+      "caption": "2026 05 30 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-bd5c3c337d9df5fef6ec1a771cb0671e2659e241-4080x3060-jpg",
+        "_type": "reference"
+      },
+      "order": 79
+    },
+    {
+      "_createdAt": "2026-09-13T12:23:40Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4vyAe",
+      "_rev": "ZQPEjdn9eR0GJkTFB4vy66",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:23:40Z",
+      "alt": "2026 07 15 Event 1",
+      "caption": "2026 07 15 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-cf4436fe3319e8f1436f381439c1279adfc467af-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 86
+    },
+    {
+      "_createdAt": "2026-09-13T12:23:56Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4vyu8",
+      "_rev": "ZQPEjdn9eR0GJkTFB4vypa",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:23:56Z",
+      "alt": "2026 07 15 Event 2",
+      "caption": "2026 07 15 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-40a6ab2268dc0132cd71ec66c88e901d56df684c-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 87
+    },
+    {
+      "_createdAt": "2026-09-13T12:25:28Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4w8Dm",
+      "_rev": "ZQPEjdn9eR0GJkTFB4w89E",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:25:28Z",
+      "alt": "2026 07 23 Event 1",
+      "caption": "2026 07 23 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-7fe23b68971fa402ec48c308582171e3ce2fc154-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 92
+    },
+    {
+      "_createdAt": "2026-09-13T12:26:09Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4wD8W",
+      "_rev": "ZQPEjdn9eR0GJkTFB4wD3y",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:26:09Z",
+      "alt": "2026 07 25 Event 2",
+      "caption": "2026 07 25 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-64393cf35ee5ad52c46134180efe051dcd014334-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 95
+    },
+    {
+      "_createdAt": "2026-09-13T12:27:54Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4yCNo",
+      "_rev": "ZQPEjdn9eR0GJkTFB4yCJG",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:27:54Z",
+      "alt": "2026 07 31 Community 1",
+      "caption": "2026 07 31 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-979b304eb98bb1583ecbbddc1a4a6f694262c960-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 100
+    },
+    {
+      "_createdAt": "2026-09-13T12:28:40Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4yIgy",
+      "_rev": "ZQPEjdn9eR0GJkTFB4yIcQ",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:28:40Z",
+      "alt": "2026 08 04 Event 1",
+      "caption": "2026 08 04 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-79a24838a9f04d049faba09f528e1695f40666bc-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 102
+    },
+    {
+      "_createdAt": "2026-09-13T12:29:10Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4yL2W",
+      "_rev": "ZQPEjdn9eR0GJkTFB4yKxy",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:29:10Z",
+      "alt": "2026 08 04 Event 2",
+      "caption": "2026 08 04 Event 2",
+      "category": "events",
+      "image": {
+        "_ref": "image-abc6c65c4795430a678d007ee2ac2c92b9370641-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 103
+    },
+    {
+      "_createdAt": "2026-09-13T12:29:38Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4yPf4",
+      "_rev": "ZQPEjdn9eR0GJkTFB4yPaW",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:29:38Z",
+      "alt": "2026 08 04 Event 3",
+      "caption": "2026 08 04 Event 3",
+      "category": "events",
+      "image": {
+        "_ref": "image-befe4732f35285fdd0054ad9adbc270402aaa00f-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 104
+    },
+    {
+      "_createdAt": "2026-09-13T12:32:51Z",
+      "_id": "ZQPEjdn9eR0GJkTFB4zgEO",
+      "_rev": "ZQPEjdn9eR0GJkTFB4zg9q",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:32:51Z",
+      "alt": "2026 08 06 Event 5",
+      "caption": "2026 08 06 Event 5",
+      "category": "events",
+      "image": {
+        "_ref": "image-6f7a9cc6cc3c6b140fc306bd084462e1033d5cef-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 114
+    },
+    {
+      "_createdAt": "2026-09-13T12:33:09Z",
+      "_id": "ZQPEjdn9eR0GJkTFB50Gz8",
+      "_rev": "ZQPEjdn9eR0GJkTFB50Gua",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:33:09Z",
+      "alt": "2026 08 06 Event 6",
+      "caption": "2026 08 06 Event 6",
+      "category": "events",
+      "image": {
+        "_ref": "image-1ca639e00d8570740c04636ee59ecd9e97ad735b-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 115
+    },
+    {
+      "_createdAt": "2026-09-13T12:34:40Z",
+      "_id": "ZQPEjdn9eR0GJkTFB50v2Y",
+      "_rev": "ZQPEjdn9eR0GJkTFB50uy0",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:34:40Z",
+      "alt": "2026 08 18 Event 1",
+      "caption": "2026 08 18 Event 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-79f7a35bd0fdd227a7c28fc53c87292288cb7322-4080x3072-jpg",
+        "_type": "reference"
+      },
+      "order": 122
+    },
+    {
+      "_createdAt": "2026-09-13T12:34:55Z",
+      "_id": "ZQPEjdn9eR0GJkTFB50vzg",
+      "_rev": "ZQPEjdn9eR0GJkTFB50vv8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:34:55Z",
+      "alt": "2026 08 19 Community 1",
+      "caption": "2026 08 19 Community 1",
+      "category": "events",
+      "image": {
+        "_ref": "image-dcfb108edb86c0cf3a8ffa03538b2d16db0753b7-3072x4080-jpg",
+        "_type": "reference"
+      },
+      "order": 123
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:27Z",
+      "_id": "ZQPEjdn9eR0GJkTFB50z4i",
+      "_rev": "ZQPEjdn9eR0GJkTFB50z0A",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:27Z",
+      "alt": "Additional Agriculture 1",
+      "caption": "Additional Agriculture 1",
+      "category": "home",
+      "image": {
+        "_ref": "image-c1cc3106dc15b11f2e1810d92ed6b23589274895-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 129
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:40Z",
+      "_id": "ZQPEjdn9eR0GJkTFB512b2",
+      "_rev": "ZQPEjdn9eR0GJkTFB512WU",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:40Z",
+      "alt": "Additional Agriculture 3",
+      "caption": "Additional Agriculture 3",
+      "category": "home",
+      "image": {
+        "_ref": "image-4983bf952f1ef0d656aa807adba54607daf0a651-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 131
+    },
+    {
+      "_createdAt": "2026-09-13T12:35:44Z",
+      "_id": "ZQPEjdn9eR0GJkTFB5148Y",
+      "_rev": "ZQPEjdn9eR0GJkTFB51440",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:35:44Z",
+      "alt": "Additional Community 1",
+      "caption": "Additional Community 1",
+      "category": "home",
+      "image": {
+        "_ref": "image-18f974683e4f7671732a6e227c6b14844d614c9a-963x1280-jpg",
+        "_type": "reference"
+      },
+      "order": 132
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:09Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51A0Q",
+      "_rev": "ZQPEjdn9eR0GJkTFB519vs",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:09Z",
+      "alt": "Additional Image 4",
+      "caption": "Additional Image 4",
+      "category": "home",
+      "image": {
+        "_ref": "image-2e464dc33ce72a16957a967db46db55441792d21-1204x1600-jpg",
+        "_type": "reference"
+      },
+      "order": 136
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:19Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51Bug",
+      "_rev": "ZQPEjdn9eR0GJkTFB51Bq8",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:19Z",
+      "alt": "Bacis Files",
+      "caption": "Bacis Files",
+      "category": "home",
+      "image": {
+        "_ref": "image-1524f6e2e44cd5c78d57aee9e4c79e233dad114f-963x1280-jpg",
+        "_type": "reference"
+      },
+      "order": 138
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:55Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51KLk",
+      "_rev": "ZQPEjdn9eR0GJkTFB51KHC",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:55Z",
+      "alt": "Lysis Technology Banner",
+      "caption": "Lysis Technology Banner",
+      "category": "home",
+      "image": {
+        "_ref": "image-4d4ccdf6668432d8a76b628bc1c1090e881eeeae-899x1599-jpg",
+        "_type": "reference"
+      },
+      "order": 146
+    },
+    {
+      "_createdAt": "2026-09-13T12:36:58Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51L9m",
+      "_rev": "ZQPEjdn9eR0GJkTFB51L5E",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:36:58Z",
+      "alt": "Organic Waste Feedstock",
+      "caption": "Organic Waste Feedstock",
+      "category": "home",
+      "image": {
+        "_ref": "image-d324bdd145d2170763999e5eb935cfb7383bdd9f-330x220-jpg",
+        "_type": "reference"
+      },
+      "order": 147
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:02Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51LkA",
+      "_rev": "ZQPEjdn9eR0GJkTFB51Lfc",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:02Z",
+      "alt": "Outdoor Community Meeting",
+      "caption": "Outdoor Community Meeting",
+      "category": "home",
+      "image": {
+        "_ref": "image-c51cf57ab6b23394d12da78fbfeb23defbd62720-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 148
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:12Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51N8a",
+      "_rev": "ZQPEjdn9eR0GJkTFB51N42",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:12Z",
+      "alt": "Strategy Workshop",
+      "caption": "Strategy Workshop",
+      "category": "home",
+      "image": {
+        "_ref": "image-39555b99add35d7078402a58bed4e0f2eeaad63f-899x1599-jpg",
+        "_type": "reference"
+      },
+      "order": 150
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:16Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51OEo",
+      "_rev": "ZQPEjdn9eR0GJkTFB51OAG",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:16Z",
+      "alt": "Students Tree Planting",
+      "caption": "Students Tree Planting",
+      "category": "home",
+      "image": {
+        "_ref": "image-c830816f1be3fc735f44e4d4ddb78b273fe9d44f-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 151
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:20Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51PGU",
+      "_rev": "ZQPEjdn9eR0GJkTFB51PBw",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:20Z",
+      "alt": "Students Watering Tree",
+      "caption": "Students Watering Tree",
+      "category": "home",
+      "image": {
+        "_ref": "image-c830816f1be3fc735f44e4d4ddb78b273fe9d44f-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 152
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:42Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51RJq",
+      "_rev": "ZQPEjdn9eR0GJkTFB51RFI",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:42Z",
+      "alt": "Tree Seedlings",
+      "caption": "Tree Seedlings",
+      "category": "home",
+      "image": {
+        "_ref": "image-2e464dc33ce72a16957a967db46db55441792d21-1204x1600-jpg",
+        "_type": "reference"
+      },
+      "order": 155
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:46Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51S3K",
+      "_rev": "ZQPEjdn9eR0GJkTFB51Rym",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:46Z",
+      "alt": "Waste Feedstock",
+      "caption": "Waste Feedstock",
+      "category": "home",
+      "image": {
+        "_ref": "image-d324bdd145d2170763999e5eb935cfb7383bdd9f-330x220-jpg",
+        "_type": "reference"
+      },
+      "order": 156
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:50Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51VQY",
+      "_rev": "ZQPEjdn9eR0GJkTFB51VM0",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:50Z",
+      "alt": "Workshop Flipchart",
+      "caption": "Workshop Flipchart",
+      "category": "home",
+      "image": {
+        "_ref": "image-4cc762110f067e415b47d433d4ab1cc7eea0842d-963x1280-jpg",
+        "_type": "reference"
+      },
+      "order": 157
+    },
+    {
+      "_createdAt": "2026-09-13T12:37:55Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51WSE",
+      "_rev": "ZQPEjdn9eR0GJkTFB51WNg",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:37:55Z",
+      "alt": "Additional Agriculture 1",
+      "caption": "Additional Agriculture 1",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-c1cc3106dc15b11f2e1810d92ed6b23589274895-1280x960-jpg",
+        "_type": "reference"
+      },
+      "order": 158
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:08Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51aGk",
+      "_rev": "ZQPEjdn9eR0GJkTFB51aCC",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:08Z",
+      "alt": "Additional Agriculture 3",
+      "caption": "Additional Agriculture 3",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-4983bf952f1ef0d656aa807adba54607daf0a651-1280x963-jpg",
+        "_type": "reference"
+      },
+      "order": 160
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:32Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51fYE",
+      "_rev": "ZQPEjdn9eR0GJkTFB51fTg",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:32Z",
+      "alt": "Industrial Park Front Aerial",
+      "caption": "Industrial Park Front Aerial",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-e960e1988de1915931b6ebe5bc1779ce6db6824a-3508x2480-jpg",
+        "_type": "reference"
+      },
+      "order": 165
+    },
+    {
+      "_createdAt": "2026-09-13T12:38:41Z",
+      "_id": "ZQPEjdn9eR0GJkTFB51gVM",
+      "_rev": "ZQPEjdn9eR0GJkTFB51gQo",
+      "_type": "galleryImage",
+      "_updatedAt": "2026-09-13T12:38:41Z",
+      "alt": "Sugar Beet Field",
+      "caption": "Sugar Beet Field",
+      "category": "solutions",
+      "image": {
+        "_ref": "image-b6cbfa9709e4868ca6f527fd4fabf18b6fa2252c-1034x827-jpg",
+        "_type": "reference"
+      },
+      "order": 167
+    }
+  ]
+}
