@@ -153,7 +153,7 @@ Required variables:
 
 ## 📞 Contact
 
-- **Email:** shikukuwabwire30@gmail.com
+- **Email:** bunyalaagrclimate@gmail.com
 - **Phone:** 0720 060 431 / 0721 137 003
 - **Location:** Busia County, Western Kenya
 

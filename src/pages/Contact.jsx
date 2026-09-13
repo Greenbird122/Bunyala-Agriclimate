@@ -37,7 +37,7 @@ export default function Contact() {
     <>
       <Helmet>
         <title>Contact Us | Bunyala Agri-Climate Industrial Park Limited</title>
-        <meta name="description" content="Contact Bunyala Agri-Climate Industrial Park Limited. Located in Busia County, Western Kenya. Email: shikukuwabwire30@gmail.com, Phone: 0720060431" />
+        <meta name="description" content="Contact Bunyala Agri-Climate Industrial Park Limited. Located in Busia County, Western Kenya. Email: bunyalaagrclimate@gmail.com, Phone: 0720060431" />
         <meta property="og:title" content="Contact Us | Bunyala Agri-Climate Industrial Park Limited" />
         <meta property="og:description" content="Let's Build the Blue-Green Circular Economy Together. Get in touch with us." />
         <link rel="canonical" href="https://bunyala-agriclimate.org/contact" />
@@ -52,7 +52,7 @@ export default function Contact() {
               "@type": "Organization",
               "name": "Bunyala Agri-Climate Industrial Park Limited",
               "telephone": "+254720060431",
-              "email": "shikukuwabwire30@gmail.com",
+              "email": "bunyalaagrclimate@gmail.com",
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Busia",
@@ -85,7 +85,7 @@ export default function Contact() {
                 
                 <div className="space-y-6">
                   <a
-                    href="mailto:shikukuwabwire30@gmail.com"
+                    href="mailto:bunyalaagrclimate@gmail.com"
                     className="flex items-start space-x-4 p-4 bg-neutral dark:bg-dark-card rounded-xl border border-gray-200 dark:border-dark-border hover:border-primary dark:hover:border-green-400 transition-colors group"
                   >
                     <div className="w-12 h-12 bg-primary/10 dark:bg-green-400/10 rounded-xl flex items-center justify-center flex-shrink-0 group-hover:scale-110 transition-transform">
@@ -93,7 +93,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <p className="text-sm text-gray-500 dark:text-gray-400 mb-1">{t('contact.email')}</p>
-                      <p className="text-gray-900 dark:text-white font-medium text-[0.9375rem]">shikukuwabwire30@gmail.com</p>
+                      <p className="text-gray-900 dark:text-white font-medium text-[0.9375rem]">bunyalaagrclimate@gmail.com</p>
                     </div>
                   </a>
 

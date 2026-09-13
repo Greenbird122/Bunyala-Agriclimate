@@ -210,7 +210,7 @@ Each solution page should include:
 - Contact information display (no form):
   - Location: Busia County, Western Kenya
   - Region: Lake Victoria Basin, East Africa
-  - Email: shikukuwabwire30@gmail.com
+  - Email: bunyalaagrclimate@gmail.com
   - Phone: 0720060431 / 0721137003
 - Social media links: Facebook, LinkedIn, WhatsApp, Email
 - Partnership areas: Invest, Distribute, Supply, Partner, Research, Support, Buy

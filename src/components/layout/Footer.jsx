@@ -105,11 +105,11 @@ export default function Footer() {
             <h4 className="text-lg font-semibold mb-4">{t('footer.contact_info')}</h4>
             <div className="space-y-3">
               <a
-                href="mailto:shikukuwabwire30@gmail.com"
+                href="mailto:bunyalaagrclimate@gmail.com"
                 className="flex items-start space-x-3 text-white/70 hover:text-white text-sm transition-colors group"
               >
                 <Mail className="w-5 h-5 mt-0.5 flex-shrink-0 group-hover:scale-110 transition-transform" />
-                <span>shikukuwabwire30@gmail.com</span>
+                <span>bunyalaagrclimate@gmail.com</span>
               </a>
               <a
                 href="tel:0720060431"

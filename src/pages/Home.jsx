@@ -59,7 +59,7 @@ export default function Home() {
             "contactPoint": {
               "@type": "ContactPoint",
               "telephone": "+254720060431",
-              "email": "shikukuwabwire30@gmail.com",
+              "email": "bunyalaagrclimate@gmail.com",
               "contactType": "customer service"
             },
             "sameAs": [
