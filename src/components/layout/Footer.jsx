@@ -11,6 +11,7 @@ const quickLinks = [
   { path: '/solutions', labelKey: 'nav.solutions' },
   { path: '/impact', labelKey: 'nav.impact' },
   { path: '/team', labelKey: 'nav.team' },
+  { path: '/gallery', labelKey: 'nav.gallery' },
   { path: '/contact', labelKey: 'nav.contact' },
 ];
 

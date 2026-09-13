@@ -13,6 +13,7 @@ const staticGalleries = {
   impact: impactGalleryImages,
   about: aboutGalleryImages,
   home: [...aboutGalleryImages.slice(0, 3), ...impactGalleryImages.slice(0, 3)],
+  all: [...facilityImages, ...eventImages, ...impactGalleryImages, ...aboutGalleryImages],
 };
 
 // Pick the strongest available image URL from a Sanity gallery doc.
@@ -57,7 +58,11 @@ export function useGalleryImages(category) {
       if (!sanityClient) return;
 
       try {
-        const data = await sanityClient.fetch(queries.galleryImagesByCategory, { category: category || '' });
+        const isAll = category === 'all';
+        const data = await sanityClient.fetch(
+          isAll ? queries.galleryImages : queries.galleryImagesByCategory,
+          isAll ? {} : { category: category || '' }
+        );
         if (isMounted) {
           const normalized = normalizeImages(data);
           if (normalized.length > 0) {

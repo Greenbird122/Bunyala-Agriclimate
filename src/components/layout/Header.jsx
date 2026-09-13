@@ -16,6 +16,13 @@ const navLinks = [
   { path: '/contact', labelKey: 'nav.contact' },
 ];
 
+// Mobile menu has room for one more item than the desktop bar
+const mobileNavLinks = [
+  ...navLinks.slice(0, -1),
+  { path: '/gallery', labelKey: 'nav.gallery' },
+  navLinks[navLinks.length - 1],
+];
+
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
@@ -241,7 +248,7 @@ export default function Header() {
           aria-label="Mobile navigation"
         >
           <div className="max-w-7xl mx-auto px-4 py-4 space-y-1">
-            {navLinks.map((link) => (
+            {mobileNavLinks.map((link) => (
               <Link
                 key={link.path}
                 to={link.path}
