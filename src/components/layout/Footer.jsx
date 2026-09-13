@@ -52,13 +52,11 @@ export default function Footer() {
           {/* Company Info */}
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-3 mb-4">
-              <div className="w-12 h-12 rounded-xl bg-white/10 p-2 flex items-center justify-center">
-                <img 
-                  src={logoImg} 
-                  alt="Bunyala Agri-Climate Logo" 
-                  className="w-full h-full object-contain"
-                />
-              </div>
+              <img
+                src={logoImg}
+                alt="Bunyala Agri-Climate Logo"
+                className="w-16 h-16 rounded-xl object-cover ring-1 ring-white/20"
+              />
               <div>
                 <div className="font-semibold text-white leading-tight">Bunyala Agri-Climate</div>
                 <div className="text-xs text-white/60 leading-tight">Industrial Park Limited</div>

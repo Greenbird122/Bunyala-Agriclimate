@@ -120,9 +120,9 @@ export default function Header() {
             <img
               src={logoImg}
               alt="Bunyala Agri-Climate logo"
-              className="w-12 h-12 lg:w-16 lg:h-16 rounded-full shadow-md object-contain hover:scale-105 transition-transform bg-white"
-              width={48}
-              height={48}
+              className="h-16 w-16 lg:h-20 lg:w-20 rounded-2xl object-cover shadow-md ring-1 ring-primary/10 hover:scale-105 transition-transform"
+              width={64}
+              height={64}
             />
             <div className="hidden sm:block">
               <div className="text-sm lg:text-base font-semibold text-primary dark:text-green-400 leading-tight">
