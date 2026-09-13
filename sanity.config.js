@@ -5,10 +5,10 @@
 import { defineConfig } from 'sanity';
 import { structureTool } from 'sanity/structure';
 import { presentationTool } from 'sanity/presentation';
-import article from './schemas/article';
-import author from './schemas/author';
-import teamMember from './schemas/teamMember';
-import galleryImage from './schemas/galleryImage';
+import article from './sanity/schemas/article';
+import author from './sanity/schemas/author';
+import teamMember from './sanity/schemas/teamMember';
+import galleryImage from './sanity/schemas/galleryImage';
 
 export default defineConfig({
   name: 'bunyala-news',

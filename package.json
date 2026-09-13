@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "studio": "sanity dev --config sanity/sanity.config.js"
+    "studio": "sanity dev"
   },
   "dependencies": {
     "@sanity/client": "^8.6.1",
@@ -26,6 +26,7 @@
     "@vitejs/plugin-react": "^6.1.0",
     "oxlint": "^1.79.0",
     "sanity": "^6.13.2",
+    "styled-components": "^6.5.3",
     "tailwindcss": "^4.3.3",
     "vite": "^8.2.2"
   }
