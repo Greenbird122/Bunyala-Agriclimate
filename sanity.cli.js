@@ -6,5 +6,8 @@ export default defineCliConfig({
     dataset: 'production',
   },
   studioHost: 'bunyala-agriclimate',
-  deployment: { autoUpdates: true },
+  deployment: {
+    autoUpdates: true,
+    appId: 'smqxnsicmjj3hoirosglu2w3',
+  },
 })
